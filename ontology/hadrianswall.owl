@@ -10,11 +10,11 @@
      xmlns:xml="http://www.w3.org/XML/1998/namespace"
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
      xmlns:epsg="http://www.opengis.net/def/crs/EPSG/0/"
+     xmlns:fort="http://hadrianswall.squirrel.link/fort#"
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:road="http://hadrianswall.squirrel.link/road#"
      xmlns:site="http://hadrianswall.squirrel.link/site#"
      xmlns:wall="http://hadrianswall.squirrel.link/wall#"
-	 xmlns:road="http://hadrianswall.squirrel.link/road#"
-	 xmlns:fort="http://hadrianswall.squirrel.link/fort#"
      xmlns:semgis="http://semgis.de/geodata#"
      xmlns:ontology="http://hadrianswall.squirrel.link/ontology#"
      xmlns:geosparql="http://www.opengis.net/ont/geosparql#">
@@ -271,7 +271,7 @@
     <!-- http://hadrianswall.squirrel.link/ontology#FortType -->
 
     <owl:Class rdf:about="http://hadrianswall.squirrel.link/ontology#FortType">
-        <rdfs:subClassOf rdf:resource="http://hadrianswall.squirrel.link/ontology#Type"/>
+        <rdfs:subClassOf rdf:resource="http://hadrianswall.squirrel.link/ontology#Fort"/>
         <rdfs:label xml:lang="en">Fort Type</rdfs:label>
     </owl:Class>
     
@@ -317,7 +317,7 @@
     <!-- http://hadrianswall.squirrel.link/ontology#WallType -->
 
     <owl:Class rdf:about="http://hadrianswall.squirrel.link/ontology#WallType">
-        <rdfs:subClassOf rdf:resource="http://hadrianswall.squirrel.link/ontology#Type"/>
+        <rdfs:subClassOf rdf:resource="http://hadrianswall.squirrel.link/ontology#HadriansWall"/>
         <rdfs:label xml:lang="en">Wall Type</rdfs:label>
     </owl:Class>
     
