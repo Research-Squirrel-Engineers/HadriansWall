@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<data>
+<file class="http://hadrianswall.squirrel.link/ontology#RomanRoad" indid="OBJECTID_1" 
+namespace="http://hadrianswall.squirrel.link/road#"
+attnamespace="http://hadrianswall.squirrel.link/ontology#" epsg="4326" nometadata="true" attachepsg="true">
+	
+	<column name="road_name" prop="annotation" propiri="http://www.w3.org/2000/01/rdf-schema#label" range="http://www.w3.org/2001/XMLSchema#string"/> 
+	
+	<column name="road_name" prop="data" propiri="http://www.spp-haefen.de/ontology#road_name" range="http://www.w3.org/2001/XMLSchema#string"/> 
+	
+	<column name="margary_re" prop="data" propiri="http://www.spp-haefen.de/ontology#margary_re" range="http://www.w3.org/2001/XMLSchema#string"/> 
+	
+	<column name="CLASS" prop="subclass" namespace="http://hadrianswall.squirrel.link/ontology#"/> 
+	
+	<column name="Certainty" prop="data" propiri="http://www.spp-haefen.de/ontology#certainty" range="http://www.w3.org/2001/XMLSchema#string"/> 
+	
+	<column name="from_to" prop="data" propiri="http://www.spp-haefen.de/ontology#from_to" range="http://www.w3.org/2001/XMLSchema#string" concept="https://www.wikidata.org/wiki/Q486972"/>
+
+	<test>
+		<valuemapping from="test" to="Q64"/>
+	</test>
+				
+</file>
+</data>

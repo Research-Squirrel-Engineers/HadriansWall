@@ -1,0 +1,421 @@
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+
+<http://hadrianswall.squirrel.link/site#2_geom>
+        a       <http://www.opengis.net/ont/sf#the_geom> ;
+        <http://www.opengis.net/ont/geosparql#asWKT>
+                "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT (-3.265304424578558 54.93514439155905)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+
+<http://hadrianswall.squirrel.link/site#21_geom>
+        a       <http://www.opengis.net/ont/sf#the_geom> ;
+        <http://www.opengis.net/ont/geosparql#asWKT>
+                "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT (-3.450468463591313 54.746540357295615)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+
+<http://hadrianswall.squirrel.link/site#15>
+        a           <http://hadrianswall.squirrel.link/ontology#Tower> , <http://hadrianswall.squirrel.link/ontology#CoastalSite> ;
+        rdfs:label  "Tower 13b (Wolsty South)" ;
+        <http://www.opengis.net/ont/geosparql#hasGeometry>
+                <http://hadrianswall.squirrel.link/site#15_geom> ;
+        <http://www.spp-haefen.de/ontology#name>
+                "Tower 13b" , "Wolsty South" , "Tower 13b (Wolsty South)" .
+
+<http://hadrianswall.squirrel.link/site#1_geom>
+        a       <http://www.opengis.net/ont/sf#the_geom> ;
+        <http://www.opengis.net/ont/geosparql#asWKT>
+                "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT (-3.237203759832432 54.94532711412995)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+
+<http://hadrianswall.squirrel.link/site#20_geom>
+        a       <http://www.opengis.net/ont/sf#the_geom> ;
+        <http://www.opengis.net/ont/geosparql#asWKT>
+                "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT (-3.446023073076322 54.74980487103721)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+
+<http://hadrianswall.squirrel.link/site#28>
+        a           <http://hadrianswall.squirrel.link/ontology#Tower> , <http://hadrianswall.squirrel.link/ontology#CoastalSite> ;
+        rdfs:label  "Tower 25b (Fothergill)" ;
+        <http://www.opengis.net/ont/geosparql#hasGeometry>
+                <http://hadrianswall.squirrel.link/site#28_geom> ;
+        <http://www.spp-haefen.de/ontology#name>
+                "Tower 25b" , "Fothergill" , "Tower 25b (Fothergill)" .
+
+<http://hadrianswall.squirrel.link/site#18_geom>
+        a       <http://www.opengis.net/ont/sf#the_geom> ;
+        <http://www.opengis.net/ont/geosparql#asWKT>
+                "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT (-3.425434491401715 54.81795946784257)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+
+<http://semgis.de/geodata#propOrder>
+        a       owl:AnnotationProperty .
+
+<http://hadrianswall.squirrel.link/site#9>
+        a           <http://hadrianswall.squirrel.link/ontology#Milefortlet> , <http://hadrianswall.squirrel.link/ontology#CoastalSite> ;
+        rdfs:label  "Milefortlet 5 (Cardurnock)" ;
+        <http://www.opengis.net/ont/geosparql#hasGeometry>
+                <http://hadrianswall.squirrel.link/site#9_geom> ;
+        <http://www.spp-haefen.de/ontology#name>
+                "Milefortlet 5" , "Cardurnock" , "Milefortlet 5 (Cardurnock)" .
+
+<http://hadrianswall.squirrel.link/site#22>
+        a           <http://hadrianswall.squirrel.link/ontology#Tower> , <http://hadrianswall.squirrel.link/ontology#CoastalSite> ;
+        rdfs:label  "Tower 21b (Brownrigg North)" ;
+        <http://www.opengis.net/ont/geosparql#hasGeometry>
+                <http://hadrianswall.squirrel.link/site#22_geom> ;
+        <http://www.spp-haefen.de/ontology#name>
+                "Tower 21b" , "Brownrigg North" , "Tower 21b (Brownrigg North)" .
+
+<http://hadrianswall.squirrel.link/site#17_geom>
+        a       <http://www.opengis.net/ont/sf#the_geom> ;
+        <http://www.opengis.net/ont/geosparql#asWKT>
+                "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT (-3.436895029841435 54.79707023168006)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+
+<http://hadrianswall.squirrel.link/site#4_geom>
+        a       <http://www.opengis.net/ont/sf#the_geom> ;
+        <http://www.opengis.net/ont/geosparql#asWKT>
+                "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT (-3.279196477011767 54.931450740208405)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+
+<http://hadrianswall.squirrel.link/site#3>
+        a           <http://hadrianswall.squirrel.link/ontology#Milefortlet> , <http://hadrianswall.squirrel.link/ontology#CoastalSite> ;
+        rdfs:label  "Milefortlet 3 (Pasture House)" ;
+        <http://www.opengis.net/ont/geosparql#hasGeometry>
+                <http://hadrianswall.squirrel.link/site#3_geom> ;
+        <http://www.spp-haefen.de/ontology#name>
+                "Milefortlet 3" , "Pasture House" , "Milefortlet 3 (Pasture House)" .
+
+<http://hadrianswall.squirrel.link/site#23_geom>
+        a       <http://www.opengis.net/ont/sf#the_geom> ;
+        <http://www.opengis.net/ont/geosparql#asWKT>
+                "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT (-3.466011332567504 54.73621958683668)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+
+<http://www.opengis.net/ont/geosparql#Feature>
+        a                owl:Class ;
+        rdfs:subClassOf  <http://www.opengis.net/ont/geosparql#SpatialObject> .
+
+<http://hadrianswall.squirrel.link/site#3_geom>
+        a       <http://www.opengis.net/ont/sf#the_geom> ;
+        <http://www.opengis.net/ont/geosparql#asWKT>
+                "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT (-3.271640405672733 54.932722438144765)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+
+<http://hadrianswall.squirrel.link/site#22_geom>
+        a       <http://www.opengis.net/ont/sf#the_geom> ;
+        <http://www.opengis.net/ont/geosparql#asWKT>
+                "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT (-3.460249151253318 54.738907101246674)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+
+<http://hadrianswall.squirrel.link/site#14>
+        a           <http://hadrianswall.squirrel.link/ontology#Tower> , <http://hadrianswall.squirrel.link/ontology#CoastalSite> ;
+        rdfs:label  "Tower 13a (Wolsty North)" ;
+        <http://www.opengis.net/ont/geosparql#hasGeometry>
+                <http://hadrianswall.squirrel.link/site#14_geom> ;
+        <http://www.spp-haefen.de/ontology#name>
+                "Tower 13a" , "Wolsty North" , "Tower 13a (Wolsty North)" .
+
+<http://hadrianswall.squirrel.link/site#27>
+        a           <http://hadrianswall.squirrel.link/ontology#Milefortlet> , <http://hadrianswall.squirrel.link/ontology#CoastalSite> ;
+        rdfs:label  "Milefortlet 16 (Mawbray)" ;
+        <http://www.opengis.net/ont/geosparql#hasGeometry>
+                <http://hadrianswall.squirrel.link/site#27_geom> ;
+        <http://www.spp-haefen.de/ontology#name>
+                "Milefortlet 16" , "Mawbray" , "Milefortlet 16 (Mawbray)" .
+
+<http://www.opengis.net/ont/sf#the_geom>
+        a                owl:Class ;
+        rdfs:subClassOf  <http://www.opengis.net/ont/geosparql#Geometry> .
+
+<http://hadrianswall.squirrel.link/site#26_geom>
+        a       <http://www.opengis.net/ont/sf#the_geom> ;
+        <http://www.opengis.net/ont/geosparql#asWKT>
+                "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT (-3.430909996534278 54.805345211811904)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+
+<http://hadrianswall.squirrel.link/site#8>
+        a           <http://hadrianswall.squirrel.link/ontology#Tower> , <http://hadrianswall.squirrel.link/ontology#CoastalSite> ;
+        rdfs:label  "Tower 4b (Cardurnock)" ;
+        <http://www.opengis.net/ont/geosparql#hasGeometry>
+                <http://hadrianswall.squirrel.link/site#8_geom> ;
+        <http://www.spp-haefen.de/ontology#name>
+                "Tower 4b" , "Cardurnock" , "Tower 4b (Cardurnock)" .
+
+<http://hadrianswall.squirrel.link/site#21>
+        a           <http://hadrianswall.squirrel.link/ontology#Milefortlet> , <http://hadrianswall.squirrel.link/ontology#CoastalSite> ;
+        rdfs:label  "Milefortlet 21 (Swarthy Hill)" ;
+        <http://www.opengis.net/ont/geosparql#hasGeometry>
+                <http://hadrianswall.squirrel.link/site#21_geom> ;
+        <http://www.spp-haefen.de/ontology#name>
+                "Milefortlet 21" , "Swarthy Hill" , "Milefortlet 21 (Swarthy Hill)" .
+
+<http://hadrianswall.squirrel.link/site#19_geom>
+        a       <http://www.opengis.net/ont/sf#the_geom> ;
+        <http://www.opengis.net/ont/geosparql#asWKT>
+                "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT (-3.436171928922824 54.75653619430856)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+
+<http://www.opengis.net/ont/geosparql#hasGeometry>
+        a       owl:ObjectProperty .
+
+<http://hadrianswall.squirrel.link/site#6_geom>
+        a       <http://www.opengis.net/ont/sf#the_geom> ;
+        <http://www.opengis.net/ont/geosparql#asWKT>
+                "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT (-3.289535044125926 54.92623232387374)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+
+<http://hadrianswall.squirrel.link/site#25_geom>
+        a       <http://www.opengis.net/ont/sf#the_geom> ;
+        <http://www.opengis.net/ont/geosparql#asWKT>
+                "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT (-3.511837211946502 54.70073848455371)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+
+<http://hadrianswall.squirrel.link/site#2>
+        a           <http://hadrianswall.squirrel.link/ontology#Tower> , <http://hadrianswall.squirrel.link/ontology#CoastalSite> ;
+        rdfs:label  "Tower 2b (Campfield)" ;
+        <http://www.opengis.net/ont/geosparql#hasGeometry>
+                <http://hadrianswall.squirrel.link/site#2_geom> ;
+        <http://www.spp-haefen.de/ontology#name>
+                "Tower 2b" , "Campfield" , "Tower 2b (Campfield)" .
+
+<http://hadrianswall.squirrel.link/site#19>
+        a           <http://hadrianswall.squirrel.link/ontology#Milefortlet> , <http://hadrianswall.squirrel.link/ontology#CoastalSite> ;
+        rdfs:label  "Milefortlet 20 (Low Mire)" ;
+        <http://www.opengis.net/ont/geosparql#hasGeometry>
+                <http://hadrianswall.squirrel.link/site#19_geom> ;
+        <http://www.spp-haefen.de/ontology#name>
+                "Milefortlet 20" , "Low Mire" , "Milefortlet 20 (Low Mire)" .
+
+<http://www.opengis.net/ont/geosparql#asWKT>
+        a       owl:DatatypeProperty .
+
+<http://hadrianswall.squirrel.link/site#5_geom>
+        a       <http://www.opengis.net/ont/sf#the_geom> ;
+        <http://www.opengis.net/ont/geosparql#asWKT>
+                "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT (-3.28680908637216 54.930721953935866)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+
+<http://hadrianswall.squirrel.link/site#24_geom>
+        a       <http://www.opengis.net/ont/sf#the_geom> ;
+        <http://www.opengis.net/ont/geosparql#asWKT>
+                "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT (-3.484765844561137 54.727840147975705)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+
+<http://hadrianswall.squirrel.link/site#13>
+        a           <http://hadrianswall.squirrel.link/ontology#Tower> , <http://hadrianswall.squirrel.link/ontology#CoastalSite> ;
+        rdfs:label  "Tower 12b (Blitterlees South)" ;
+        <http://www.opengis.net/ont/geosparql#hasGeometry>
+                <http://hadrianswall.squirrel.link/site#13_geom> ;
+        <http://www.spp-haefen.de/ontology#name>
+                "Tower 12b" , "Blitterlees South" , "Tower 12b (Blitterlees South)" .
+
+<http://www.spp-haefen.de/ontology#name>
+        a           owl:DatatypeProperty ;
+        rdfs:label  "name3"@en ;
+        rdfs:range  xsd:string .
+
+<http://hadrianswall.squirrel.link/site#26>
+        a           <http://hadrianswall.squirrel.link/ontology#Tower> , <http://hadrianswall.squirrel.link/ontology#CoastalSite> ;
+        rdfs:label  "Tower 16A (Cote Howe)" ;
+        <http://www.opengis.net/ont/geosparql#hasGeometry>
+                <http://hadrianswall.squirrel.link/site#26_geom> ;
+        <http://www.spp-haefen.de/ontology#name>
+                "Tower 16a" , "Cote Howe" , "Tower 16A (Cote Howe)" .
+
+<http://hadrianswall.squirrel.link/site#28_geom>
+        a       <http://www.opengis.net/ont/sf#the_geom> ;
+        <http://www.opengis.net/ont/geosparql#asWKT>
+                "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT (-3.513533870764065 54.69615691272743)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+
+rdfs:label  a       owl:AnnotationProperty ;
+        rdfs:label  "name"@en .
+
+<http://hadrianswall.squirrel.link/site#7>
+        a           <http://hadrianswall.squirrel.link/ontology#Tower> , <http://hadrianswall.squirrel.link/ontology#CoastalSite> ;
+        rdfs:label  "Tower 4a (Pow Drain)" ;
+        <http://www.opengis.net/ont/geosparql#hasGeometry>
+                <http://hadrianswall.squirrel.link/site#7_geom> ;
+        <http://www.spp-haefen.de/ontology#name>
+                "Tower 4a" , "Pow Drain" , "Tower 4a (Pow Drain)" .
+
+<http://hadrianswall.squirrel.link/site#20>
+        a           <http://hadrianswall.squirrel.link/ontology#Tower> , <http://hadrianswall.squirrel.link/ontology#CoastalSite> ;
+        rdfs:label  "Tower 20b (Swarthy Hill North)" ;
+        <http://www.opengis.net/ont/geosparql#hasGeometry>
+                <http://hadrianswall.squirrel.link/site#20_geom> ;
+        <http://www.spp-haefen.de/ontology#name>
+                "Tower 20b" , "Swarthy Hill North" , "Tower 20b (Swarthy Hill North)" .
+
+<http://hadrianswall.squirrel.link/ontology#CoastalSite>
+        a                owl:Class ;
+        rdfs:subClassOf  <http://www.opengis.net/ont/geosparql#Feature> ;
+        <http://semgis.de/geodata#propOrder>
+                "OBJECTID;POINT_Y;name3;POINT_X;name;name2;the_geom;fort_type;" ;
+        <http://semgis.de/geodata#standard>
+                "coastal_sites_hw.geojson" .
+
+<http://hadrianswall.squirrel.link/site#8_geom>
+        a       <http://www.opengis.net/ont/sf#the_geom> ;
+        <http://www.opengis.net/ont/geosparql#asWKT>
+                "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT (-3.294656844689803 54.91717334395552)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+
+<http://hadrianswall.squirrel.link/site#27_geom>
+        a       <http://www.opengis.net/ont/sf#the_geom> ;
+        <http://www.opengis.net/ont/geosparql#asWKT>
+                "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT (-3.428301553283844 54.80962466010641)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+
+<http://hadrianswall.squirrel.link/site#1>
+        a           <http://hadrianswall.squirrel.link/ontology#Milefortlet> , <http://hadrianswall.squirrel.link/ontology#CoastalSite> ;
+        rdfs:label  "Milefortlet 1 (Biglands House)" ;
+        <http://www.opengis.net/ont/geosparql#hasGeometry>
+                <http://hadrianswall.squirrel.link/site#1_geom> ;
+        <http://www.spp-haefen.de/ontology#name>
+                "Milefortlet 1" , "Biglands House" , "Milefortlet 1 (Biglands House)" .
+
+<http://hadrianswall.squirrel.link/site#18>
+        a           <http://hadrianswall.squirrel.link/ontology#Milefortlet> , <http://hadrianswall.squirrel.link/ontology#CoastalSite> ;
+        rdfs:label  "Milefortlet 15a (Bank Hill)" ;
+        <http://www.opengis.net/ont/geosparql#hasGeometry>
+                <http://hadrianswall.squirrel.link/site#18_geom> ;
+        <http://www.spp-haefen.de/ontology#name>
+                "Milefortlet 15a" , "Bank Hill" , "Milefortlet 15a (Bank Hill)" .
+
+<http://hadrianswall.squirrel.link/site#7_geom>
+        a       <http://www.opengis.net/ont/sf#the_geom> ;
+        <http://www.opengis.net/ont/geosparql#asWKT>
+                "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT (-3.291887714876534 54.922599330402086)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+
+<http://hadrianswall.squirrel.link/site#12>
+        a           <http://hadrianswall.squirrel.link/ontology#Tower> , <http://hadrianswall.squirrel.link/ontology#CoastalSite> ;
+        rdfs:label  "Tower 12a (Blitterlees West)" ;
+        <http://www.opengis.net/ont/geosparql#hasGeometry>
+                <http://hadrianswall.squirrel.link/site#12_geom> ;
+        <http://www.spp-haefen.de/ontology#name>
+                "Tower 12a" , "Blitterlees West" , "Tower 12a (Blitterlees West)" .
+
+<http://hadrianswall.squirrel.link/site#25>
+        a           <http://hadrianswall.squirrel.link/ontology#Tower> , <http://hadrianswall.squirrel.link/ontology#CoastalSite> ;
+        rdfs:label  "Tower 25a (Risehow)" ;
+        <http://www.opengis.net/ont/geosparql#hasGeometry>
+                <http://hadrianswall.squirrel.link/site#25_geom> ;
+        <http://www.spp-haefen.de/ontology#name>
+                "Tower 25a" , "Risehow" , "Tower 25a (Risehow)" .
+
+<http://hadrianswall.squirrel.link/site#12_geom>
+        a       <http://www.opengis.net/ont/sf#the_geom> ;
+        <http://www.opengis.net/ont/geosparql#asWKT>
+                "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT (-3.399361653265886 54.85581417685867)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+
+<http://hadrianswall.squirrel.link/site#6>
+        a           <http://hadrianswall.squirrel.link/ontology#Milefortlet> , <http://hadrianswall.squirrel.link/ontology#CoastalSite> ;
+        rdfs:label  "Milefortlet 4 (Herd Hill)" ;
+        <http://www.opengis.net/ont/geosparql#hasGeometry>
+                <http://hadrianswall.squirrel.link/site#6_geom> ;
+        <http://www.spp-haefen.de/ontology#name>
+                "Milefortlet 4" , "Herd Hill" , "Milefortlet 4 (Herd Hill)" .
+
+<http://hadrianswall.squirrel.link/site#11_geom>
+        a       <http://www.opengis.net/ont/sf#the_geom> ;
+        <http://www.opengis.net/ont/geosparql#asWKT>
+                "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT (-3.39712533311605 54.85979376258588)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+
+<http://hadrianswall.squirrel.link/ontology#Milefortlet>
+        a                owl:Class ;
+        rdfs:label       "Milefortlet"@de ;
+        rdfs:subClassOf  <http://hadrianswall.squirrel.link/ontology#CoastalSite> .
+
+<http://hadrianswall.squirrel.link/site#9_geom>
+        a       <http://www.opengis.net/ont/sf#the_geom> ;
+        <http://www.opengis.net/ont/geosparql#asWKT>
+                "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT (-3.295459867020468 54.91344454969002)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+
+<http://hadrianswall.squirrel.link/site#17>
+        a           <http://hadrianswall.squirrel.link/ontology#Milefortlet> , <http://hadrianswall.squirrel.link/ontology#CoastalSite> ;
+        rdfs:label  "Milefortlet 17 (Dubmill Point)" ;
+        <http://www.opengis.net/ont/geosparql#hasGeometry>
+                <http://hadrianswall.squirrel.link/site#17_geom> ;
+        <http://www.spp-haefen.de/ontology#name>
+                "Milefortlet 17" , "Dubmill Point" , "Milefortlet 17 (Dubmill Point)" .
+
+<http://hadrianswall.squirrel.link/site#10_geom>
+        a       <http://www.opengis.net/ont/sf#the_geom> ;
+        <http://www.opengis.net/ont/geosparql#asWKT>
+                "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT (-3.359131552838045 54.892378165383604)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+
+<http://hadrianswall.squirrel.link/site#11>
+        a           <http://hadrianswall.squirrel.link/ontology#Milefortlet> , <http://hadrianswall.squirrel.link/ontology#CoastalSite> ;
+        rdfs:label  "Milefortlet 12 (Blitterlees)" ;
+        <http://www.opengis.net/ont/geosparql#hasGeometry>
+                <http://hadrianswall.squirrel.link/site#11_geom> ;
+        <http://www.spp-haefen.de/ontology#name>
+                "Milefortlet 12" , "Blitterlees" , "Milefortlet 12 (Blitterlees)" .
+
+<http://hadrianswall.squirrel.link/site#24>
+        a           <http://hadrianswall.squirrel.link/ontology#Milefortlet> , <http://hadrianswall.squirrel.link/ontology#CoastalSite> ;
+        rdfs:label  "Milefortlet 23 (Sea Brows)" ;
+        <http://www.opengis.net/ont/geosparql#hasGeometry>
+                <http://hadrianswall.squirrel.link/site#24_geom> ;
+        <http://www.spp-haefen.de/ontology#name>
+                "Milefortlet 23" , "Sea Brows" , "Milefortlet 23 (Sea Brows)" .
+
+<http://hadrianswall.squirrel.link/site#14_geom>
+        a       <http://www.opengis.net/ont/sf#the_geom> ;
+        <http://www.opengis.net/ont/geosparql#asWKT>
+                "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT (-3.405655497680892 54.84261458798103)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+
+<http://www.opengis.net/ont/geosparql#Geometry>
+        a                owl:Class ;
+        rdfs:subClassOf  <http://www.opengis.net/ont/geosparql#SpatialObject> .
+
+<http://hadrianswall.squirrel.link/site#5>
+        a           <http://hadrianswall.squirrel.link/ontology#Tower> , <http://hadrianswall.squirrel.link/ontology#CoastalSite> ;
+        rdfs:label  "Tower 3b (Herd Hill North)" ;
+        <http://www.opengis.net/ont/geosparql#hasGeometry>
+                <http://hadrianswall.squirrel.link/site#5_geom> ;
+        <http://www.spp-haefen.de/ontology#name>
+                "Tower 3b" , "Herd Hill North" , "Tower 3b (Herd Hill North)" .
+
+<http://hadrianswall.squirrel.link/site#13_geom>
+        a       <http://www.opengis.net/ont/sf#the_geom> ;
+        <http://www.opengis.net/ont/geosparql#asWKT>
+                "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT (-3.401905025502421 54.8513079838162)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+
+<http://semgis.de/geodata#standard>
+        a       owl:AnnotationProperty .
+
+<http://www.opengis.net/ont/geosparql#SpatialObject>
+        a       owl:Class .
+
+<http://hadrianswall.squirrel.link/site#16>
+        a           <http://hadrianswall.squirrel.link/ontology#Tower> , <http://hadrianswall.squirrel.link/ontology#CoastalSite> ;
+        rdfs:label  "Tower 16b (Mawbray Sandpit)" ;
+        <http://www.opengis.net/ont/geosparql#hasGeometry>
+                <http://hadrianswall.squirrel.link/site#16_geom> ;
+        <http://www.spp-haefen.de/ontology#name>
+                "Tower 16b" , "Mawbray Sandpit" , "Tower 16b (Mawbray Sandpit)" .
+
+<http://hadrianswall.squirrel.link/ontology#Tower>
+        a                owl:Class ;
+        rdfs:label       "Tower"@de ;
+        rdfs:subClassOf  <http://hadrianswall.squirrel.link/ontology#CoastalSite> .
+
+<http://hadrianswall.squirrel.link/site#10>
+        a           <http://hadrianswall.squirrel.link/ontology#Milefortlet> , <http://hadrianswall.squirrel.link/ontology#CoastalSite> ;
+        rdfs:label  "Milefortlet 9 (Skinburness)" ;
+        <http://www.opengis.net/ont/geosparql#hasGeometry>
+                <http://hadrianswall.squirrel.link/site#10_geom> ;
+        <http://www.spp-haefen.de/ontology#name>
+                "Milefortlet 9" , "Skinburness" , "Milefortlet 9 (Skinburness)" .
+
+<http://hadrianswall.squirrel.link/site#16_geom>
+        a       <http://www.opengis.net/ont/sf#the_geom> ;
+        <http://www.opengis.net/ont/geosparql#asWKT>
+                "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT (-3.435228837480985 54.80132790484618)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+
+<http://hadrianswall.squirrel.link/site#23>
+        a           <http://hadrianswall.squirrel.link/ontology#Milefortlet> , <http://hadrianswall.squirrel.link/ontology#CoastalSite> ;
+        rdfs:label  "Milefortlet 22 (Brownrigg)" ;
+        <http://www.opengis.net/ont/geosparql#hasGeometry>
+                <http://hadrianswall.squirrel.link/site#23_geom> ;
+        <http://www.spp-haefen.de/ontology#name>
+                "Milefortlet 22" , "Brownrigg" , "Milefortlet 22 (Brownrigg)" .
+
+<http://hadrianswall.squirrel.link/site#15_geom>
+        a       <http://www.opengis.net/ont/sf#the_geom> ;
+        <http://www.opengis.net/ont/geosparql#asWKT>
+                "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT (-3.408287668995936 54.83802937825477)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+
+<http://hadrianswall.squirrel.link/site#4>
+        a           <http://hadrianswall.squirrel.link/ontology#Tower> , <http://hadrianswall.squirrel.link/ontology#CoastalSite> ;
+        rdfs:label  "Tower 3a (Pasture House West)" ;
+        <http://www.opengis.net/ont/geosparql#hasGeometry>
+                <http://hadrianswall.squirrel.link/site#4_geom> ;
+        <http://www.spp-haefen.de/ontology#name>
+                "Tower 3a" , "Pasture House West" , "Tower 3a (Pasture House West)" .
