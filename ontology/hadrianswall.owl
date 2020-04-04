@@ -436,29 +436,11 @@
     
 
 
-    <!-- http://hadrianswall.squirrel.link/ontology#CumbrianCoast -->
+    <!-- http://hadrianswall.squirrel.link/ontology#Cumbrian_Coast -->
 
-    <owl:NamedIndividual rdf:about="http://hadrianswall.squirrel.link/ontology#CumbrianCoast">
+    <owl:NamedIndividual rdf:about="http://hadrianswall.squirrel.link/ontology#Cumbrian_Coast">
         <rdf:type rdf:resource="http://hadrianswall.squirrel.link/ontology#FortType"/>
         <rdfs:label xml:lang="en">Cumbrian Coast</rdfs:label>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- http://hadrianswall.squirrel.link/ontology#CutianWall -->
-
-    <owl:NamedIndividual rdf:about="http://hadrianswall.squirrel.link/ontology#CutianWall">
-        <rdf:type rdf:resource="http://hadrianswall.squirrel.link/ontology#WallType"/>
-        <rdfs:label xml:lang="en">Cutian Wall</rdfs:label>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- http://hadrianswall.squirrel.link/ontology#HadriansWallType -->
-
-    <owl:NamedIndividual rdf:about="http://hadrianswall.squirrel.link/ontology#HadriansWallType">
-        <rdf:type rdf:resource="http://hadrianswall.squirrel.link/ontology#FortType"/>
-        <rdfs:label xml:lang="en">Hadrian&apos;s Wall</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -472,9 +454,9 @@
     
 
 
-    <!-- http://hadrianswall.squirrel.link/ontology#OutpostFort -->
+    <!-- http://hadrianswall.squirrel.link/ontology#Outpost_Fort -->
 
-    <owl:NamedIndividual rdf:about="http://hadrianswall.squirrel.link/ontology#OutpostFort">
+    <owl:NamedIndividual rdf:about="http://hadrianswall.squirrel.link/ontology#Outpost_Fort">
         <rdf:type rdf:resource="http://hadrianswall.squirrel.link/ontology#FortType"/>
         <rdfs:label xml:lang="en">Outpost Fort</rdfs:label>
     </owl:NamedIndividual>
@@ -490,9 +472,9 @@
     
 
 
-    <!-- http://hadrianswall.squirrel.link/ontology#SupportFort -->
+    <!-- http://hadrianswall.squirrel.link/ontology#Support_Fort -->
 
-    <owl:NamedIndividual rdf:about="http://hadrianswall.squirrel.link/ontology#SupportFort">
+    <owl:NamedIndividual rdf:about="http://hadrianswall.squirrel.link/ontology#Support_Fort">
         <rdf:type rdf:resource="http://hadrianswall.squirrel.link/ontology#FortType"/>
         <rdfs:label xml:lang="en">Support Fort</rdfs:label>
     </owl:NamedIndividual>
@@ -508,20 +490,38 @@
     
 
 
-    <!-- http://hadrianswall.squirrel.link/ontology#Vallum -->
+    <!-- http://hadrianswall.squirrel.link/ontology#cutian_wall -->
 
-    <owl:NamedIndividual rdf:about="http://hadrianswall.squirrel.link/ontology#Vallum">
+    <owl:NamedIndividual rdf:about="http://hadrianswall.squirrel.link/ontology#cutian_wall">
+        <rdf:type rdf:resource="http://hadrianswall.squirrel.link/ontology#WallType"/>
+        <rdfs:label xml:lang="en">Cutian Wall</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://hadrianswall.squirrel.link/ontology#vallum -->
+
+    <owl:NamedIndividual rdf:about="http://hadrianswall.squirrel.link/ontology#vallum">
         <rdf:type rdf:resource="http://hadrianswall.squirrel.link/ontology#WallType"/>
         <rdfs:label xml:lang="en">Vallum</rdfs:label>
     </owl:NamedIndividual>
     
 
 
-    <!-- http://hadrianswall.squirrel.link/ontology#WallDitch -->
+    <!-- http://hadrianswall.squirrel.link/ontology#wall_ditch -->
 
-    <owl:NamedIndividual rdf:about="http://hadrianswall.squirrel.link/ontology#WallDitch">
+    <owl:NamedIndividual rdf:about="http://hadrianswall.squirrel.link/ontology#wall_ditch">
         <rdf:type rdf:resource="http://hadrianswall.squirrel.link/ontology#WallType"/>
         <rdfs:label xml:lang="en">Wall Ditch</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://hadrianswall.squirrel.link/ontology#Hadrian%27s_Wall -->
+
+    <owl:NamedIndividual rdf:about="http://hadrianswall.squirrel.link/ontology#Hadrian%27s_Wall">
+        <rdf:type rdf:resource="http://hadrianswall.squirrel.link/ontology#FortType"/>
+        <rdfs:label xml:lang="en">Hadrian&apos;s Wall</rdfs:label>
     </owl:NamedIndividual>
 </rdf:RDF>
 
