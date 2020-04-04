@@ -1,0 +1,348 @@
+@prefix : <http://hadrianswall.squirrel.link/ontology#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix sf: <http://www.opengis.net/ont/sf#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix wdt: <http://www.wikidata.org/prop/direct/> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix epsg: <http://www.opengis.net/def/crs/EPSG/0/> .
+@prefix fort: <http://hadrianswall.squirrel.link/fort#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix road: <http://hadrianswall.squirrel.link/road#> .
+@prefix site: <http://hadrianswall.squirrel.link/site#> .
+@prefix wall: <http://hadrianswall.squirrel.link/wall#> .
+@prefix semgis: <http://semgis.de/geodata#> .
+@prefix ontology: <http://hadrianswall.squirrel.link/ontology#> .
+@prefix geosparql: <http://www.opengis.net/ont/geosparql#> .
+@base <http://hadrianswall.squirrel.link/ontology#> .
+
+<http://hadrianswall.squirrel.link/ontology#> rdf:type owl:Ontology ;
+                                               dc:contributor "Florian Thiery" ;
+                                               dc:creator "Florian Thiery" ;
+                                               dc:description "This ontology contains classes to descibe the Hadrian's Wall dataset in RDF."@en ;
+                                               dc:publisher "Research Squirrel Engineers (RSE)" ;
+                                               dc:rights "CC BY 4.0" ;
+                                               dc:subject "Hadrian's Wall" ;
+                                               rdfs:comment "This ontology contains classes to descibe the Hadrian's Wall dataset in RDF."@en ;
+                                               rdfs:label "The Hadrian's Wall Ontology"@en ;
+                                               owl:versionInfo 0.1 .
+
+#################################################################
+#    Annotation properties
+#################################################################
+
+###  http://hadrianswall.squirrel.link/ontology#propOrder
+ontology:propOrder rdf:type owl:AnnotationProperty .
+
+
+###  http://purl.org/dc/elements/1.1/contributor
+dc:contributor rdf:type owl:AnnotationProperty .
+
+
+###  http://purl.org/dc/elements/1.1/creator
+dc:creator rdf:type owl:AnnotationProperty .
+
+
+###  http://purl.org/dc/elements/1.1/description
+dc:description rdf:type owl:AnnotationProperty .
+
+
+###  http://purl.org/dc/elements/1.1/publisher
+dc:publisher rdf:type owl:AnnotationProperty .
+
+
+###  http://purl.org/dc/elements/1.1/rights
+dc:rights rdf:type owl:AnnotationProperty .
+
+
+###  http://purl.org/dc/elements/1.1/subject
+dc:subject rdf:type owl:AnnotationProperty .
+
+
+#################################################################
+#    Object Properties
+#################################################################
+
+###  http://hadrianswall.squirrel.link/ontology#hasType
+ontology:hasType rdf:type owl:ObjectProperty ;
+                 rdfs:domain geosparql:Feature ;
+                 rdfs:range ontology:FortType ,
+                            ontology:WallType ;
+                 rdfs:label "has type"@en .
+
+
+###  http://www.opengis.net/ont/geosparql#hasGeometry
+geosparql:hasGeometry rdf:type owl:ObjectProperty ;
+                      rdfs:label "has geometry"@en .
+
+
+#################################################################
+#    Data properties
+#################################################################
+
+###  http://hadrianswall.squirrel.link/ontology#certainty
+ontology:certainty rdf:type owl:DatatypeProperty ;
+                   rdfs:domain ontology:RomanRoad ;
+                   rdfs:range xsd:string ;
+                   rdfs:label "certainty"@en .
+
+
+###  http://hadrianswall.squirrel.link/ontology#class
+ontology:class rdf:type owl:DatatypeProperty ;
+               rdfs:domain ontology:RomanRoad ;
+               rdfs:range xsd:string ;
+               rdfs:label "class"@en .
+
+
+###  http://hadrianswall.squirrel.link/ontology#description
+ontology:description rdf:type owl:DatatypeProperty ;
+                     rdfs:domain owl:Thing ;
+                     rdfs:range xsd:string ;
+                     rdfs:label "description"@en .
+
+
+###  http://hadrianswall.squirrel.link/ontology#from_to
+ontology:from_to rdf:type owl:DatatypeProperty ;
+                 rdfs:domain ontology:RomanRoad ;
+                 rdfs:range xsd:string ;
+                 rdfs:label "from to"@en .
+
+
+###  http://hadrianswall.squirrel.link/ontology#identifier
+ontology:identifier rdf:type owl:DatatypeProperty ;
+                    rdfs:domain owl:Thing ;
+                    rdfs:range xsd:string ;
+                    rdfs:label "identifier"@en .
+
+
+###  http://hadrianswall.squirrel.link/ontology#latin_name
+ontology:latin_name rdf:type owl:DatatypeProperty ;
+                    rdfs:subPropertyOf ontology:name ;
+                    rdfs:domain owl:Thing ;
+                    rdfs:range xsd:string ;
+                    rdfs:label "latin name"@en .
+
+
+###  http://hadrianswall.squirrel.link/ontology#name
+ontology:name rdf:type owl:DatatypeProperty ;
+              rdfs:domain owl:Thing ;
+              rdfs:range xsd:string ;
+              rdfs:label "name"@en .
+
+
+###  http://hadrianswall.squirrel.link/ontology#name2
+ontology:name2 rdf:type owl:DatatypeProperty ;
+               rdfs:subPropertyOf ontology:name ;
+               rdfs:domain owl:Thing ;
+               rdfs:range xsd:string ;
+               rdfs:label "name 2"@en .
+
+
+###  http://hadrianswall.squirrel.link/ontology#name3
+ontology:name3 rdf:type owl:DatatypeProperty ;
+               rdfs:subPropertyOf ontology:name ;
+               rdfs:domain owl:Thing ;
+               rdfs:range xsd:string ;
+               rdfs:label "name 3"@en .
+
+
+###  http://www.opengis.net/ont/geosparql#asGeoJSON
+geosparql:asGeoJSON rdf:type owl:DatatypeProperty ;
+                    rdfs:domain geosparql:SpatialObject ;
+                    rdfs:label "as GeoJSON"@en .
+
+
+###  http://www.opengis.net/ont/geosparql#asWKT
+geosparql:asWKT rdf:type owl:DatatypeProperty ;
+                rdfs:domain geosparql:SpatialObject ;
+                rdfs:label "as WKT"@en .
+
+
+#################################################################
+#    Classes
+#################################################################
+
+###  http://hadrianswall.squirrel.link/ontology#CostalSite
+ontology:CostalSite rdf:type owl:Class ;
+                    owl:equivalentClass wd:Q839954 ;
+                    rdfs:subClassOf geosparql:Feature ;
+                    rdfs:label "Costal Site"@en .
+
+
+###  http://hadrianswall.squirrel.link/ontology#Fort
+ontology:Fort rdf:type owl:Class ;
+              owl:equivalentClass wd:Q1785071 ;
+              rdfs:subClassOf geosparql:Feature ;
+              rdfs:label "Fort"@en .
+
+
+###  http://hadrianswall.squirrel.link/ontology#FortType
+ontology:FortType rdf:type owl:Class ;
+                  rdfs:subClassOf ontology:Fort ;
+                  rdfs:label "Fort Type"@en .
+
+
+###  http://hadrianswall.squirrel.link/ontology#HadriansWall
+ontology:HadriansWall rdf:type owl:Class ;
+                      owl:equivalentClass wd:Q57357 ;
+                      rdfs:subClassOf geosparql:Feature ;
+                      rdfs:label "Hadrian's Wall"@en .
+
+
+###  http://hadrianswall.squirrel.link/ontology#HadriansWall_Classes
+ontology:HadriansWall_Classes rdf:type owl:Class ;
+                              rdfs:label "Hadrian's Wall Classes"@en .
+
+
+###  http://hadrianswall.squirrel.link/ontology#RomanRoad
+ontology:RomanRoad rdf:type owl:Class ;
+                   owl:equivalentClass wd:Q194029 ;
+                   rdfs:subClassOf geosparql:Feature ;
+                   rdfs:label "Roman Road"@en .
+
+
+###  http://hadrianswall.squirrel.link/ontology#Type
+ontology:Type rdf:type owl:Class ;
+              rdfs:subClassOf ontology:HadriansWall_Classes ;
+              rdfs:comment "Type"@en .
+
+
+###  http://hadrianswall.squirrel.link/ontology#WallType
+ontology:WallType rdf:type owl:Class ;
+                  rdfs:subClassOf ontology:HadriansWall ;
+                  rdfs:label "Wall Type"@en .
+
+
+###  http://hadrianswall.squirrel.link/ontology#Wikidata_Classes
+ontology:Wikidata_Classes rdf:type owl:Class ;
+                          rdfs:label "Wikidata Classes"@en .
+
+
+###  http://www.opengis.net/ont/geosparql#Feature
+geosparql:Feature rdf:type owl:Class ;
+                  rdfs:subClassOf geosparql:SpatialObject ;
+                  rdfs:label "Feature"@en .
+
+
+###  http://www.opengis.net/ont/geosparql#Geometry
+geosparql:Geometry rdf:type owl:Class ;
+                   rdfs:subClassOf geosparql:SpatialObject .
+
+
+###  http://www.opengis.net/ont/geosparql#SpatialObject
+geosparql:SpatialObject rdf:type owl:Class ;
+                        rdfs:subClassOf ontology:HadriansWall_Classes ;
+                        rdfs:label "Spatial Object"@en .
+
+
+###  http://www.opengis.net/ont/sf#MultiLineString
+sf:MultiLineString rdf:type owl:Class ;
+                   rdfs:subClassOf geosparql:SpatialObject .
+
+
+###  http://www.opengis.net/ont/sf#MultiPoint
+sf:MultiPoint rdf:type owl:Class ;
+              rdfs:subClassOf geosparql:SpatialObject .
+
+
+###  http://www.opengis.net/ont/sf#MultiPolygon
+sf:MultiPolygon rdf:type owl:Class ;
+                rdfs:subClassOf geosparql:SpatialObject .
+
+
+###  http://www.opengis.net/ont/sf#Point
+sf:Point rdf:type owl:Class ;
+         rdfs:subClassOf geosparql:SpatialObject .
+
+
+###  http://www.wikidata.org/entity/Q1785071
+wd:Q1785071 rdf:type owl:Class ;
+            rdfs:subClassOf ontology:Wikidata_Classes ;
+            rdfs:label "fort"@en .
+
+
+###  http://www.wikidata.org/entity/Q194029
+wd:Q194029 rdf:type owl:Class ;
+           rdfs:subClassOf ontology:Wikidata_Classes ;
+           rdfs:label "roman road"@en .
+
+
+###  http://www.wikidata.org/entity/Q57357
+wd:Q57357 rdf:type owl:Class ;
+          rdfs:subClassOf ontology:Wikidata_Classes ;
+          rdfs:label "hadrian's wall"@en .
+
+
+###  http://www.wikidata.org/entity/Q839954
+wd:Q839954 rdf:type owl:Class ;
+           rdfs:subClassOf ontology:Wikidata_Classes ;
+           rdfs:label "archaeological site"@en .
+
+
+#################################################################
+#    Individuals
+#################################################################
+
+###  http://hadrianswall.squirrel.link/ontology#CumbrianCoast
+ontology:CumbrianCoast rdf:type owl:NamedIndividual ,
+                                ontology:FortType ;
+                       rdfs:label "Cumbrian Coast"@en .
+
+
+###  http://hadrianswall.squirrel.link/ontology#CutianWall
+ontology:CutianWall rdf:type owl:NamedIndividual ,
+                             ontology:WallType ;
+                    rdfs:label "Cutian Wall"@en .
+
+
+###  http://hadrianswall.squirrel.link/ontology#HadriansWallType
+ontology:HadriansWallType rdf:type owl:NamedIndividual ,
+                                   ontology:FortType ;
+                          rdfs:label "Hadrian's Wall"@en .
+
+
+###  http://hadrianswall.squirrel.link/ontology#Milefortlet
+ontology:Milefortlet rdf:type owl:NamedIndividual ,
+                              ontology:FortType ;
+                     rdfs:label "Milefortlet"@en .
+
+
+###  http://hadrianswall.squirrel.link/ontology#OutpostFort
+ontology:OutpostFort rdf:type owl:NamedIndividual ,
+                              ontology:FortType ;
+                     rdfs:label "Outpost Fort"@en .
+
+
+###  http://hadrianswall.squirrel.link/ontology#Stanegate
+ontology:Stanegate rdf:type owl:NamedIndividual ,
+                            ontology:FortType ;
+                   rdfs:label "Stanegate"@en .
+
+
+###  http://hadrianswall.squirrel.link/ontology#SupportFort
+ontology:SupportFort rdf:type owl:NamedIndividual ,
+                              ontology:FortType ;
+                     rdfs:label "Support Fort"@en .
+
+
+###  http://hadrianswall.squirrel.link/ontology#Tower
+ontology:Tower rdf:type owl:NamedIndividual ,
+                        ontology:FortType ;
+               rdfs:label "Tower"@en .
+
+
+###  http://hadrianswall.squirrel.link/ontology#Vallum
+ontology:Vallum rdf:type owl:NamedIndividual ,
+                         ontology:WallType ;
+                rdfs:label "Vallum"@en .
+
+
+###  http://hadrianswall.squirrel.link/ontology#WallDitch
+ontology:WallDitch rdf:type owl:NamedIndividual ,
+                            ontology:WallType ;
+                   rdfs:label "Wall Ditch"@en .
+
+
+###  Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi
