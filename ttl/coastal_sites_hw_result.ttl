@@ -44,9 +44,6 @@
         <http://www.opengis.net/ont/geosparql#asWKT>
                 "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT (-3.425434491401715 54.81795946784257)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 
-<http://semgis.de/geodata#propOrder>
-        a       owl:AnnotationProperty .
-
 <http://hadrianswall.squirrel.link/site#9>
         a           <http://hadrianswall.squirrel.link/ontology#Milefortlet> , <http://hadrianswall.squirrel.link/ontology#CoastalSite> ;
         rdfs:label  "Milefortlet 5 (Cardurnock)" ;
@@ -235,11 +232,7 @@ rdfs:label  a       owl:AnnotationProperty ;
 
 <http://hadrianswall.squirrel.link/ontology#CoastalSite>
         a                owl:Class ;
-        rdfs:subClassOf  <http://www.opengis.net/ont/geosparql#Feature> ;
-        <http://semgis.de/geodata#propOrder>
-                "OBJECTID;POINT_Y;name3;POINT_X;name;name2;the_geom;fort_type;" ;
-        <http://semgis.de/geodata#standard>
-                "coastal_sites_hw.geojson" .
+        rdfs:subClassOf  <http://www.opengis.net/ont/geosparql#Feature> .
 
 <http://hadrianswall.squirrel.link/site#8_geom>
         a       <http://www.opengis.net/ont/sf#the_geom> ;
@@ -308,7 +301,7 @@ rdfs:label  a       owl:AnnotationProperty ;
 
 <http://hadrianswall.squirrel.link/ontology#Milefortlet>
         a                owl:Class ;
-        rdfs:label       "Milefortlet"@de ;
+        rdfs:label       "Milefortlet"@en ;
         rdfs:subClassOf  <http://hadrianswall.squirrel.link/ontology#CoastalSite> .
 
 <http://hadrianswall.squirrel.link/site#9_geom>
@@ -345,14 +338,14 @@ rdfs:label  a       owl:AnnotationProperty ;
         <http://www.spp-haefen.de/ontology#name>
                 "Milefortlet 23" , "Sea Brows" , "Milefortlet 23 (Sea Brows)" .
 
+<http://www.opengis.net/ont/geosparql#Geometry>
+        a                owl:Class ;
+        rdfs:subClassOf  <http://www.opengis.net/ont/geosparql#SpatialObject> .
+
 <http://hadrianswall.squirrel.link/site#14_geom>
         a       <http://www.opengis.net/ont/sf#the_geom> ;
         <http://www.opengis.net/ont/geosparql#asWKT>
                 "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT (-3.405655497680892 54.84261458798103)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
-
-<http://www.opengis.net/ont/geosparql#Geometry>
-        a                owl:Class ;
-        rdfs:subClassOf  <http://www.opengis.net/ont/geosparql#SpatialObject> .
 
 <http://hadrianswall.squirrel.link/site#5>
         a           <http://hadrianswall.squirrel.link/ontology#Tower> , <http://hadrianswall.squirrel.link/ontology#CoastalSite> ;
@@ -367,9 +360,6 @@ rdfs:label  a       owl:AnnotationProperty ;
         <http://www.opengis.net/ont/geosparql#asWKT>
                 "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT (-3.401905025502421 54.8513079838162)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 
-<http://semgis.de/geodata#standard>
-        a       owl:AnnotationProperty .
-
 <http://www.opengis.net/ont/geosparql#SpatialObject>
         a       owl:Class .
 
@@ -383,7 +373,7 @@ rdfs:label  a       owl:AnnotationProperty ;
 
 <http://hadrianswall.squirrel.link/ontology#Tower>
         a                owl:Class ;
-        rdfs:label       "Tower"@de ;
+        rdfs:label       "Tower"@en ;
         rdfs:subClassOf  <http://hadrianswall.squirrel.link/ontology#CoastalSite> .
 
 <http://hadrianswall.squirrel.link/site#10>

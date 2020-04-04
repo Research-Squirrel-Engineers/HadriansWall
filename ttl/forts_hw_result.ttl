@@ -5,7 +5,7 @@
 
 <http://hadrianswall.squirrel.link/ontology#Stanegate>
         a                owl:Class ;
-        rdfs:label       "Stanegate"@de ;
+        rdfs:label       "Stanegate"@en ;
         rdfs:subClassOf  <http://hadrianswall.squirrel.link/ontology#Fort> .
 
 <http://hadrianswall.squirrel.link/fort#26_geom>
@@ -98,9 +98,6 @@
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://hadrianswall.squirrel.link/fort#10_geom> .
 
-<http://semgis.de/geodata#propOrder>
-        a       owl:AnnotationProperty .
-
 <http://hadrianswall.squirrel.link/fort#23>
         a           <http://hadrianswall.squirrel.link/ontology#Stanegate> , <http://hadrianswall.squirrel.link/ontology#Fort> ;
         rdfs:label  "Carlisle" ;
@@ -157,7 +154,7 @@
 
 <http://hadrianswall.squirrel.link/ontology#Hadrian%27s_Wall>
         a                owl:Class ;
-        rdfs:label       "Hadrian's Wall"@de ;
+        rdfs:label       "Hadrian's Wall"@en ;
         rdfs:subClassOf  <http://hadrianswall.squirrel.link/ontology#Fort> .
 
 <http://hadrianswall.squirrel.link/fort#7>
@@ -292,7 +289,7 @@
 
 <http://hadrianswall.squirrel.link/ontology#Cumbrian_Coast>
         a                owl:Class ;
-        rdfs:label       "Cumbrian Coast"@de ;
+        rdfs:label       "Cumbrian Coast"@en ;
         rdfs:subClassOf  <http://hadrianswall.squirrel.link/ontology#Fort> .
 
 <http://hadrianswall.squirrel.link/fort#35_geom>
@@ -325,11 +322,7 @@ rdfs:label  a       owl:AnnotationProperty ;
 
 <http://hadrianswall.squirrel.link/ontology#Fort>
         a                owl:Class ;
-        rdfs:subClassOf  <http://www.opengis.net/ont/geosparql#Feature> ;
-        <http://semgis.de/geodata#propOrder>
-                "OBJECTID;POINT_Y;POINT_X;latin_name;name;the_geom;fort_type;" ;
-        <http://semgis.de/geodata#standard>
-                "forts_hw.geojson" .
+        rdfs:subClassOf  <http://www.opengis.net/ont/geosparql#Feature> .
 
 <http://hadrianswall.squirrel.link/fort#34>
         a           <http://hadrianswall.squirrel.link/ontology#Outpost_Fort> , <http://hadrianswall.squirrel.link/ontology#Fort> ;
@@ -560,6 +553,11 @@ rdfs:label  a       owl:AnnotationProperty ;
         <http://www.opengis.net/ont/geosparql#asWKT>
                 "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT (-3.215584657725321 54.95278185389729)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 
+<http://hadrianswall.squirrel.link/ontology#Support_Fort>
+        a                owl:Class ;
+        rdfs:label       "Support Fort"@en ;
+        rdfs:subClassOf  <http://hadrianswall.squirrel.link/ontology#Fort> .
+
 <http://hadrianswall.squirrel.link/fort#32>
         a           <http://hadrianswall.squirrel.link/ontology#Outpost_Fort> , <http://hadrianswall.squirrel.link/ontology#Fort> ;
         rdfs:label  "Risingham" ;
@@ -569,14 +567,6 @@ rdfs:label  a       owl:AnnotationProperty ;
                 "Risingham" ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
                 <http://hadrianswall.squirrel.link/fort#32_geom> .
-
-<http://hadrianswall.squirrel.link/ontology#Support_Fort>
-        a                owl:Class ;
-        rdfs:label       "Support Fort"@de ;
-        rdfs:subClassOf  <http://hadrianswall.squirrel.link/ontology#Fort> .
-
-<http://semgis.de/geodata#standard>
-        a       owl:AnnotationProperty .
 
 <http://hadrianswall.squirrel.link/fort#24_geom>
         a       <http://www.opengis.net/ont/sf#the_geom> ;
@@ -618,7 +608,7 @@ rdfs:label  a       owl:AnnotationProperty ;
 
 <http://hadrianswall.squirrel.link/ontology#Outpost_Fort>
         a                owl:Class ;
-        rdfs:label       "Outpost Fort"@de ;
+        rdfs:label       "Outpost Fort"@en ;
         rdfs:subClassOf  <http://hadrianswall.squirrel.link/ontology#Fort> .
 
 <http://hadrianswall.squirrel.link/fort#23_geom>

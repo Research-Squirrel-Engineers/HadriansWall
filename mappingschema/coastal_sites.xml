@@ -2,7 +2,7 @@
 <data>
 <file class="http://hadrianswall.squirrel.link/ontology#CoastalSite" indid="OBJECTID" 
 namespace="http://hadrianswall.squirrel.link/site#"
-attnamespace="http://hadrianswall.squirrel.link/ontology#" epsg="4326" nometadata="true" attachepsg="true">
+attnamespace="http://hadrianswall.squirrel.link/ontology#" epsg="4326" nometadata="true" attachepsg="true" classlabellang="en" proplabellang="en" indlabellang="en">
 	
 	<column name="name" prop="annotation" propiri="http://www.w3.org/2000/01/rdf-schema#label" range="http://www.w3.org/2001/XMLSchema#string"/> 
 	
