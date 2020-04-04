@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
-<rdf:RDF xmlns="http://atlantgis.squirrel.link/ontology#"
-     xml:base="http://atlantgis.squirrel.link/ontology"
+<rdf:RDF xmlns="http://hadrianswall.squirrel.link/ontology#"
+     xml:base="http://hadrianswall.squirrel.link/ontology"
      xmlns:dc="http://purl.org/dc/elements/1.1/"
      xmlns:sf="http://www.opengis.net/ont/sf#"
      xmlns:wd="http://www.wikidata.org/entity/"
@@ -11,15 +11,12 @@
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
      xmlns:epsg="http://www.opengis.net/def/crs/EPSG/0/"
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
-     xmlns:site="http://atlantgis.squirrel.link/site#"
-     xmlns:arsite="http://atlantgis.squirrel.link/ar_site#"
-     xmlns:period="http://atlantgis.squirrel.link/period#"
+     xmlns:site="http://hadrianswall.squirrel.link/site#"
+     xmlns:wall="http://hadrianswall.squirrel.link/wall#"
+	 xmlns:road="http://hadrianswall.squirrel.link/road#"
+	 xmlns:fort="http://hadrianswall.squirrel.link/fort#"
      xmlns:semgis="http://semgis.de/geodata#"
-     xmlns:stream="http://atlantgis.squirrel.link/stream#"
-     xmlns:voronoi="http://atlantgis.squirrel.link/voronoi#"
      xmlns:ontology="http://hadrianswall.squirrel.link/ontology#"
-     xmlns:resource="http://atlantgis.squirrel.link/resource#"
-     xmlns:coastline="http://atlantgis.squirrel.link/coastline#"
      xmlns:geosparql="http://www.opengis.net/ont/geosparql#">
     <owl:Ontology rdf:about="http://hadrianswall.squirrel.link/ontology#">
         <dc:contributor>Florian Thiery</dc:contributor>
