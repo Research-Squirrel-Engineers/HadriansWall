@@ -1,0 +1,7 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+
+<http://hadrianswall.squirrel.link/data/wall/10_geom> a <http://www.opengis.net/ont/sf#the_geom> ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> MULTILINESTRING ((-2.496937996262894 54.99459564305396, -2.497349028071105 54.99439186392473))"^^geo:wktLiteral .
+

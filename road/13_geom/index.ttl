@@ -1,0 +1,7 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+
+<http://hadrianswall.squirrel.link/data/road/13_geom> a <http://www.opengis.net/ont/sf#the_geom> ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> MULTILINESTRING ((-3.484550406820068 54.718424034900885, -3.469878929876745 54.71256283270148, -3.4536846150301 54.705338935092904, -3.432867702928795 54.69493362990354, -3.413184068970764 54.6851774070295, -3.403166867882939 54.68018414185414, -3.396525952232912 54.676694417235915, -3.391904883046196 54.6735611483963, -3.385926239354924 54.67038062719135))"^^geo:wktLiteral .
+

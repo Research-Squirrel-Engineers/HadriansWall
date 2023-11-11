@@ -1,0 +1,8 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+
+<http://hadrianswall.squirrel.link/data/wall/16> a <http://hadrianswall.squirrel.link/ontology#HadriansWall>,
+        <http://hadrianswall.squirrel.link/ontology#Vallum> ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    geo:hasGeometry <http://hadrianswall.squirrel.link/data/wall/16_geom> .
+

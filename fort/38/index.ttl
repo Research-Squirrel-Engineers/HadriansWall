@@ -1,0 +1,13 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://hadrianswall.squirrel.link/ontology#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<http://hadrianswall.squirrel.link/data/fort/38> a ns1:Fort,
+        ns1:Support_Fort ;
+    rdfs:label "Binchester" ;
+    ns1:latin_name "Vinovia" ;
+    ns1:name "Binchester" ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    geo:hasGeometry <http://hadrianswall.squirrel.link/data/fort/38_geom> .
+

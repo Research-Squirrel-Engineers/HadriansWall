@@ -1,0 +1,18 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<http://hadrianswall.squirrel.link/data/Support_Fort_collection> a geo:FeatureCollection ;
+    rdfs:label "Support_Fort Instances Collection" ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    rdfs:member <http://hadrianswall.squirrel.link/data/fort/26>,
+        <http://hadrianswall.squirrel.link/data/fort/27>,
+        <http://hadrianswall.squirrel.link/data/fort/28>,
+        <http://hadrianswall.squirrel.link/data/fort/29>,
+        <http://hadrianswall.squirrel.link/data/fort/30>,
+        <http://hadrianswall.squirrel.link/data/fort/31>,
+        <http://hadrianswall.squirrel.link/data/fort/37>,
+        <http://hadrianswall.squirrel.link/data/fort/38>,
+        <http://hadrianswall.squirrel.link/data/fort/39>,
+        <http://hadrianswall.squirrel.link/data/fort/40> .
+

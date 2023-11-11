@@ -1,0 +1,14 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.spp-haefen.de/ontology#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<http://hadrianswall.squirrel.link/data/road/9> a <http://hadrianswall.squirrel.link/ontology#Minor_Road>,
+        <http://hadrianswall.squirrel.link/ontology#RomanRoad> ;
+    rdfs:label "-" ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    geo:hasGeometry <http://hadrianswall.squirrel.link/data/road/9_geom> ;
+    ns1:from_to "Plumpton Wall - Greystoke - Troutbeck" ;
+    ns1:margary_re "741" ;
+    ns1:road_name "-" .
+

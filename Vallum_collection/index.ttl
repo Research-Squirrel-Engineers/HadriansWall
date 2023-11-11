@@ -1,0 +1,17 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<http://hadrianswall.squirrel.link/data/Vallum_collection> a geo:FeatureCollection ;
+    rdfs:label "Vallum Instances Collection" ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    rdfs:member <http://hadrianswall.squirrel.link/data/wall/14>,
+        <http://hadrianswall.squirrel.link/data/wall/15>,
+        <http://hadrianswall.squirrel.link/data/wall/16>,
+        <http://hadrianswall.squirrel.link/data/wall/17>,
+        <http://hadrianswall.squirrel.link/data/wall/22>,
+        <http://hadrianswall.squirrel.link/data/wall/23>,
+        <http://hadrianswall.squirrel.link/data/wall/24>,
+        <http://hadrianswall.squirrel.link/data/wall/25>,
+        <http://hadrianswall.squirrel.link/data/wall/27> .
+

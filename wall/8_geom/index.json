@@ -1,0 +1,1 @@
+{"http://www.opengis.net/ont/geosparql#asWKT": ["<http://www.opengis.net/def/crs/EPSG/0/4326> MULTILINESTRING ((-2.428429910056118 54.995974743242385, -2.429509102819507 54.99585799861244, -2.430068293728949 54.99586183348269, -2.43083462569925 54.99605540630053))"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#the_geom"]}

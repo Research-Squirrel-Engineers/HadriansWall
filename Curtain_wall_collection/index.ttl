@@ -1,0 +1,12 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<http://hadrianswall.squirrel.link/data/Curtain_wall_collection> a geo:FeatureCollection ;
+    rdfs:label "Curtain_wall Instances Collection" ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    rdfs:member <http://hadrianswall.squirrel.link/data/wall/1>,
+        <http://hadrianswall.squirrel.link/data/wall/26>,
+        <http://hadrianswall.squirrel.link/data/wall/28>,
+        <http://hadrianswall.squirrel.link/data/wall/29> .
+
