@@ -8,12 +8,12 @@
         rdfs:label       "Stanegate"@en ;
         rdfs:subClassOf  <http://hadrianswall.squirrel.link/ontology#Fort> .
 
-<http://hadrianswall.squirrel.link/fort#26_geom>
+<http://hadrianswall.squirrel.link/data/fort/26_geom>
         a       <http://www.opengis.net/ont/sf#the_geom> ;
         <http://www.opengis.net/ont/geosparql#asWKT>
                 "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT (-1.842745004717513 54.89507640901551)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 
-<http://hadrianswall.squirrel.link/fort#31>
+<http://hadrianswall.squirrel.link/data/fort/31>
         a           <http://hadrianswall.squirrel.link/ontology#Support_Fort> , <http://hadrianswall.squirrel.link/ontology#Fort> ;
         rdfs:label  "Old Penrith" ;
         <http://hadrianswall.squirrel.link/ontology#latin_name>
@@ -21,14 +21,14 @@
         <http://hadrianswall.squirrel.link/ontology#name>
                 "Old Penrith" ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
-                <http://hadrianswall.squirrel.link/fort#31_geom> .
+                <http://hadrianswall.squirrel.link/data/fort/31_geom> .
 
-<http://hadrianswall.squirrel.link/fort#32_geom>
+<http://hadrianswall.squirrel.link/data/fort/32_geom>
         a       <http://www.opengis.net/ont/sf#the_geom> ;
         <http://www.opengis.net/ont/geosparql#asWKT>
                 "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT (-2.173755301213373 55.170075091556775)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 
-<http://hadrianswall.squirrel.link/fort#8>
+<http://hadrianswall.squirrel.link/data/fort/8>
         a           <http://hadrianswall.squirrel.link/ontology#Hadrian%27s_Wall> , <http://hadrianswall.squirrel.link/ontology#Fort> ;
         rdfs:label  "Chesters" ;
         <http://hadrianswall.squirrel.link/ontology#latin_name>
@@ -36,9 +36,9 @@
         <http://hadrianswall.squirrel.link/ontology#name>
                 "Chesters" ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
-                <http://hadrianswall.squirrel.link/fort#8_geom> .
+                <http://hadrianswall.squirrel.link/data/fort/8_geom> .
 
-<http://hadrianswall.squirrel.link/fort#16>
+<http://hadrianswall.squirrel.link/data/fort/16>
         a           <http://hadrianswall.squirrel.link/ontology#Hadrian%27s_Wall> , <http://hadrianswall.squirrel.link/ontology#Fort> ;
         rdfs:label  "Burgh-by-Sands" ;
         <http://hadrianswall.squirrel.link/ontology#latin_name>
@@ -46,14 +46,14 @@
         <http://hadrianswall.squirrel.link/ontology#name>
                 "Burgh-by-Sands" ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
-                <http://hadrianswall.squirrel.link/fort#16_geom> .
+                <http://hadrianswall.squirrel.link/data/fort/16_geom> .
 
-<http://hadrianswall.squirrel.link/fort#8_geom>
+<http://hadrianswall.squirrel.link/data/fort/8_geom>
         a       <http://www.opengis.net/ont/sf#the_geom> ;
         <http://www.opengis.net/ont/geosparql#asWKT>
                 "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT (-2.139629712870049 55.02591586627001)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 
-<http://hadrianswall.squirrel.link/fort#29>
+<http://hadrianswall.squirrel.link/data/fort/29>
         a           <http://hadrianswall.squirrel.link/ontology#Support_Fort> , <http://hadrianswall.squirrel.link/ontology#Fort> ;
         rdfs:label  "Old Carlisle" ;
         <http://hadrianswall.squirrel.link/ontology#latin_name>
@@ -61,24 +61,24 @@
         <http://hadrianswall.squirrel.link/ontology#name>
                 "Old Carlisle" ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
-                <http://hadrianswall.squirrel.link/fort#29_geom> .
+                <http://hadrianswall.squirrel.link/data/fort/29_geom> .
 
-<http://hadrianswall.squirrel.link/fort#25_geom>
+<http://hadrianswall.squirrel.link/data/fort/25_geom>
         a       <http://www.opengis.net/ont/sf#the_geom> ;
         <http://www.opengis.net/ont/geosparql#asWKT>
                 "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT (-2.029095642110599 54.9781282343474)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 
-<http://hadrianswall.squirrel.link/fort#31_geom>
+<http://hadrianswall.squirrel.link/data/fort/31_geom>
         a       <http://www.opengis.net/ont/sf#the_geom> ;
         <http://www.opengis.net/ont/geosparql#asWKT>
                 "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT (-2.789777863709645 54.73862023161122)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 
-<http://hadrianswall.squirrel.link/fort#7_geom>
+<http://hadrianswall.squirrel.link/data/fort/7_geom>
         a       <http://www.opengis.net/ont/sf#the_geom> ;
         <http://www.opengis.net/ont/geosparql#asWKT>
                 "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT (-2.221949835363226 55.03505078310417)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 
-<http://hadrianswall.squirrel.link/fort#2>
+<http://hadrianswall.squirrel.link/data/fort/2>
         a           <http://hadrianswall.squirrel.link/ontology#Hadrian%27s_Wall> , <http://hadrianswall.squirrel.link/ontology#Fort> ;
         rdfs:label  "Wallsend" ;
         <http://hadrianswall.squirrel.link/ontology#latin_name>
@@ -86,9 +86,9 @@
         <http://hadrianswall.squirrel.link/ontology#name>
                 "Wallsend" ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
-                <http://hadrianswall.squirrel.link/fort#2_geom> .
+                <http://hadrianswall.squirrel.link/data/fort/2_geom> .
 
-<http://hadrianswall.squirrel.link/fort#10>
+<http://hadrianswall.squirrel.link/data/fort/10>
         a           <http://hadrianswall.squirrel.link/ontology#Hadrian%27s_Wall> , <http://hadrianswall.squirrel.link/ontology#Fort> ;
         rdfs:label  "Great Chesters" ;
         <http://hadrianswall.squirrel.link/ontology#latin_name>
@@ -96,9 +96,9 @@
         <http://hadrianswall.squirrel.link/ontology#name>
                 "Great Chesters" ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
-                <http://hadrianswall.squirrel.link/fort#10_geom> .
+                <http://hadrianswall.squirrel.link/data/fort/10_geom> .
 
-<http://hadrianswall.squirrel.link/fort#23>
+<http://hadrianswall.squirrel.link/data/fort/23>
         a           <http://hadrianswall.squirrel.link/ontology#Stanegate> , <http://hadrianswall.squirrel.link/ontology#Fort> ;
         rdfs:label  "Carlisle" ;
         <http://hadrianswall.squirrel.link/ontology#latin_name>
@@ -106,9 +106,9 @@
         <http://hadrianswall.squirrel.link/ontology#name>
                 "Carlisle" ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
-                <http://hadrianswall.squirrel.link/fort#23_geom> .
+                <http://hadrianswall.squirrel.link/data/fort/23_geom> .
 
-<http://hadrianswall.squirrel.link/fort#36>
+<http://hadrianswall.squirrel.link/data/fort/36>
         a           <http://hadrianswall.squirrel.link/ontology#Outpost_Fort> , <http://hadrianswall.squirrel.link/ontology#Fort> ;
         rdfs:label  "Birrens" ;
         <http://hadrianswall.squirrel.link/ontology#latin_name>
@@ -116,9 +116,9 @@
         <http://hadrianswall.squirrel.link/ontology#name>
                 "Birrens" ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
-                <http://hadrianswall.squirrel.link/fort#36_geom> .
+                <http://hadrianswall.squirrel.link/data/fort/36_geom> .
 
-<http://hadrianswall.squirrel.link/fort#28_geom>
+<http://hadrianswall.squirrel.link/data/fort/28_geom>
         a       <http://www.opengis.net/ont/sf#the_geom> ;
         <http://www.opengis.net/ont/geosparql#asWKT>
                 "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT (-1.756628229211067 54.81644353848889)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
@@ -132,12 +132,12 @@
         a                owl:Class ;
         rdfs:subClassOf  <http://www.opengis.net/ont/geosparql#SpatialObject> .
 
-<http://hadrianswall.squirrel.link/fort#10_geom>
+<http://hadrianswall.squirrel.link/data/fort/10_geom>
         a       <http://www.opengis.net/ont/sf#the_geom> ;
         <http://www.opengis.net/ont/geosparql#asWKT>
                 "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT (-2.464574348573922 54.99485730239454)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 
-<http://hadrianswall.squirrel.link/fort#30>
+<http://hadrianswall.squirrel.link/data/fort/30>
         a           <http://hadrianswall.squirrel.link/ontology#Support_Fort> , <http://hadrianswall.squirrel.link/ontology#Fort> ;
         rdfs:label  "Papcastle" ;
         <http://hadrianswall.squirrel.link/ontology#latin_name>
@@ -145,9 +145,9 @@
         <http://hadrianswall.squirrel.link/ontology#name>
                 "Papcastle" ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
-                <http://hadrianswall.squirrel.link/fort#30_geom> .
+                <http://hadrianswall.squirrel.link/data/fort/30_geom> .
 
-<http://hadrianswall.squirrel.link/fort#34_geom>
+<http://hadrianswall.squirrel.link/data/fort/34_geom>
         a       <http://www.opengis.net/ont/sf#the_geom> ;
         <http://www.opengis.net/ont/geosparql#asWKT>
                 "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT (-2.946563661891952 55.03523153018225)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
@@ -157,7 +157,7 @@
         rdfs:label       "Hadrian's Wall"@en ;
         rdfs:subClassOf  <http://hadrianswall.squirrel.link/ontology#Fort> .
 
-<http://hadrianswall.squirrel.link/fort#7>
+<http://hadrianswall.squirrel.link/data/fort/7>
         a           <http://hadrianswall.squirrel.link/ontology#Hadrian%27s_Wall> , <http://hadrianswall.squirrel.link/ontology#Fort> ;
         rdfs:label  "Carrawburgh" ;
         <http://hadrianswall.squirrel.link/ontology#latin_name>
@@ -165,9 +165,9 @@
         <http://hadrianswall.squirrel.link/ontology#name>
                 "Carrawburgh" ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
-                <http://hadrianswall.squirrel.link/fort#7_geom> .
+                <http://hadrianswall.squirrel.link/data/fort/7_geom> .
 
-<http://hadrianswall.squirrel.link/fort#15>
+<http://hadrianswall.squirrel.link/data/fort/15>
         a           <http://hadrianswall.squirrel.link/ontology#Hadrian%27s_Wall> , <http://hadrianswall.squirrel.link/ontology#Fort> ;
         rdfs:label  "Stanwix" ;
         <http://hadrianswall.squirrel.link/ontology#latin_name>
@@ -175,19 +175,19 @@
         <http://hadrianswall.squirrel.link/ontology#name>
                 "Stanwix" ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
-                <http://hadrianswall.squirrel.link/fort#15_geom> .
+                <http://hadrianswall.squirrel.link/data/fort/15_geom> .
 
-<http://hadrianswall.squirrel.link/fort#27_geom>
+<http://hadrianswall.squirrel.link/data/fort/27_geom>
         a       <http://www.opengis.net/ont/sf#the_geom> ;
         <http://www.opengis.net/ont/geosparql#asWKT>
                 "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT (-1.573175751686112 54.85584322150056)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 
-<http://hadrianswall.squirrel.link/fort#40_geom>
+<http://hadrianswall.squirrel.link/data/fort/40_geom>
         a       <http://www.opengis.net/ont/sf#the_geom> ;
         <http://www.opengis.net/ont/geosparql#asWKT>
                 "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT (-2.562178265673341 54.62423314229871)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 
-<http://hadrianswall.squirrel.link/fort#28>
+<http://hadrianswall.squirrel.link/data/fort/28>
         a           <http://hadrianswall.squirrel.link/ontology#Support_Fort> , <http://hadrianswall.squirrel.link/ontology#Fort> ;
         rdfs:label  "Lanchester" ;
         <http://hadrianswall.squirrel.link/ontology#latin_name>
@@ -195,19 +195,19 @@
         <http://hadrianswall.squirrel.link/ontology#name>
                 "Lanchester" ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
-                <http://hadrianswall.squirrel.link/fort#28_geom> .
+                <http://hadrianswall.squirrel.link/data/fort/28_geom> .
 
-<http://hadrianswall.squirrel.link/fort#33_geom>
+<http://hadrianswall.squirrel.link/data/fort/33_geom>
         a       <http://www.opengis.net/ont/sf#the_geom> ;
         <http://www.opengis.net/ont/geosparql#asWKT>
                 "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT (-2.681843961147661 55.06396168088446)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 
-<http://hadrianswall.squirrel.link/fort#9_geom>
+<http://hadrianswall.squirrel.link/data/fort/9_geom>
         a       <http://www.opengis.net/ont/sf#the_geom> ;
         <http://www.opengis.net/ont/geosparql#asWKT>
                 "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT (-2.330424146096202 55.01327055598714)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 
-<http://hadrianswall.squirrel.link/fort#1>
+<http://hadrianswall.squirrel.link/data/fort/1>
         a           <http://hadrianswall.squirrel.link/ontology#Hadrian%27s_Wall> , <http://hadrianswall.squirrel.link/ontology#Fort> ;
         rdfs:label  "South Shields" ;
         <http://hadrianswall.squirrel.link/ontology#latin_name>
@@ -215,13 +215,13 @@
         <http://hadrianswall.squirrel.link/ontology#name>
                 "South Shields" ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
-                <http://hadrianswall.squirrel.link/fort#1_geom> .
+                <http://hadrianswall.squirrel.link/data/fort/1_geom> .
 
 <http://www.opengis.net/ont/sf#the_geom>
         a                owl:Class ;
         rdfs:subClassOf  <http://www.opengis.net/ont/geosparql#Geometry> .
 
-<http://hadrianswall.squirrel.link/fort#22>
+<http://hadrianswall.squirrel.link/data/fort/22>
         a           <http://hadrianswall.squirrel.link/ontology#Cumbrian_Coast> , <http://hadrianswall.squirrel.link/ontology#Fort> ;
         rdfs:label  "Moresby" ;
         <http://hadrianswall.squirrel.link/ontology#latin_name>
@@ -229,12 +229,12 @@
         <http://hadrianswall.squirrel.link/ontology#name>
                 "Moresby" ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
-                <http://hadrianswall.squirrel.link/fort#22_geom> .
+                <http://hadrianswall.squirrel.link/data/fort/22_geom> .
 
 <http://www.opengis.net/ont/geosparql#hasGeometry>
         a       owl:ObjectProperty .
 
-<http://hadrianswall.squirrel.link/fort#35>
+<http://hadrianswall.squirrel.link/data/fort/35>
         a           <http://hadrianswall.squirrel.link/ontology#Outpost_Fort> , <http://hadrianswall.squirrel.link/ontology#Fort> ;
         rdfs:label  "High Rochester" ;
         <http://hadrianswall.squirrel.link/ontology#latin_name>
@@ -242,14 +242,14 @@
         <http://hadrianswall.squirrel.link/ontology#name>
                 "High Rochester" ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
-                <http://hadrianswall.squirrel.link/fort#35_geom> .
+                <http://hadrianswall.squirrel.link/data/fort/35_geom> .
 
-<http://hadrianswall.squirrel.link/fort#12_geom>
+<http://hadrianswall.squirrel.link/data/fort/12_geom>
         a       <http://www.opengis.net/ont/sf#the_geom> ;
         <http://www.opengis.net/ont/geosparql#asWKT>
                 "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT (-2.602398467112608 54.989395142687385)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 
-<http://hadrianswall.squirrel.link/fort#36_geom>
+<http://hadrianswall.squirrel.link/data/fort/36_geom>
         a       <http://www.opengis.net/ont/sf#the_geom> ;
         <http://www.opengis.net/ont/geosparql#asWKT>
                 "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT (-3.224422491138571 55.06501545059966)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
@@ -257,12 +257,12 @@
 <http://www.opengis.net/ont/geosparql#asWKT>
         a       owl:DatatypeProperty .
 
-<http://hadrianswall.squirrel.link/fort#29_geom>
+<http://hadrianswall.squirrel.link/data/fort/29_geom>
         a       <http://www.opengis.net/ont/sf#the_geom> ;
         <http://www.opengis.net/ont/geosparql#asWKT>
                 "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT (-3.154392041319277 54.80745852883132)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 
-<http://hadrianswall.squirrel.link/fort#6>
+<http://hadrianswall.squirrel.link/data/fort/6>
         a           <http://hadrianswall.squirrel.link/ontology#Hadrian%27s_Wall> , <http://hadrianswall.squirrel.link/ontology#Fort> ;
         rdfs:label  "Halton Chesters" ;
         <http://hadrianswall.squirrel.link/ontology#latin_name>
@@ -270,9 +270,9 @@
         <http://hadrianswall.squirrel.link/ontology#name>
                 "Halton Chesters" ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
-                <http://hadrianswall.squirrel.link/fort#6_geom> .
+                <http://hadrianswall.squirrel.link/data/fort/6_geom> .
 
-<http://hadrianswall.squirrel.link/fort#14>
+<http://hadrianswall.squirrel.link/data/fort/14>
         a           <http://hadrianswall.squirrel.link/ontology#Stanegate> , <http://hadrianswall.squirrel.link/ontology#Fort> ;
         rdfs:label  "Brampton Old Church" ;
         <http://hadrianswall.squirrel.link/ontology#latin_name>
@@ -280,9 +280,9 @@
         <http://hadrianswall.squirrel.link/ontology#name>
                 "Brampton Old Church" ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
-                <http://hadrianswall.squirrel.link/fort#14_geom> .
+                <http://hadrianswall.squirrel.link/data/fort/14_geom> .
 
-<http://hadrianswall.squirrel.link/fort#11_geom>
+<http://hadrianswall.squirrel.link/data/fort/11_geom>
         a       <http://www.opengis.net/ont/sf#the_geom> ;
         <http://www.opengis.net/ont/geosparql#asWKT>
                 "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT (-2.524133898805547 54.9848621338764)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
@@ -292,12 +292,12 @@
         rdfs:label       "Cumbrian Coast"@en ;
         rdfs:subClassOf  <http://hadrianswall.squirrel.link/ontology#Fort> .
 
-<http://hadrianswall.squirrel.link/fort#35_geom>
+<http://hadrianswall.squirrel.link/data/fort/35_geom>
         a       <http://www.opengis.net/ont/sf#the_geom> ;
         <http://www.opengis.net/ont/geosparql#asWKT>
                 "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT (-2.266020352835056 55.28124324278989)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 
-<http://hadrianswall.squirrel.link/fort#27>
+<http://hadrianswall.squirrel.link/data/fort/27>
         a           <http://hadrianswall.squirrel.link/ontology#Support_Fort> , <http://hadrianswall.squirrel.link/ontology#Fort> ;
         rdfs:label  "Chester-le-Street" ;
         <http://hadrianswall.squirrel.link/ontology#latin_name>
@@ -305,12 +305,12 @@
         <http://hadrianswall.squirrel.link/ontology#name>
                 "Chester-le-Street" ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
-                <http://hadrianswall.squirrel.link/fort#27_geom> .
+                <http://hadrianswall.squirrel.link/data/fort/27_geom> .
 
 rdfs:label  a       owl:AnnotationProperty ;
         rdfs:label  "name"@en .
 
-<http://hadrianswall.squirrel.link/fort#21>
+<http://hadrianswall.squirrel.link/data/fort/21>
         a           <http://hadrianswall.squirrel.link/ontology#Cumbrian_Coast> , <http://hadrianswall.squirrel.link/ontology#Fort> ;
         rdfs:label  "Maryport" ;
         <http://hadrianswall.squirrel.link/ontology#latin_name>
@@ -318,13 +318,13 @@ rdfs:label  a       owl:AnnotationProperty ;
         <http://hadrianswall.squirrel.link/ontology#name>
                 "Maryport" ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
-                <http://hadrianswall.squirrel.link/fort#21_geom> .
+                <http://hadrianswall.squirrel.link/data/fort/21_geom> .
 
 <http://hadrianswall.squirrel.link/ontology#Fort>
         a                owl:Class ;
         rdfs:subClassOf  <http://www.opengis.net/ont/geosparql#Feature> .
 
-<http://hadrianswall.squirrel.link/fort#34>
+<http://hadrianswall.squirrel.link/data/fort/34>
         a           <http://hadrianswall.squirrel.link/ontology#Outpost_Fort> , <http://hadrianswall.squirrel.link/ontology#Fort> ;
         rdfs:label  "Netherby" ;
         <http://hadrianswall.squirrel.link/ontology#latin_name>
@@ -332,14 +332,14 @@ rdfs:label  a       owl:AnnotationProperty ;
         <http://hadrianswall.squirrel.link/ontology#name>
                 "Netherby" ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
-                <http://hadrianswall.squirrel.link/fort#34_geom> .
+                <http://hadrianswall.squirrel.link/data/fort/34_geom> .
 
-<http://hadrianswall.squirrel.link/fort#14_geom>
+<http://hadrianswall.squirrel.link/data/fort/14_geom>
         a       <http://www.opengis.net/ont/sf#the_geom> ;
         <http://www.opengis.net/ont/geosparql#asWKT>
                 "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT (-2.767147137967068 54.945674322674044)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 
-<http://hadrianswall.squirrel.link/fort#19>
+<http://hadrianswall.squirrel.link/data/fort/19>
         a           <http://hadrianswall.squirrel.link/ontology#Cumbrian_Coast> , <http://hadrianswall.squirrel.link/ontology#Fort> ;
         rdfs:label  "Beckfoot" ;
         <http://hadrianswall.squirrel.link/ontology#latin_name>
@@ -347,34 +347,34 @@ rdfs:label  a       owl:AnnotationProperty ;
         <http://hadrianswall.squirrel.link/ontology#name>
                 "Beckfoot" ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
-                <http://hadrianswall.squirrel.link/fort#19_geom> .
+                <http://hadrianswall.squirrel.link/data/fort/19_geom> .
 
-<http://hadrianswall.squirrel.link/fort#38_geom>
+<http://hadrianswall.squirrel.link/data/fort/38_geom>
         a       <http://www.opengis.net/ont/sf#the_geom> ;
         <http://www.opengis.net/ont/geosparql#asWKT>
                 "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT (-1.676148829071947 54.67676258383526)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 
-<http://hadrianswall.squirrel.link/fort#20_geom>
+<http://hadrianswall.squirrel.link/data/fort/20_geom>
         a       <http://www.opengis.net/ont/sf#the_geom> ;
         <http://www.opengis.net/ont/geosparql#asWKT>
                 "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT (-3.545624293295767 54.65591416763016)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 
-<http://hadrianswall.squirrel.link/fort#13_geom>
+<http://hadrianswall.squirrel.link/data/fort/13_geom>
         a       <http://www.opengis.net/ont/sf#the_geom> ;
         <http://www.opengis.net/ont/geosparql#asWKT>
                 "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT (-2.76343949821844 54.963625382499444)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 
-<http://hadrianswall.squirrel.link/fort#37_geom>
+<http://hadrianswall.squirrel.link/data/fort/37_geom>
         a       <http://www.opengis.net/ont/sf#the_geom> ;
         <http://www.opengis.net/ont/geosparql#asWKT>
                 "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT (-2.476500927652278 54.8321207616057)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 
-<http://hadrianswall.squirrel.link/fort#2_geom>
+<http://hadrianswall.squirrel.link/data/fort/2_geom>
         a       <http://www.opengis.net/ont/sf#the_geom> ;
         <http://www.opengis.net/ont/geosparql#asWKT>
                 "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT (-1.532291202964515 54.987854166264)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 
-<http://hadrianswall.squirrel.link/fort#5>
+<http://hadrianswall.squirrel.link/data/fort/5>
         a           <http://hadrianswall.squirrel.link/ontology#Hadrian%27s_Wall> , <http://hadrianswall.squirrel.link/ontology#Fort> ;
         rdfs:label  "Rudchester" ;
         <http://hadrianswall.squirrel.link/ontology#latin_name>
@@ -382,9 +382,9 @@ rdfs:label  a       owl:AnnotationProperty ;
         <http://hadrianswall.squirrel.link/ontology#name>
                 "Rudchester" ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
-                <http://hadrianswall.squirrel.link/fort#5_geom> .
+                <http://hadrianswall.squirrel.link/data/fort/5_geom> .
 
-<http://hadrianswall.squirrel.link/fort#13>
+<http://hadrianswall.squirrel.link/data/fort/13>
         a           <http://hadrianswall.squirrel.link/ontology#Hadrian%27s_Wall> , <http://hadrianswall.squirrel.link/ontology#Fort> ;
         rdfs:label  "Castlesteads" ;
         <http://hadrianswall.squirrel.link/ontology#latin_name>
@@ -392,9 +392,9 @@ rdfs:label  a       owl:AnnotationProperty ;
         <http://hadrianswall.squirrel.link/ontology#name>
                 "Castlesteads" ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
-                <http://hadrianswall.squirrel.link/fort#13_geom> .
+                <http://hadrianswall.squirrel.link/data/fort/13_geom> .
 
-<http://hadrianswall.squirrel.link/fort#26>
+<http://hadrianswall.squirrel.link/data/fort/26>
         a           <http://hadrianswall.squirrel.link/ontology#Support_Fort> , <http://hadrianswall.squirrel.link/ontology#Fort> ;
         rdfs:label  "Ebchester" ;
         <http://hadrianswall.squirrel.link/ontology#latin_name>
@@ -402,9 +402,9 @@ rdfs:label  a       owl:AnnotationProperty ;
         <http://hadrianswall.squirrel.link/ontology#name>
                 "Ebchester" ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
-                <http://hadrianswall.squirrel.link/fort#26_geom> .
+                <http://hadrianswall.squirrel.link/data/fort/26_geom> .
 
-<http://hadrianswall.squirrel.link/fort#39>
+<http://hadrianswall.squirrel.link/data/fort/39>
         a           <http://hadrianswall.squirrel.link/ontology#Support_Fort> , <http://hadrianswall.squirrel.link/ontology#Fort> ;
         rdfs:label  "Brougham" ;
         <http://hadrianswall.squirrel.link/ontology#latin_name>
@@ -412,19 +412,19 @@ rdfs:label  a       owl:AnnotationProperty ;
         <http://hadrianswall.squirrel.link/ontology#name>
                 "Brougham" ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
-                <http://hadrianswall.squirrel.link/fort#39_geom> .
+                <http://hadrianswall.squirrel.link/data/fort/39_geom> .
 
-<http://hadrianswall.squirrel.link/fort#17_geom>
+<http://hadrianswall.squirrel.link/data/fort/17_geom>
         a       <http://www.opengis.net/ont/sf#the_geom> ;
         <http://www.opengis.net/ont/geosparql#asWKT>
                 "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT (-3.148929565215852 54.92810739524144)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 
-<http://hadrianswall.squirrel.link/fort#1_geom>
+<http://hadrianswall.squirrel.link/data/fort/1_geom>
         a       <http://www.opengis.net/ont/sf#the_geom> ;
         <http://www.opengis.net/ont/geosparql#asWKT>
                 "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT (-1.431135272387607 55.004314128068124)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 
-<http://hadrianswall.squirrel.link/fort#20>
+<http://hadrianswall.squirrel.link/data/fort/20>
         a           <http://hadrianswall.squirrel.link/ontology#Cumbrian_Coast> , <http://hadrianswall.squirrel.link/ontology#Fort> ;
         rdfs:label  "Burrow Walls" ;
         <http://hadrianswall.squirrel.link/ontology#latin_name>
@@ -432,9 +432,9 @@ rdfs:label  a       owl:AnnotationProperty ;
         <http://hadrianswall.squirrel.link/ontology#name>
                 "Burrow Walls" ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
-                <http://hadrianswall.squirrel.link/fort#20_geom> .
+                <http://hadrianswall.squirrel.link/data/fort/20_geom> .
 
-<http://hadrianswall.squirrel.link/fort#33>
+<http://hadrianswall.squirrel.link/data/fort/33>
         a           <http://hadrianswall.squirrel.link/ontology#Outpost_Fort> , <http://hadrianswall.squirrel.link/ontology#Fort> ;
         rdfs:label  "Bewcastle" ;
         <http://hadrianswall.squirrel.link/ontology#latin_name>
@@ -442,14 +442,14 @@ rdfs:label  a       owl:AnnotationProperty ;
         <http://hadrianswall.squirrel.link/ontology#name>
                 "Bewcastle" ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
-                <http://hadrianswall.squirrel.link/fort#33_geom> .
+                <http://hadrianswall.squirrel.link/data/fort/33_geom> .
 
-<http://hadrianswall.squirrel.link/fort#16_geom>
+<http://hadrianswall.squirrel.link/data/fort/16_geom>
         a       <http://www.opengis.net/ont/sf#the_geom> ;
         <http://www.opengis.net/ont/geosparql#asWKT>
                 "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT (-3.049253373397388 54.92234088953204)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 
-<http://hadrianswall.squirrel.link/fort#18>
+<http://hadrianswall.squirrel.link/data/fort/18>
         a           <http://hadrianswall.squirrel.link/ontology#Hadrian%27s_Wall> , <http://hadrianswall.squirrel.link/ontology#Fort> ;
         rdfs:label  "Bowness-on-Solway" ;
         <http://hadrianswall.squirrel.link/ontology#latin_name>
@@ -457,29 +457,29 @@ rdfs:label  a       owl:AnnotationProperty ;
         <http://hadrianswall.squirrel.link/ontology#name>
                 "Bowness-on-Solway" ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
-                <http://hadrianswall.squirrel.link/fort#18_geom> .
+                <http://hadrianswall.squirrel.link/data/fort/18_geom> .
 
-<http://hadrianswall.squirrel.link/fort#22_geom>
+<http://hadrianswall.squirrel.link/data/fort/22_geom>
         a       <http://www.opengis.net/ont/sf#the_geom> ;
         <http://www.opengis.net/ont/geosparql#asWKT>
                 "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT (-3.575854528224965 54.574194363031175)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 
-<http://hadrianswall.squirrel.link/fort#15_geom>
+<http://hadrianswall.squirrel.link/data/fort/15_geom>
         a       <http://www.opengis.net/ont/sf#the_geom> ;
         <http://www.opengis.net/ont/geosparql#asWKT>
                 "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT (-2.934535943837438 54.904778645263825)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 
-<http://hadrianswall.squirrel.link/fort#39_geom>
+<http://hadrianswall.squirrel.link/data/fort/39_geom>
         a       <http://www.opengis.net/ont/sf#the_geom> ;
         <http://www.opengis.net/ont/geosparql#asWKT>
                 "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT (-2.717255870532204 54.65298057188774)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 
-<http://hadrianswall.squirrel.link/fort#4_geom>
+<http://hadrianswall.squirrel.link/data/fort/4_geom>
         a       <http://www.opengis.net/ont/sf#the_geom> ;
         <http://www.opengis.net/ont/geosparql#asWKT>
                 "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT (-1.66408462617604 54.9769714478022)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 
-<http://hadrianswall.squirrel.link/fort#40>
+<http://hadrianswall.squirrel.link/data/fort/40>
         a           <http://hadrianswall.squirrel.link/ontology#Support_Fort> , <http://hadrianswall.squirrel.link/ontology#Fort> ;
         rdfs:label  "Kirkby Thore" ;
         <http://hadrianswall.squirrel.link/ontology#latin_name>
@@ -487,14 +487,14 @@ rdfs:label  a       owl:AnnotationProperty ;
         <http://hadrianswall.squirrel.link/ontology#name>
                 "Kirkby Thore" ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
-                <http://hadrianswall.squirrel.link/fort#40_geom> .
+                <http://hadrianswall.squirrel.link/data/fort/40_geom> .
 
-<http://hadrianswall.squirrel.link/fort#21_geom>
+<http://hadrianswall.squirrel.link/data/fort/21_geom>
         a       <http://www.opengis.net/ont/sf#the_geom> ;
         <http://www.opengis.net/ont/geosparql#asWKT>
                 "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT (-3.493922018751928 54.72086264785757)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 
-<http://hadrianswall.squirrel.link/fort#4>
+<http://hadrianswall.squirrel.link/data/fort/4>
         a           <http://hadrianswall.squirrel.link/ontology#Hadrian%27s_Wall> , <http://hadrianswall.squirrel.link/ontology#Fort> ;
         rdfs:label  "Benwell" ;
         <http://hadrianswall.squirrel.link/ontology#latin_name>
@@ -502,9 +502,9 @@ rdfs:label  a       owl:AnnotationProperty ;
         <http://hadrianswall.squirrel.link/ontology#name>
                 "Benwell" ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
-                <http://hadrianswall.squirrel.link/fort#4_geom> .
+                <http://hadrianswall.squirrel.link/data/fort/4_geom> .
 
-<http://hadrianswall.squirrel.link/fort#12>
+<http://hadrianswall.squirrel.link/data/fort/12>
         a           <http://hadrianswall.squirrel.link/ontology#Stanegate> , <http://hadrianswall.squirrel.link/ontology#Fort> ;
         rdfs:label  "Birdoswald" ;
         <http://hadrianswall.squirrel.link/ontology#latin_name>
@@ -512,9 +512,9 @@ rdfs:label  a       owl:AnnotationProperty ;
         <http://hadrianswall.squirrel.link/ontology#name>
                 "Birdoswald" ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
-                <http://hadrianswall.squirrel.link/fort#12_geom> .
+                <http://hadrianswall.squirrel.link/data/fort/12_geom> .
 
-<http://hadrianswall.squirrel.link/fort#25>
+<http://hadrianswall.squirrel.link/data/fort/25>
         a           <http://hadrianswall.squirrel.link/ontology#Stanegate> , <http://hadrianswall.squirrel.link/ontology#Fort> ;
         rdfs:label  "Corbridge" ;
         <http://hadrianswall.squirrel.link/ontology#latin_name>
@@ -522,14 +522,14 @@ rdfs:label  a       owl:AnnotationProperty ;
         <http://hadrianswall.squirrel.link/ontology#name>
                 "Corbridge" ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
-                <http://hadrianswall.squirrel.link/fort#25_geom> .
+                <http://hadrianswall.squirrel.link/data/fort/25_geom> .
 
-<http://hadrianswall.squirrel.link/fort#19_geom>
+<http://hadrianswall.squirrel.link/data/fort/19_geom>
         a       <http://www.opengis.net/ont/sf#the_geom> ;
         <http://www.opengis.net/ont/geosparql#asWKT>
                 "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT (-3.418372255848432 54.826122347771566)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 
-<http://hadrianswall.squirrel.link/fort#3_geom>
+<http://hadrianswall.squirrel.link/data/fort/3_geom>
         a       <http://www.opengis.net/ont/sf#the_geom> ;
         <http://www.opengis.net/ont/geosparql#asWKT>
                 "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT (-1.610376403695749 54.96872777238491)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
@@ -538,7 +538,7 @@ rdfs:label  a       owl:AnnotationProperty ;
         a                owl:Class ;
         rdfs:subClassOf  <http://www.opengis.net/ont/geosparql#SpatialObject> .
 
-<http://hadrianswall.squirrel.link/fort#38>
+<http://hadrianswall.squirrel.link/data/fort/38>
         a           <http://hadrianswall.squirrel.link/ontology#Support_Fort> , <http://hadrianswall.squirrel.link/ontology#Fort> ;
         rdfs:label  "Binchester" ;
         <http://hadrianswall.squirrel.link/ontology#latin_name>
@@ -546,9 +546,9 @@ rdfs:label  a       owl:AnnotationProperty ;
         <http://hadrianswall.squirrel.link/ontology#name>
                 "Binchester" ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
-                <http://hadrianswall.squirrel.link/fort#38_geom> .
+                <http://hadrianswall.squirrel.link/data/fort/38_geom> .
 
-<http://hadrianswall.squirrel.link/fort#18_geom>
+<http://hadrianswall.squirrel.link/data/fort/18_geom>
         a       <http://www.opengis.net/ont/sf#the_geom> ;
         <http://www.opengis.net/ont/geosparql#asWKT>
                 "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT (-3.215584657725321 54.95278185389729)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
@@ -558,7 +558,7 @@ rdfs:label  a       owl:AnnotationProperty ;
         rdfs:label       "Support Fort"@en ;
         rdfs:subClassOf  <http://hadrianswall.squirrel.link/ontology#Fort> .
 
-<http://hadrianswall.squirrel.link/fort#32>
+<http://hadrianswall.squirrel.link/data/fort/32>
         a           <http://hadrianswall.squirrel.link/ontology#Outpost_Fort> , <http://hadrianswall.squirrel.link/ontology#Fort> ;
         rdfs:label  "Risingham" ;
         <http://hadrianswall.squirrel.link/ontology#latin_name>
@@ -566,9 +566,9 @@ rdfs:label  a       owl:AnnotationProperty ;
         <http://hadrianswall.squirrel.link/ontology#name>
                 "Risingham" ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
-                <http://hadrianswall.squirrel.link/fort#32_geom> .
+                <http://hadrianswall.squirrel.link/data/fort/32_geom> .
 
-<http://hadrianswall.squirrel.link/fort#24_geom>
+<http://hadrianswall.squirrel.link/data/fort/24_geom>
         a       <http://www.opengis.net/ont/sf#the_geom> ;
         <http://www.opengis.net/ont/geosparql#asWKT>
                 "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT (-2.360195034072698 54.99123510697597)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
@@ -576,7 +576,7 @@ rdfs:label  a       owl:AnnotationProperty ;
 <http://www.opengis.net/ont/geosparql#SpatialObject>
         a       owl:Class .
 
-<http://hadrianswall.squirrel.link/fort#9>
+<http://hadrianswall.squirrel.link/data/fort/9>
         a           <http://hadrianswall.squirrel.link/ontology#Hadrian%27s_Wall> , <http://hadrianswall.squirrel.link/ontology#Fort> ;
         rdfs:label  "Housesteads" ;
         <http://hadrianswall.squirrel.link/ontology#latin_name>
@@ -584,9 +584,9 @@ rdfs:label  a       owl:AnnotationProperty ;
         <http://hadrianswall.squirrel.link/ontology#name>
                 "Housesteads" ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
-                <http://hadrianswall.squirrel.link/fort#9_geom> .
+                <http://hadrianswall.squirrel.link/data/fort/9_geom> .
 
-<http://hadrianswall.squirrel.link/fort#17>
+<http://hadrianswall.squirrel.link/data/fort/17>
         a           <http://hadrianswall.squirrel.link/ontology#Hadrian%27s_Wall> , <http://hadrianswall.squirrel.link/ontology#Fort> ;
         rdfs:label  "Drumburgh" ;
         <http://hadrianswall.squirrel.link/ontology#latin_name>
@@ -594,14 +594,14 @@ rdfs:label  a       owl:AnnotationProperty ;
         <http://hadrianswall.squirrel.link/ontology#name>
                 "Drumburgh" ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
-                <http://hadrianswall.squirrel.link/fort#17_geom> .
+                <http://hadrianswall.squirrel.link/data/fort/17_geom> .
 
-<http://hadrianswall.squirrel.link/fort#30_geom>
+<http://hadrianswall.squirrel.link/data/fort/30_geom>
         a       <http://www.opengis.net/ont/sf#the_geom> ;
         <http://www.opengis.net/ont/geosparql#asWKT>
                 "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT (-3.383140378486306 54.67143922854185)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 
-<http://hadrianswall.squirrel.link/fort#6_geom>
+<http://hadrianswall.squirrel.link/data/fort/6_geom>
         a       <http://www.opengis.net/ont/sf#the_geom> ;
         <http://www.opengis.net/ont/geosparql#asWKT>
                 "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT (-2.005580016388115 55.010743913031455)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
@@ -611,12 +611,12 @@ rdfs:label  a       owl:AnnotationProperty ;
         rdfs:label       "Outpost Fort"@en ;
         rdfs:subClassOf  <http://hadrianswall.squirrel.link/ontology#Fort> .
 
-<http://hadrianswall.squirrel.link/fort#23_geom>
+<http://hadrianswall.squirrel.link/data/fort/23_geom>
         a       <http://www.opengis.net/ont/sf#the_geom> ;
         <http://www.opengis.net/ont/geosparql#asWKT>
                 "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT (-2.941471979419617 54.89634559839578)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 
-<http://hadrianswall.squirrel.link/fort#3>
+<http://hadrianswall.squirrel.link/data/fort/3>
         a           <http://hadrianswall.squirrel.link/ontology#Hadrian%27s_Wall> , <http://hadrianswall.squirrel.link/ontology#Fort> ;
         rdfs:label  "Newcastle" ;
         <http://hadrianswall.squirrel.link/ontology#latin_name>
@@ -624,9 +624,9 @@ rdfs:label  a       owl:AnnotationProperty ;
         <http://hadrianswall.squirrel.link/ontology#name>
                 "Newcastle" ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
-                <http://hadrianswall.squirrel.link/fort#3_geom> .
+                <http://hadrianswall.squirrel.link/data/fort/3_geom> .
 
-<http://hadrianswall.squirrel.link/fort#11>
+<http://hadrianswall.squirrel.link/data/fort/11>
         a           <http://hadrianswall.squirrel.link/ontology#Stanegate> , <http://hadrianswall.squirrel.link/ontology#Fort> ;
         rdfs:label  "Carvoran" ;
         <http://hadrianswall.squirrel.link/ontology#latin_name>
@@ -634,14 +634,14 @@ rdfs:label  a       owl:AnnotationProperty ;
         <http://hadrianswall.squirrel.link/ontology#name>
                 "Carvoran" ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
-                <http://hadrianswall.squirrel.link/fort#11_geom> .
+                <http://hadrianswall.squirrel.link/data/fort/11_geom> .
 
-<http://hadrianswall.squirrel.link/fort#5_geom>
+<http://hadrianswall.squirrel.link/data/fort/5_geom>
         a       <http://www.opengis.net/ont/sf#the_geom> ;
         <http://www.opengis.net/ont/geosparql#asWKT>
                 "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT (-1.82544563922685 55.002189781256355)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 
-<http://hadrianswall.squirrel.link/fort#24>
+<http://hadrianswall.squirrel.link/data/fort/24>
         a           <http://hadrianswall.squirrel.link/ontology#Stanegate> , <http://hadrianswall.squirrel.link/ontology#Fort> ;
         rdfs:label  "Vindolanda" ;
         <http://hadrianswall.squirrel.link/ontology#latin_name>
@@ -649,9 +649,9 @@ rdfs:label  a       owl:AnnotationProperty ;
         <http://hadrianswall.squirrel.link/ontology#name>
                 "Vindolanda" ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
-                <http://hadrianswall.squirrel.link/fort#24_geom> .
+                <http://hadrianswall.squirrel.link/data/fort/24_geom> .
 
-<http://hadrianswall.squirrel.link/fort#37>
+<http://hadrianswall.squirrel.link/data/fort/37>
         a           <http://hadrianswall.squirrel.link/ontology#Support_Fort> , <http://hadrianswall.squirrel.link/ontology#Fort> ;
         rdfs:label  "Whitley Castle" ;
         <http://hadrianswall.squirrel.link/ontology#latin_name>
@@ -659,7 +659,7 @@ rdfs:label  a       owl:AnnotationProperty ;
         <http://hadrianswall.squirrel.link/ontology#name>
                 "Whitley Castle" ;
         <http://www.opengis.net/ont/geosparql#hasGeometry>
-                <http://hadrianswall.squirrel.link/fort#37_geom> .
+                <http://hadrianswall.squirrel.link/data/fort/37_geom> .
 
 <http://hadrianswall.squirrel.link/ontology#name>
         a           owl:DatatypeProperty ;
