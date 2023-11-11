@@ -48,6 +48,13 @@ var minivowlresult={
  ],
  "links": [
   {
+   "source": 4,
+   "target": 0,
+   "valueTo": "hasGeometry",
+   "propertyTo": "class",
+   "uriTo": "http://www.opengis.net/ont/geosparql#hasGeometry"
+  },
+  {
    "source": 2,
    "target": 0,
    "valueTo": "hasGeometry",
@@ -56,13 +63,6 @@ var minivowlresult={
   },
   {
    "source": 1,
-   "target": 0,
-   "valueTo": "hasGeometry",
-   "propertyTo": "class",
-   "uriTo": "http://www.opengis.net/ont/geosparql#hasGeometry"
-  },
-  {
-   "source": 4,
    "target": 0,
    "valueTo": "hasGeometry",
    "propertyTo": "class",
