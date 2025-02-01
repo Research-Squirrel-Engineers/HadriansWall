@@ -3,10 +3,10 @@
 @prefix ns2: <http://www.w3.org/ns/pim/space#> .
 
 <docs//profile/card> a foaf:PersonalProfileDocument ;
-    foaf:primaryTopic <https://Research-Squirrel-Engineers.github.io/HadriansWall/profile/card#> .
+    foaf:primaryTopic <https://Research-Squirrel-Engineers.github.io/HadriansWall//profile/card#> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/profile/card#> a foaf:Person ;
-    ns2:storage <https://Research-Squirrel-Engineers.github.io/HadriansWall> ;
-    ns1:privateTypeIndex <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/privateTypeIndex.ttl> ;
-    ns1:publicTypeIndex <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//profile/card#> a foaf:Person ;
+    ns2:storage <https://Research-Squirrel-Engineers.github.io/HadriansWall/haw_dataset> ;
+    ns1:privateTypeIndex <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/privateTypeIndex.ttl> ;
+    ns1:publicTypeIndex <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl> .
 

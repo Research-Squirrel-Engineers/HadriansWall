@@ -1,5 +1,5 @@
 var search={
-  "-": "http://hadrianswall.squirrel.link/data/road/8",
+  "-": "http://hadrianswall.squirrel.link/data/road/6",
   "Beckfoot": "http://hadrianswall.squirrel.link/data/fort/19",
   "Benwell": "http://hadrianswall.squirrel.link/data/fort/4",
   "Bewcastle": "http://hadrianswall.squirrel.link/data/fort/33",
@@ -63,7 +63,7 @@ var search={
   "RomanRoad Instances Collection": "http://hadrianswall.squirrel.link/data/RomanRoad_collection",
   "Rudchester": "http://hadrianswall.squirrel.link/data/fort/5",
   "South Shields": "http://hadrianswall.squirrel.link/data/fort/1",
-  "Stanegate": "http://hadrianswall.squirrel.link/data/road/18",
+  "Stanegate": "http://hadrianswall.squirrel.link/data/road/16",
   "Stanegate Instances Collection": "http://hadrianswall.squirrel.link/data/Stanegate_collection",
   "Stanwix": "http://hadrianswall.squirrel.link/data/fort/15",
   "Support_Fort Instances Collection": "http://hadrianswall.squirrel.link/data/Support_Fort_collection",

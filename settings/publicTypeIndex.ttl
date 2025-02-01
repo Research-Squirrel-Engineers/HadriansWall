@@ -2,813 +2,813 @@
 @prefix ns1: <http://www.w3.org/ns/solid/terms#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl> a <http://www.w3.org/ns/ldp#RDFResource>,
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl> a <http://www.w3.org/ns/ldp#RDFResource>,
         ns1:ListedDocument,
         ns1:TypeIndex ;
     rdfs:label "Public Type Index"@en ;
     rdfs:comment "This Document contains a list of links to other Documents, along with the type of data that is to be included in those Documents"@en ;
-    rdfs:member <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#10_geom>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#10_suniv0_>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#10_suniv1_>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#11_geom>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#11_suniv0_>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#11_suniv1_>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#12_geom>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#12_suniv0_>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#12_suniv1_>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#13_geom>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#13_suniv0_>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#13_suniv1_>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#14_geom>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#14_suniv0_>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#14_suniv1_>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#15_geom>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#15_suniv0_>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#15_suniv1_>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#16_geom>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#16_suniv0_>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#16_suniv1_>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#17_geom>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#17_suniv0_>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#17_suniv1_>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#18_geom>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#18_suniv0_>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#18_suniv1_>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#19_geom>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#19_suniv0_>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#19_suniv1_>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#1_geom>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#1_suniv0_>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#1_suniv1_>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#20_geom>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#20_suniv0_>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#20_suniv1_>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#21_geom>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#21_suniv0_>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#21_suniv1_>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#22_geom>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#22_suniv0_>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#22_suniv1_>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#23_geom>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#23_suniv0_>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#23_suniv1_>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#24_geom>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#24_suniv0_>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#24_suniv1_>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#25_geom>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#25_suniv0_>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#25_suniv1_>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#26_geom>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#26_suniv0_>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#26_suniv1_>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#27_geom>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#27_suniv0_>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#27_suniv1_>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#28_geom>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#28_suniv0_>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#28_suniv1_>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#29_geom>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#29_suniv0_>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#29_suniv1_>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#2_geom>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#2_suniv0_>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#2_suniv1_>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#30_geom>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#30_suniv0_>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#30_suniv1_>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#31_geom>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#31_suniv0_>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#31_suniv1_>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#32_geom>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#32_suniv0_>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#32_suniv1_>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#33_geom>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#33_suniv0_>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#33_suniv1_>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#34_geom>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#34_suniv0_>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#34_suniv1_>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#35_geom>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#35_suniv0_>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#35_suniv1_>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#36_geom>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#36_suniv0_>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#36_suniv1_>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#37_geom>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#37_suniv0_>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#37_suniv1_>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#38_geom>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#38_suniv0_>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#38_suniv1_>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#39_geom>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#39_suniv0_>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#39_suniv1_>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#3_geom>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#3_suniv0_>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#3_suniv1_>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#40_geom>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#40_suniv0_>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#40_suniv1_>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#4_geom>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#4_suniv0_>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#4_suniv1_>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#5_geom>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#5_suniv0_>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#5_suniv1_>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#6_geom>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#6_suniv0_>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#6_suniv1_>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#7_geom>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#7_suniv0_>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#7_suniv1_>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#8_geom>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#8_suniv0_>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#8_suniv1_>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#9_geom>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#9_suniv0_>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#9_suniv1_>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#CoastalSite>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#CoastalSite_collection>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#Cumbrian_Coast>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#Cumbrian_Coast_collection>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#Curtain_wall>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#Curtain_wall_collection>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#Feature>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#FeatureCollection>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#Fort>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#Fort_collection>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#Geometry>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#GeometryCollection>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#Hadrian%27s_Wall>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#Hadrian%27s_Wall_collection>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#HadriansWall>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#HadriansWall_collection>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#Major_Road>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#Major_Road_collection>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#Milefortlet>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#Milefortlet_collection>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#Minor_Road>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#Minor_Road_collection>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#Outpost_Fort>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#Outpost_Fort_collection>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#RomanRoad>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#RomanRoad_collection>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#SpatialObject>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#SpatialObjectCollection>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#Stanegate>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#Stanegate_collection>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#Support_Fort>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#Support_Fort_collection>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#Tower>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#Tower_collection>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#Vallum>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#Vallum_collection>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#Wall_ditch>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#Wall_ditch_collection>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#the_geom>,
-        <https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#the_geom_collection> .
+    rdfs:member <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#10_geom>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#10_suniv0_>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#10_suniv1_>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#11_geom>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#11_suniv0_>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#11_suniv1_>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#12_geom>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#12_suniv0_>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#12_suniv1_>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#13_geom>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#13_suniv0_>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#13_suniv1_>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#14_geom>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#14_suniv0_>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#14_suniv1_>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#15_geom>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#15_suniv0_>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#15_suniv1_>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#16_geom>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#16_suniv0_>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#16_suniv1_>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#17_geom>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#17_suniv0_>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#17_suniv1_>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#18_geom>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#18_suniv0_>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#18_suniv1_>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#19_geom>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#19_suniv0_>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#19_suniv1_>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#1_geom>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#1_suniv0_>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#1_suniv1_>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#20_geom>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#20_suniv0_>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#20_suniv1_>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#21_geom>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#21_suniv0_>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#21_suniv1_>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#22_geom>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#22_suniv0_>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#22_suniv1_>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#23_geom>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#23_suniv0_>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#23_suniv1_>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#24_geom>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#24_suniv0_>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#24_suniv1_>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#25_geom>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#25_suniv0_>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#25_suniv1_>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#26_geom>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#26_suniv0_>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#26_suniv1_>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#27_geom>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#27_suniv0_>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#27_suniv1_>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#28_geom>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#28_suniv0_>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#28_suniv1_>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#29_geom>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#29_suniv0_>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#29_suniv1_>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#2_geom>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#2_suniv0_>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#2_suniv1_>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#30_geom>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#30_suniv0_>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#30_suniv1_>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#31_geom>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#31_suniv0_>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#31_suniv1_>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#32_geom>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#32_suniv0_>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#32_suniv1_>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#33_geom>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#33_suniv0_>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#33_suniv1_>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#34_geom>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#34_suniv0_>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#34_suniv1_>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#35_geom>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#35_suniv0_>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#35_suniv1_>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#36_geom>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#36_suniv0_>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#36_suniv1_>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#37_geom>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#37_suniv0_>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#37_suniv1_>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#38_geom>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#38_suniv0_>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#38_suniv1_>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#39_geom>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#39_suniv0_>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#39_suniv1_>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#3_geom>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#3_suniv0_>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#3_suniv1_>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#40_geom>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#40_suniv0_>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#40_suniv1_>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#4_geom>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#4_suniv0_>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#4_suniv1_>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#5_geom>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#5_suniv0_>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#5_suniv1_>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#6_geom>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#6_suniv0_>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#6_suniv1_>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#7_geom>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#7_suniv0_>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#7_suniv1_>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#8_geom>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#8_suniv0_>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#8_suniv1_>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#9_geom>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#9_suniv0_>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#9_suniv1_>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#CoastalSite>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#CoastalSite_collection>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#Cumbrian_Coast>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#Cumbrian_Coast_collection>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#Curtain_wall>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#Curtain_wall_collection>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#Feature>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#FeatureCollection>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#Fort>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#Fort_collection>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#Geometry>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#GeometryCollection>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#Hadrian%27s_Wall>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#Hadrian%27s_Wall_collection>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#HadriansWall>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#HadriansWall_collection>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#Major_Road>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#Major_Road_collection>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#Milefortlet>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#Milefortlet_collection>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#Minor_Road>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#Minor_Road_collection>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#Outpost_Fort>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#Outpost_Fort_collection>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#RomanRoad>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#RomanRoad_collection>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#SpatialObject>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#SpatialObjectCollection>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#Stanegate>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#Stanegate_collection>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#Support_Fort>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#Support_Fort_collection>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#Tower>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#Tower_collection>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#Vallum>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#Vallum_collection>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#Wall_ditch>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#Wall_ditch_collection>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#the_geom>,
+        <https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#the_geom_collection> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#10_geom> ns1:forClass <http://www.opengis.net/ont/sf#the_geom> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/10_geom> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#10_geom> ns1:forClass <http://www.opengis.net/ont/sf#the_geom> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//10_geom> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#10_suniv0_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#CoastalSite>,
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#10_suniv0_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#CoastalSite>,
         <http://hadrianswall.squirrel.link/ontology#Fort>,
         <http://hadrianswall.squirrel.link/ontology#RomanRoad>,
         <http://hadrianswall.squirrel.link/ontology#Wall_ditch> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/10_suniv0_> .
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//10_suniv0_> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#10_suniv1_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Hadrian%27s_Wall>,
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#10_suniv1_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Hadrian%27s_Wall>,
         <http://hadrianswall.squirrel.link/ontology#HadriansWall>,
         <http://hadrianswall.squirrel.link/ontology#Milefortlet>,
         <http://hadrianswall.squirrel.link/ontology#Minor_Road> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/10_suniv1_> .
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//10_suniv1_> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#11_geom> ns1:forClass <http://www.opengis.net/ont/sf#the_geom> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/11_geom> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#11_geom> ns1:forClass <http://www.opengis.net/ont/sf#the_geom> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//11_geom> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#11_suniv0_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#CoastalSite>,
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#11_suniv0_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#CoastalSite>,
         <http://hadrianswall.squirrel.link/ontology#Fort>,
         <http://hadrianswall.squirrel.link/ontology#RomanRoad>,
         <http://hadrianswall.squirrel.link/ontology#Wall_ditch> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/11_suniv0_> .
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//11_suniv0_> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#11_suniv1_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#HadriansWall>,
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#11_suniv1_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#HadriansWall>,
         <http://hadrianswall.squirrel.link/ontology#Milefortlet>,
         <http://hadrianswall.squirrel.link/ontology#Minor_Road>,
         <http://hadrianswall.squirrel.link/ontology#Stanegate> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/11_suniv1_> .
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//11_suniv1_> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#12_geom> ns1:forClass <http://www.opengis.net/ont/sf#the_geom> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/12_geom> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#12_geom> ns1:forClass <http://www.opengis.net/ont/sf#the_geom> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//12_geom> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#12_suniv0_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Fort>,
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#12_suniv0_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Fort>,
         <http://hadrianswall.squirrel.link/ontology#RomanRoad>,
         <http://hadrianswall.squirrel.link/ontology#Tower>,
         <http://hadrianswall.squirrel.link/ontology#Wall_ditch> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/12_suniv0_> .
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//12_suniv0_> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#12_suniv1_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#CoastalSite>,
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#12_suniv1_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#CoastalSite>,
         <http://hadrianswall.squirrel.link/ontology#HadriansWall>,
         <http://hadrianswall.squirrel.link/ontology#Minor_Road>,
         <http://hadrianswall.squirrel.link/ontology#Stanegate> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/12_suniv1_> .
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//12_suniv1_> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#13_geom> ns1:forClass <http://www.opengis.net/ont/sf#the_geom> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/13_geom> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#13_geom> ns1:forClass <http://www.opengis.net/ont/sf#the_geom> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//13_geom> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#13_suniv0_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Fort>,
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#13_suniv0_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Fort>,
         <http://hadrianswall.squirrel.link/ontology#RomanRoad>,
         <http://hadrianswall.squirrel.link/ontology#Tower>,
         <http://hadrianswall.squirrel.link/ontology#Wall_ditch> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/13_suniv0_> .
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//13_suniv0_> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#13_suniv1_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#CoastalSite>,
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#13_suniv1_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#CoastalSite>,
         <http://hadrianswall.squirrel.link/ontology#Hadrian%27s_Wall>,
         <http://hadrianswall.squirrel.link/ontology#HadriansWall>,
         <http://hadrianswall.squirrel.link/ontology#Minor_Road> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/13_suniv1_> .
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//13_suniv1_> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#14_geom> ns1:forClass <http://www.opengis.net/ont/sf#the_geom> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/14_geom> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#14_geom> ns1:forClass <http://www.opengis.net/ont/sf#the_geom> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//14_geom> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#14_suniv0_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Fort>,
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#14_suniv0_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Fort>,
         <http://hadrianswall.squirrel.link/ontology#HadriansWall>,
         <http://hadrianswall.squirrel.link/ontology#RomanRoad>,
         <http://hadrianswall.squirrel.link/ontology#Tower> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/14_suniv0_> .
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//14_suniv0_> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#14_suniv1_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#CoastalSite>,
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#14_suniv1_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#CoastalSite>,
         <http://hadrianswall.squirrel.link/ontology#Minor_Road>,
         <http://hadrianswall.squirrel.link/ontology#Stanegate>,
         <http://hadrianswall.squirrel.link/ontology#Vallum> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/14_suniv1_> .
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//14_suniv1_> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#15_geom> ns1:forClass <http://www.opengis.net/ont/sf#the_geom> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/15_geom> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#15_geom> ns1:forClass <http://www.opengis.net/ont/sf#the_geom> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//15_geom> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#15_suniv0_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Fort>,
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#15_suniv0_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Fort>,
         <http://hadrianswall.squirrel.link/ontology#HadriansWall>,
         <http://hadrianswall.squirrel.link/ontology#Major_Road>,
         <http://hadrianswall.squirrel.link/ontology#Tower> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/15_suniv0_> .
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//15_suniv0_> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#15_suniv1_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#CoastalSite>,
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#15_suniv1_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#CoastalSite>,
         <http://hadrianswall.squirrel.link/ontology#Hadrian%27s_Wall>,
         <http://hadrianswall.squirrel.link/ontology#RomanRoad>,
         <http://hadrianswall.squirrel.link/ontology#Vallum> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/15_suniv1_> .
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//15_suniv1_> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#16_geom> ns1:forClass <http://www.opengis.net/ont/sf#the_geom> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/16_geom> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#16_geom> ns1:forClass <http://www.opengis.net/ont/sf#the_geom> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//16_geom> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#16_suniv0_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Fort>,
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#16_suniv0_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Fort>,
         <http://hadrianswall.squirrel.link/ontology#HadriansWall>,
         <http://hadrianswall.squirrel.link/ontology#Major_Road>,
         <http://hadrianswall.squirrel.link/ontology#Tower> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/16_suniv0_> .
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//16_suniv0_> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#16_suniv1_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#CoastalSite>,
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#16_suniv1_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#CoastalSite>,
         <http://hadrianswall.squirrel.link/ontology#Hadrian%27s_Wall>,
         <http://hadrianswall.squirrel.link/ontology#RomanRoad>,
         <http://hadrianswall.squirrel.link/ontology#Vallum> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/16_suniv1_> .
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//16_suniv1_> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#17_geom> ns1:forClass <http://www.opengis.net/ont/sf#the_geom> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/17_geom> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#17_geom> ns1:forClass <http://www.opengis.net/ont/sf#the_geom> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//17_geom> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#17_suniv0_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#CoastalSite>,
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#17_suniv0_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#CoastalSite>,
         <http://hadrianswall.squirrel.link/ontology#Fort>,
         <http://hadrianswall.squirrel.link/ontology#HadriansWall>,
         <http://hadrianswall.squirrel.link/ontology#Major_Road> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/17_suniv0_> .
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//17_suniv0_> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#17_suniv1_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Hadrian%27s_Wall>,
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#17_suniv1_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Hadrian%27s_Wall>,
         <http://hadrianswall.squirrel.link/ontology#Milefortlet>,
         <http://hadrianswall.squirrel.link/ontology#RomanRoad>,
         <http://hadrianswall.squirrel.link/ontology#Vallum> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/17_suniv1_> .
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//17_suniv1_> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#18_geom> ns1:forClass <http://www.opengis.net/ont/sf#the_geom> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/18_geom> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#18_geom> ns1:forClass <http://www.opengis.net/ont/sf#the_geom> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//18_geom> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#18_suniv0_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#CoastalSite>,
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#18_suniv0_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#CoastalSite>,
         <http://hadrianswall.squirrel.link/ontology#Fort>,
         <http://hadrianswall.squirrel.link/ontology#Major_Road>,
         <http://hadrianswall.squirrel.link/ontology#Wall_ditch> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/18_suniv0_> .
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//18_suniv0_> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#18_suniv1_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Hadrian%27s_Wall>,
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#18_suniv1_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Hadrian%27s_Wall>,
         <http://hadrianswall.squirrel.link/ontology#HadriansWall>,
         <http://hadrianswall.squirrel.link/ontology#Milefortlet>,
         <http://hadrianswall.squirrel.link/ontology#RomanRoad> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/18_suniv1_> .
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//18_suniv1_> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#19_geom> ns1:forClass <http://www.opengis.net/ont/sf#the_geom> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/19_geom> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#19_geom> ns1:forClass <http://www.opengis.net/ont/sf#the_geom> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//19_geom> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#19_suniv0_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#CoastalSite>,
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#19_suniv0_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#CoastalSite>,
         <http://hadrianswall.squirrel.link/ontology#Fort>,
         <http://hadrianswall.squirrel.link/ontology#Major_Road>,
         <http://hadrianswall.squirrel.link/ontology#Wall_ditch> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/19_suniv0_> .
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//19_suniv0_> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#19_suniv1_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Cumbrian_Coast>,
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#19_suniv1_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Cumbrian_Coast>,
         <http://hadrianswall.squirrel.link/ontology#HadriansWall>,
         <http://hadrianswall.squirrel.link/ontology#Milefortlet>,
         <http://hadrianswall.squirrel.link/ontology#RomanRoad> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/19_suniv1_> .
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//19_suniv1_> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#1_geom> ns1:forClass <http://www.opengis.net/ont/sf#the_geom> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/1_geom> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#1_geom> ns1:forClass <http://www.opengis.net/ont/sf#the_geom> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//1_geom> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#1_suniv0_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#CoastalSite>,
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#1_suniv0_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#CoastalSite>,
         <http://hadrianswall.squirrel.link/ontology#Fort>,
         <http://hadrianswall.squirrel.link/ontology#HadriansWall>,
         <http://hadrianswall.squirrel.link/ontology#Major_Road> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/1_suniv0_> .
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//1_suniv0_> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#1_suniv1_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Curtain_wall>,
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#1_suniv1_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Curtain_wall>,
         <http://hadrianswall.squirrel.link/ontology#Hadrian%27s_Wall>,
         <http://hadrianswall.squirrel.link/ontology#Milefortlet>,
         <http://hadrianswall.squirrel.link/ontology#RomanRoad> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/1_suniv1_> .
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//1_suniv1_> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#20_geom> ns1:forClass <http://www.opengis.net/ont/sf#the_geom> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/20_geom> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#20_geom> ns1:forClass <http://www.opengis.net/ont/sf#the_geom> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//20_geom> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#20_suniv0_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Fort>,
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#20_suniv0_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Fort>,
         <http://hadrianswall.squirrel.link/ontology#Major_Road>,
         <http://hadrianswall.squirrel.link/ontology#Tower>,
         <http://hadrianswall.squirrel.link/ontology#Wall_ditch> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/20_suniv0_> .
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//20_suniv0_> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#20_suniv1_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#CoastalSite>,
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#20_suniv1_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#CoastalSite>,
         <http://hadrianswall.squirrel.link/ontology#Cumbrian_Coast>,
         <http://hadrianswall.squirrel.link/ontology#HadriansWall>,
         <http://hadrianswall.squirrel.link/ontology#RomanRoad> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/20_suniv1_> .
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//20_suniv1_> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#21_geom> ns1:forClass <http://www.opengis.net/ont/sf#the_geom> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/21_geom> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#21_geom> ns1:forClass <http://www.opengis.net/ont/sf#the_geom> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//21_geom> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#21_suniv0_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#CoastalSite>,
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#21_suniv0_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#CoastalSite>,
         <http://hadrianswall.squirrel.link/ontology#Fort>,
         <http://hadrianswall.squirrel.link/ontology#Major_Road>,
         <http://hadrianswall.squirrel.link/ontology#Wall_ditch> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/21_suniv0_> .
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//21_suniv0_> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#21_suniv1_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Cumbrian_Coast>,
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#21_suniv1_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Cumbrian_Coast>,
         <http://hadrianswall.squirrel.link/ontology#HadriansWall>,
         <http://hadrianswall.squirrel.link/ontology#Milefortlet>,
         <http://hadrianswall.squirrel.link/ontology#RomanRoad> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/21_suniv1_> .
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//21_suniv1_> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#22_geom> ns1:forClass <http://www.opengis.net/ont/sf#the_geom> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/22_geom> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#22_geom> ns1:forClass <http://www.opengis.net/ont/sf#the_geom> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//22_geom> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#22_suniv0_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Fort>,
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#22_suniv0_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Fort>,
         <http://hadrianswall.squirrel.link/ontology#HadriansWall>,
         <http://hadrianswall.squirrel.link/ontology#Major_Road>,
         <http://hadrianswall.squirrel.link/ontology#Tower> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/22_suniv0_> .
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//22_suniv0_> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#22_suniv1_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#CoastalSite>,
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#22_suniv1_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#CoastalSite>,
         <http://hadrianswall.squirrel.link/ontology#Cumbrian_Coast>,
         <http://hadrianswall.squirrel.link/ontology#RomanRoad>,
         <http://hadrianswall.squirrel.link/ontology#Vallum> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/22_suniv1_> .
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//22_suniv1_> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#23_geom> ns1:forClass <http://www.opengis.net/ont/sf#the_geom> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/23_geom> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#23_geom> ns1:forClass <http://www.opengis.net/ont/sf#the_geom> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//23_geom> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#23_suniv0_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#CoastalSite>,
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#23_suniv0_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#CoastalSite>,
         <http://hadrianswall.squirrel.link/ontology#Fort>,
         <http://hadrianswall.squirrel.link/ontology#HadriansWall>,
         <http://hadrianswall.squirrel.link/ontology#Major_Road> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/23_suniv0_> .
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//23_suniv0_> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#23_suniv1_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Milefortlet>,
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#23_suniv1_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Milefortlet>,
         <http://hadrianswall.squirrel.link/ontology#RomanRoad>,
         <http://hadrianswall.squirrel.link/ontology#Stanegate>,
         <http://hadrianswall.squirrel.link/ontology#Vallum> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/23_suniv1_> .
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//23_suniv1_> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#24_geom> ns1:forClass <http://www.opengis.net/ont/sf#the_geom> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/24_geom> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#24_geom> ns1:forClass <http://www.opengis.net/ont/sf#the_geom> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//24_geom> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#24_suniv0_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#CoastalSite>,
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#24_suniv0_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#CoastalSite>,
         <http://hadrianswall.squirrel.link/ontology#Fort>,
         <http://hadrianswall.squirrel.link/ontology#HadriansWall>,
         <http://hadrianswall.squirrel.link/ontology#RomanRoad> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/24_suniv0_> .
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//24_suniv0_> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#24_suniv1_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Milefortlet>,
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#24_suniv1_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Milefortlet>,
         <http://hadrianswall.squirrel.link/ontology#Minor_Road>,
         <http://hadrianswall.squirrel.link/ontology#Stanegate>,
         <http://hadrianswall.squirrel.link/ontology#Vallum> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/24_suniv1_> .
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//24_suniv1_> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#25_geom> ns1:forClass <http://www.opengis.net/ont/sf#the_geom> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/25_geom> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#25_geom> ns1:forClass <http://www.opengis.net/ont/sf#the_geom> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//25_geom> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#25_suniv0_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Fort>,
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#25_suniv0_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Fort>,
         <http://hadrianswall.squirrel.link/ontology#HadriansWall>,
         <http://hadrianswall.squirrel.link/ontology#Major_Road>,
         <http://hadrianswall.squirrel.link/ontology#Tower> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/25_suniv0_> .
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//25_suniv0_> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#25_suniv1_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#CoastalSite>,
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#25_suniv1_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#CoastalSite>,
         <http://hadrianswall.squirrel.link/ontology#RomanRoad>,
         <http://hadrianswall.squirrel.link/ontology#Stanegate>,
         <http://hadrianswall.squirrel.link/ontology#Vallum> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/25_suniv1_> .
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//25_suniv1_> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#26_geom> ns1:forClass <http://www.opengis.net/ont/sf#the_geom> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/26_geom> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#26_geom> ns1:forClass <http://www.opengis.net/ont/sf#the_geom> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//26_geom> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#26_suniv0_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#HadriansWall>,
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#26_suniv0_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#HadriansWall>,
         <http://hadrianswall.squirrel.link/ontology#RomanRoad>,
         <http://hadrianswall.squirrel.link/ontology#Support_Fort>,
         <http://hadrianswall.squirrel.link/ontology#Tower> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/26_suniv0_> .
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//26_suniv0_> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#26_suniv1_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#CoastalSite>,
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#26_suniv1_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#CoastalSite>,
         <http://hadrianswall.squirrel.link/ontology#Curtain_wall>,
         <http://hadrianswall.squirrel.link/ontology#Fort>,
         <http://hadrianswall.squirrel.link/ontology#Minor_Road> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/26_suniv1_> .
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//26_suniv1_> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#27_geom> ns1:forClass <http://www.opengis.net/ont/sf#the_geom> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/27_geom> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#27_geom> ns1:forClass <http://www.opengis.net/ont/sf#the_geom> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//27_geom> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#27_suniv0_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#CoastalSite>,
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#27_suniv0_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#CoastalSite>,
         <http://hadrianswall.squirrel.link/ontology#HadriansWall>,
         <http://hadrianswall.squirrel.link/ontology#RomanRoad>,
         <http://hadrianswall.squirrel.link/ontology#Support_Fort> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/27_suniv0_> .
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//27_suniv0_> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#27_suniv1_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Fort>,
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#27_suniv1_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Fort>,
         <http://hadrianswall.squirrel.link/ontology#Milefortlet>,
         <http://hadrianswall.squirrel.link/ontology#Minor_Road>,
         <http://hadrianswall.squirrel.link/ontology#Vallum> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/27_suniv1_> .
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//27_suniv1_> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#28_geom> ns1:forClass <http://www.opengis.net/ont/sf#the_geom> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/28_geom> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#28_geom> ns1:forClass <http://www.opengis.net/ont/sf#the_geom> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//28_geom> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#28_suniv0_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#HadriansWall>,
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#28_suniv0_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#HadriansWall>,
         <http://hadrianswall.squirrel.link/ontology#Support_Fort>,
         <http://hadrianswall.squirrel.link/ontology#Tower> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/28_suniv0_> .
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//28_suniv0_> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#28_suniv1_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#CoastalSite>,
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#28_suniv1_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#CoastalSite>,
         <http://hadrianswall.squirrel.link/ontology#Curtain_wall>,
         <http://hadrianswall.squirrel.link/ontology#Fort> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/28_suniv1_> .
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//28_suniv1_> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#29_geom> ns1:forClass <http://www.opengis.net/ont/sf#the_geom> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/29_geom> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#29_geom> ns1:forClass <http://www.opengis.net/ont/sf#the_geom> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//29_geom> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#29_suniv0_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#HadriansWall>,
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#29_suniv0_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#HadriansWall>,
         <http://hadrianswall.squirrel.link/ontology#Support_Fort> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/29_suniv0_> .
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//29_suniv0_> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#29_suniv1_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Curtain_wall>,
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#29_suniv1_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Curtain_wall>,
         <http://hadrianswall.squirrel.link/ontology#Fort> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/29_suniv1_> .
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//29_suniv1_> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#2_geom> ns1:forClass <http://www.opengis.net/ont/sf#the_geom> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/2_geom> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#2_geom> ns1:forClass <http://www.opengis.net/ont/sf#the_geom> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//2_geom> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#2_suniv0_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Fort>,
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#2_suniv0_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Fort>,
         <http://hadrianswall.squirrel.link/ontology#Major_Road>,
         <http://hadrianswall.squirrel.link/ontology#Tower>,
         <http://hadrianswall.squirrel.link/ontology#Wall_ditch> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/2_suniv0_> .
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//2_suniv0_> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#2_suniv1_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#CoastalSite>,
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#2_suniv1_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#CoastalSite>,
         <http://hadrianswall.squirrel.link/ontology#Hadrian%27s_Wall>,
         <http://hadrianswall.squirrel.link/ontology#HadriansWall>,
         <http://hadrianswall.squirrel.link/ontology#RomanRoad> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/2_suniv1_> .
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//2_suniv1_> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#30_geom> ns1:forClass <http://www.opengis.net/ont/sf#the_geom> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/30_geom> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#30_geom> ns1:forClass <http://www.opengis.net/ont/sf#the_geom> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//30_geom> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#30_suniv0_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Support_Fort> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/30_suniv0_> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#30_suniv0_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Support_Fort> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//30_suniv0_> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#30_suniv1_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Fort> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/30_suniv1_> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#30_suniv1_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Fort> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//30_suniv1_> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#31_geom> ns1:forClass <http://www.opengis.net/ont/sf#the_geom> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/31_geom> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#31_geom> ns1:forClass <http://www.opengis.net/ont/sf#the_geom> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//31_geom> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#31_suniv0_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Support_Fort> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/31_suniv0_> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#31_suniv0_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Support_Fort> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//31_suniv0_> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#31_suniv1_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Fort> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/31_suniv1_> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#31_suniv1_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Fort> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//31_suniv1_> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#32_geom> ns1:forClass <http://www.opengis.net/ont/sf#the_geom> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/32_geom> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#32_geom> ns1:forClass <http://www.opengis.net/ont/sf#the_geom> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//32_geom> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#32_suniv0_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Fort> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/32_suniv0_> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#32_suniv0_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Fort> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//32_suniv0_> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#32_suniv1_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Outpost_Fort> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/32_suniv1_> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#32_suniv1_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Outpost_Fort> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//32_suniv1_> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#33_geom> ns1:forClass <http://www.opengis.net/ont/sf#the_geom> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/33_geom> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#33_geom> ns1:forClass <http://www.opengis.net/ont/sf#the_geom> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//33_geom> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#33_suniv0_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Fort> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/33_suniv0_> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#33_suniv0_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Fort> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//33_suniv0_> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#33_suniv1_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Outpost_Fort> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/33_suniv1_> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#33_suniv1_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Outpost_Fort> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//33_suniv1_> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#34_geom> ns1:forClass <http://www.opengis.net/ont/sf#the_geom> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/34_geom> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#34_geom> ns1:forClass <http://www.opengis.net/ont/sf#the_geom> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//34_geom> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#34_suniv0_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Fort> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/34_suniv0_> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#34_suniv0_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Fort> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//34_suniv0_> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#34_suniv1_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Outpost_Fort> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/34_suniv1_> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#34_suniv1_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Outpost_Fort> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//34_suniv1_> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#35_geom> ns1:forClass <http://www.opengis.net/ont/sf#the_geom> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/35_geom> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#35_geom> ns1:forClass <http://www.opengis.net/ont/sf#the_geom> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//35_geom> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#35_suniv0_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Fort> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/35_suniv0_> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#35_suniv0_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Fort> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//35_suniv0_> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#35_suniv1_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Outpost_Fort> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/35_suniv1_> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#35_suniv1_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Outpost_Fort> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//35_suniv1_> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#36_geom> ns1:forClass <http://www.opengis.net/ont/sf#the_geom> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/36_geom> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#36_geom> ns1:forClass <http://www.opengis.net/ont/sf#the_geom> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//36_geom> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#36_suniv0_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Fort> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/36_suniv0_> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#36_suniv0_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Fort> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//36_suniv0_> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#36_suniv1_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Outpost_Fort> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/36_suniv1_> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#36_suniv1_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Outpost_Fort> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//36_suniv1_> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#37_geom> ns1:forClass <http://www.opengis.net/ont/sf#the_geom> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/37_geom> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#37_geom> ns1:forClass <http://www.opengis.net/ont/sf#the_geom> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//37_geom> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#37_suniv0_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Support_Fort> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/37_suniv0_> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#37_suniv0_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Support_Fort> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//37_suniv0_> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#37_suniv1_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Fort> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/37_suniv1_> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#37_suniv1_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Fort> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//37_suniv1_> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#38_geom> ns1:forClass <http://www.opengis.net/ont/sf#the_geom> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/38_geom> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#38_geom> ns1:forClass <http://www.opengis.net/ont/sf#the_geom> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//38_geom> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#38_suniv0_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Support_Fort> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/38_suniv0_> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#38_suniv0_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Support_Fort> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//38_suniv0_> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#38_suniv1_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Fort> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/38_suniv1_> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#38_suniv1_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Fort> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//38_suniv1_> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#39_geom> ns1:forClass <http://www.opengis.net/ont/sf#the_geom> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/39_geom> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#39_geom> ns1:forClass <http://www.opengis.net/ont/sf#the_geom> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//39_geom> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#39_suniv0_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Support_Fort> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/39_suniv0_> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#39_suniv0_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Support_Fort> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//39_suniv0_> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#39_suniv1_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Fort> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/39_suniv1_> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#39_suniv1_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Fort> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//39_suniv1_> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#3_geom> ns1:forClass <http://www.opengis.net/ont/sf#the_geom> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/3_geom> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#3_geom> ns1:forClass <http://www.opengis.net/ont/sf#the_geom> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//3_geom> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#3_suniv0_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#CoastalSite>,
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#3_suniv0_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#CoastalSite>,
         <http://hadrianswall.squirrel.link/ontology#Fort>,
         <http://hadrianswall.squirrel.link/ontology#Major_Road>,
         <http://hadrianswall.squirrel.link/ontology#Wall_ditch> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/3_suniv0_> .
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//3_suniv0_> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#3_suniv1_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Hadrian%27s_Wall>,
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#3_suniv1_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Hadrian%27s_Wall>,
         <http://hadrianswall.squirrel.link/ontology#HadriansWall>,
         <http://hadrianswall.squirrel.link/ontology#Milefortlet>,
         <http://hadrianswall.squirrel.link/ontology#RomanRoad> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/3_suniv1_> .
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//3_suniv1_> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#40_geom> ns1:forClass <http://www.opengis.net/ont/sf#the_geom> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/40_geom> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#40_geom> ns1:forClass <http://www.opengis.net/ont/sf#the_geom> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//40_geom> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#40_suniv0_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Support_Fort> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/40_suniv0_> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#40_suniv0_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Support_Fort> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//40_suniv0_> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#40_suniv1_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Fort> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/40_suniv1_> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#40_suniv1_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Fort> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//40_suniv1_> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#4_geom> ns1:forClass <http://www.opengis.net/ont/sf#the_geom> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/4_geom> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#4_geom> ns1:forClass <http://www.opengis.net/ont/sf#the_geom> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//4_geom> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#4_suniv0_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Fort>,
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#4_suniv0_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Fort>,
         <http://hadrianswall.squirrel.link/ontology#Major_Road>,
         <http://hadrianswall.squirrel.link/ontology#Tower>,
         <http://hadrianswall.squirrel.link/ontology#Wall_ditch> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/4_suniv0_> .
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//4_suniv0_> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#4_suniv1_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#CoastalSite>,
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#4_suniv1_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#CoastalSite>,
         <http://hadrianswall.squirrel.link/ontology#Hadrian%27s_Wall>,
         <http://hadrianswall.squirrel.link/ontology#HadriansWall>,
         <http://hadrianswall.squirrel.link/ontology#RomanRoad> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/4_suniv1_> .
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//4_suniv1_> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#5_geom> ns1:forClass <http://www.opengis.net/ont/sf#the_geom> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/5_geom> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#5_geom> ns1:forClass <http://www.opengis.net/ont/sf#the_geom> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//5_geom> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#5_suniv0_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Fort>,
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#5_suniv0_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Fort>,
         <http://hadrianswall.squirrel.link/ontology#Major_Road>,
         <http://hadrianswall.squirrel.link/ontology#Tower>,
         <http://hadrianswall.squirrel.link/ontology#Wall_ditch> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/5_suniv0_> .
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//5_suniv0_> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#5_suniv1_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#CoastalSite>,
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#5_suniv1_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#CoastalSite>,
         <http://hadrianswall.squirrel.link/ontology#Hadrian%27s_Wall>,
         <http://hadrianswall.squirrel.link/ontology#HadriansWall>,
         <http://hadrianswall.squirrel.link/ontology#RomanRoad> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/5_suniv1_> .
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//5_suniv1_> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#6_geom> ns1:forClass <http://www.opengis.net/ont/sf#the_geom> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/6_geom> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#6_geom> ns1:forClass <http://www.opengis.net/ont/sf#the_geom> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//6_geom> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#6_suniv0_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#CoastalSite>,
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#6_suniv0_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#CoastalSite>,
         <http://hadrianswall.squirrel.link/ontology#Fort>,
         <http://hadrianswall.squirrel.link/ontology#RomanRoad> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/6_suniv0_> .
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//6_suniv0_> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#6_suniv1_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Hadrian%27s_Wall>,
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#6_suniv1_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Hadrian%27s_Wall>,
         <http://hadrianswall.squirrel.link/ontology#Milefortlet>,
         <http://hadrianswall.squirrel.link/ontology#Minor_Road> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/6_suniv1_> .
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//6_suniv1_> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#7_geom> ns1:forClass <http://www.opengis.net/ont/sf#the_geom> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/7_geom> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#7_geom> ns1:forClass <http://www.opengis.net/ont/sf#the_geom> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//7_geom> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#7_suniv0_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Fort>,
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#7_suniv0_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Fort>,
         <http://hadrianswall.squirrel.link/ontology#RomanRoad>,
         <http://hadrianswall.squirrel.link/ontology#Tower> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/7_suniv0_> .
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//7_suniv0_> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#7_suniv1_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#CoastalSite>,
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#7_suniv1_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#CoastalSite>,
         <http://hadrianswall.squirrel.link/ontology#Hadrian%27s_Wall>,
         <http://hadrianswall.squirrel.link/ontology#Minor_Road> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/7_suniv1_> .
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//7_suniv1_> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#8_geom> ns1:forClass <http://www.opengis.net/ont/sf#the_geom> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/8_geom> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#8_geom> ns1:forClass <http://www.opengis.net/ont/sf#the_geom> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//8_geom> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#8_suniv0_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Fort>,
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#8_suniv0_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Fort>,
         <http://hadrianswall.squirrel.link/ontology#RomanRoad>,
         <http://hadrianswall.squirrel.link/ontology#Tower>,
         <http://hadrianswall.squirrel.link/ontology#Wall_ditch> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/8_suniv0_> .
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//8_suniv0_> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#8_suniv1_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#CoastalSite>,
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#8_suniv1_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#CoastalSite>,
         <http://hadrianswall.squirrel.link/ontology#Hadrian%27s_Wall>,
         <http://hadrianswall.squirrel.link/ontology#HadriansWall>,
         <http://hadrianswall.squirrel.link/ontology#Minor_Road> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/8_suniv1_> .
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//8_suniv1_> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#9_geom> ns1:forClass <http://www.opengis.net/ont/sf#the_geom> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/9_geom> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#9_geom> ns1:forClass <http://www.opengis.net/ont/sf#the_geom> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//9_geom> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#9_suniv0_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#CoastalSite>,
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#9_suniv0_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#CoastalSite>,
         <http://hadrianswall.squirrel.link/ontology#Fort>,
         <http://hadrianswall.squirrel.link/ontology#RomanRoad>,
         <http://hadrianswall.squirrel.link/ontology#Wall_ditch> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/9_suniv0_> .
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//9_suniv0_> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#9_suniv1_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Hadrian%27s_Wall>,
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#9_suniv1_> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Hadrian%27s_Wall>,
         <http://hadrianswall.squirrel.link/ontology#HadriansWall>,
         <http://hadrianswall.squirrel.link/ontology#Milefortlet>,
         <http://hadrianswall.squirrel.link/ontology#Minor_Road> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/9_suniv1_> .
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//9_suniv1_> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#CoastalSite> ns1:forClass geo:Feature ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/CoastalSite> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#CoastalSite> ns1:forClass geo:Feature ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//CoastalSite> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#CoastalSite_collection> ns1:forClass geo:FeatureCollection ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/CoastalSite_collection> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#CoastalSite_collection> ns1:forClass geo:FeatureCollection ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//CoastalSite_collection> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#Cumbrian_Coast> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Fort> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/Cumbrian_Coast> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#Cumbrian_Coast> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Fort> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//Cumbrian_Coast> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#Cumbrian_Coast_collection> ns1:forClass geo:FeatureCollection ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/Cumbrian_Coast_collection> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#Cumbrian_Coast_collection> ns1:forClass geo:FeatureCollection ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//Cumbrian_Coast_collection> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#Curtain_wall> ns1:forClass <http://hadrianswall.squirrel.link/ontology#HadriansWall> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/Curtain_wall> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#Curtain_wall> ns1:forClass <http://hadrianswall.squirrel.link/ontology#HadriansWall> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//Curtain_wall> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#Curtain_wall_collection> ns1:forClass geo:FeatureCollection ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/Curtain_wall_collection> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#Curtain_wall_collection> ns1:forClass geo:FeatureCollection ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//Curtain_wall_collection> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#Feature> ns1:forClass geo:SpatialObject ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/Feature> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#Feature> ns1:forClass geo:SpatialObject ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//Feature> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#FeatureCollection> ns1:forClass geo:SpatialObjectCollection ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/FeatureCollection> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#FeatureCollection> ns1:forClass geo:SpatialObjectCollection ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//FeatureCollection> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#Fort> ns1:forClass geo:Feature ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/Fort> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#Fort> ns1:forClass geo:Feature ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//Fort> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#Fort_collection> ns1:forClass geo:FeatureCollection ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/Fort_collection> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#Fort_collection> ns1:forClass geo:FeatureCollection ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//Fort_collection> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#Geometry> ns1:forClass geo:SpatialObject ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/Geometry> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#Geometry> ns1:forClass geo:SpatialObject ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//Geometry> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#GeometryCollection> ns1:forClass geo:SpatialObjectCollection ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/GeometryCollection> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#GeometryCollection> ns1:forClass geo:SpatialObjectCollection ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//GeometryCollection> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#Hadrian%27s_Wall> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Fort> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/Hadrian%27s_Wall> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#Hadrian%27s_Wall> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Fort> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//Hadrian%27s_Wall> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#Hadrian%27s_Wall_collection> ns1:forClass geo:FeatureCollection ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/Hadrian%27s_Wall_collection> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#Hadrian%27s_Wall_collection> ns1:forClass geo:FeatureCollection ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//Hadrian%27s_Wall_collection> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#HadriansWall> ns1:forClass geo:Feature ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/HadriansWall> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#HadriansWall> ns1:forClass geo:Feature ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//HadriansWall> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#HadriansWall_collection> ns1:forClass geo:FeatureCollection ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/HadriansWall_collection> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#HadriansWall_collection> ns1:forClass geo:FeatureCollection ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//HadriansWall_collection> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#Major_Road> ns1:forClass <http://hadrianswall.squirrel.link/ontology#RomanRoad> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/Major_Road> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#Major_Road> ns1:forClass <http://hadrianswall.squirrel.link/ontology#RomanRoad> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//Major_Road> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#Major_Road_collection> ns1:forClass geo:FeatureCollection ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/Major_Road_collection> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#Major_Road_collection> ns1:forClass geo:FeatureCollection ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//Major_Road_collection> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#Milefortlet> ns1:forClass <http://hadrianswall.squirrel.link/ontology#CoastalSite> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/Milefortlet> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#Milefortlet> ns1:forClass <http://hadrianswall.squirrel.link/ontology#CoastalSite> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//Milefortlet> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#Milefortlet_collection> ns1:forClass geo:FeatureCollection ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/Milefortlet_collection> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#Milefortlet_collection> ns1:forClass geo:FeatureCollection ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//Milefortlet_collection> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#Minor_Road> ns1:forClass <http://hadrianswall.squirrel.link/ontology#RomanRoad> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/Minor_Road> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#Minor_Road> ns1:forClass <http://hadrianswall.squirrel.link/ontology#RomanRoad> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//Minor_Road> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#Minor_Road_collection> ns1:forClass geo:FeatureCollection ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/Minor_Road_collection> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#Minor_Road_collection> ns1:forClass geo:FeatureCollection ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//Minor_Road_collection> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#Outpost_Fort> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Fort> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/Outpost_Fort> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#Outpost_Fort> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Fort> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//Outpost_Fort> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#Outpost_Fort_collection> ns1:forClass geo:FeatureCollection ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/Outpost_Fort_collection> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#Outpost_Fort_collection> ns1:forClass geo:FeatureCollection ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//Outpost_Fort_collection> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#RomanRoad> ns1:forClass geo:Feature ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/RomanRoad> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#RomanRoad> ns1:forClass geo:Feature ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//RomanRoad> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#RomanRoad_collection> ns1:forClass geo:FeatureCollection ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/RomanRoad_collection> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#RomanRoad_collection> ns1:forClass geo:FeatureCollection ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//RomanRoad_collection> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#SpatialObject> ns1:forClass <#> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/SpatialObject> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#SpatialObject> ns1:forClass <#> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//SpatialObject> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#SpatialObjectCollection> ns1:forClass <#> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/SpatialObjectCollection> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#SpatialObjectCollection> ns1:forClass <#> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//SpatialObjectCollection> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#Stanegate> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Fort> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/Stanegate> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#Stanegate> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Fort> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//Stanegate> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#Stanegate_collection> ns1:forClass geo:FeatureCollection ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/Stanegate_collection> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#Stanegate_collection> ns1:forClass geo:FeatureCollection ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//Stanegate_collection> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#Support_Fort> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Fort> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/Support_Fort> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#Support_Fort> ns1:forClass <http://hadrianswall.squirrel.link/ontology#Fort> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//Support_Fort> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#Support_Fort_collection> ns1:forClass geo:FeatureCollection ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/Support_Fort_collection> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#Support_Fort_collection> ns1:forClass geo:FeatureCollection ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//Support_Fort_collection> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#Tower> ns1:forClass <http://hadrianswall.squirrel.link/ontology#CoastalSite> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/Tower> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#Tower> ns1:forClass <http://hadrianswall.squirrel.link/ontology#CoastalSite> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//Tower> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#Tower_collection> ns1:forClass geo:FeatureCollection ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/Tower_collection> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#Tower_collection> ns1:forClass geo:FeatureCollection ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//Tower_collection> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#Vallum> ns1:forClass <http://hadrianswall.squirrel.link/ontology#HadriansWall> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/Vallum> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#Vallum> ns1:forClass <http://hadrianswall.squirrel.link/ontology#HadriansWall> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//Vallum> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#Vallum_collection> ns1:forClass geo:FeatureCollection ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/Vallum_collection> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#Vallum_collection> ns1:forClass geo:FeatureCollection ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//Vallum_collection> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#Wall_ditch> ns1:forClass <http://hadrianswall.squirrel.link/ontology#HadriansWall> ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/Wall_ditch> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#Wall_ditch> ns1:forClass <http://hadrianswall.squirrel.link/ontology#HadriansWall> ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//Wall_ditch> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#Wall_ditch_collection> ns1:forClass geo:FeatureCollection ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/Wall_ditch_collection> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#Wall_ditch_collection> ns1:forClass geo:FeatureCollection ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//Wall_ditch_collection> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#the_geom> ns1:forClass geo:Geometry ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/the_geom> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#the_geom> ns1:forClass geo:Geometry ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//the_geom> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/publicTypeIndex.ttl#the_geom_collection> ns1:forClass geo:GeometryCollection ;
-    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall/the_geom_collection> .
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/publicTypeIndex.ttl#the_geom_collection> ns1:forClass geo:GeometryCollection ;
+    ns1:instance <https://Research-Squirrel-Engineers.github.io/HadriansWall//the_geom_collection> .
 

@@ -1,1 +1,1 @@
-{"http://www.opengis.net/ont/geosparql#asWKT": ["<http://www.opengis.net/def/crs/EPSG/0/4326> POINT (-3.446023073076322 54.74980487103721)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#the_geom"]}
+{"http://rdfs.org/ns/void#inDataset": ["http://hadrianswall.squirrel.link/data/haw_dataset"], "http://www.opengis.net/ont/geosparql#asWKT": ["<http://www.opengis.net/def/crs/EPSG/0/4326> POINT (-3.446023073076322 54.74980487103721)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#the_geom"]}

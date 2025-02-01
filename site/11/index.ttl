@@ -2,11 +2,15 @@
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
 @prefix ns1: <http://www.spp-haefen.de/ontology#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
 
 <http://hadrianswall.squirrel.link/data/site/11> a <http://hadrianswall.squirrel.link/ontology#CoastalSite>,
-        <http://hadrianswall.squirrel.link/ontology#Milefortlet> ;
+        <http://hadrianswall.squirrel.link/ontology#Milefortlet>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Milefortlet 12 (Blitterlees)" ;
     dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://hadrianswall.squirrel.link/data/haw_dataset> ;
     geo:hasGeometry <http://hadrianswall.squirrel.link/data/site/11_geom> ;
     ns1:name "Blitterlees",
         "Milefortlet 12",

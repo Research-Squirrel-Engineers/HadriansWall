@@ -1,8 +1,12 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix void: <http://rdfs.org/ns/void#> .
 
 <http://hadrianswall.squirrel.link/data/wall/9> a <http://hadrianswall.squirrel.link/ontology#HadriansWall>,
-        <http://hadrianswall.squirrel.link/ontology#Wall_ditch> ;
+        <http://hadrianswall.squirrel.link/ontology#Wall_ditch>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://hadrianswall.squirrel.link/data/haw_dataset> ;
     geo:hasGeometry <http://hadrianswall.squirrel.link/data/wall/9_geom> .
 

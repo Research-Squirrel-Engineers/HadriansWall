@@ -1,0 +1,177 @@
+@prefix brick: <https://brickschema.org/schema/Brick#> .
+@prefix csvw: <http://www.w3.org/ns/csvw#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcam: <http://purl.org/dc/dcam/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix dcmitype: <http://purl.org/dc/dcmitype/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix doap: <http://usefulinc.com/ns/doap#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://ldf.fi/void-ext#> .
+@prefix odrl: <http://www.w3.org/ns/odrl/2/> .
+@prefix org: <http://www.w3.org/ns/org#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix prof: <http://www.w3.org/ns/dx/prof/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix qb: <http://purl.org/linked-data/cube#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix sosa: <http://www.w3.org/ns/sosa/> .
+@prefix ssn: <http://www.w3.org/ns/ssn/> .
+@prefix time: <http://www.w3.org/2006/time#> .
+@prefix vann: <http://purl.org/vocab/vann/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix wgs: <https://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://hadrianswall.squirrel.link/data/haw_dataset> a void:Dataset,
+        <http://www.w3.org/ns/adms#Asset>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "haw_dataset"@en ;
+    ns1:averageLiteralLength 29,
+        32,
+        279,
+        1916 ;
+    ns1:averageObjectIRILength 48 ;
+    ns1:averagePropertyIRILength 43,
+        44,
+        45,
+        46 ;
+    ns1:averageSubjectIRILength 48,
+        49 ;
+    ns1:datatypes 1 ;
+    ns1:distinctBlankNodes 0 ;
+    ns1:distinctIRIReferences 145,
+        214,
+        236,
+        293 ;
+    ns1:distinctLiterals 32,
+        91,
+        115,
+        125 ;
+    ns1:distinctRDFNodes 177,
+        305,
+        351,
+        418 ;
+    ns1:languages 1 ;
+    ns1:propertyClasses 0 ;
+    dc:language <http://www.lexvo.org/page/iso639-1/en> ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    dcterms:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    dcterms:modified "2025-02-01T00:55:11"^^xsd:dateTime ;
+    dcterms:subject <http://dbpedia.org/resource/Location>,
+        <http://dbpedia.org/resource/OGC_GeoSPARQL>,
+        <http://dbpedia.org/resource/Time>,
+        <http://www.wikidata.org/entity/Q121810372>,
+        foaf:Person ;
+    dcterms:title "haw_dataset"@en ;
+    vann:preferredNamespacePrefix "haw"^^xsd:string ;
+    vann:preferredNamespaceUri "http://hadrianswall.squirrel.link/data/"^^xsd:anyURI ;
+    void:classPartition <http://hadrianswall.squirrel.link/data/haw_dataset_CoastalSite>,
+        <http://hadrianswall.squirrel.link/data/haw_dataset_Cumbrian_Coast>,
+        <http://hadrianswall.squirrel.link/data/haw_dataset_Curtain_wall>,
+        <http://hadrianswall.squirrel.link/data/haw_dataset_Feature>,
+        <http://hadrianswall.squirrel.link/data/haw_dataset_FeatureCollection>,
+        <http://hadrianswall.squirrel.link/data/haw_dataset_Fort>,
+        <http://hadrianswall.squirrel.link/data/haw_dataset_Geometry>,
+        <http://hadrianswall.squirrel.link/data/haw_dataset_GeometryCollection>,
+        <http://hadrianswall.squirrel.link/data/haw_dataset_Hadrian%27s_Wall>,
+        <http://hadrianswall.squirrel.link/data/haw_dataset_HadriansWall>,
+        <http://hadrianswall.squirrel.link/data/haw_dataset_Major_Road>,
+        <http://hadrianswall.squirrel.link/data/haw_dataset_Milefortlet>,
+        <http://hadrianswall.squirrel.link/data/haw_dataset_Minor_Road>,
+        <http://hadrianswall.squirrel.link/data/haw_dataset_Outpost_Fort>,
+        <http://hadrianswall.squirrel.link/data/haw_dataset_RomanRoad>,
+        <http://hadrianswall.squirrel.link/data/haw_dataset_SpatialObject>,
+        <http://hadrianswall.squirrel.link/data/haw_dataset_SpatialObjectCollection>,
+        <http://hadrianswall.squirrel.link/data/haw_dataset_Stanegate>,
+        <http://hadrianswall.squirrel.link/data/haw_dataset_Support_Fort>,
+        <http://hadrianswall.squirrel.link/data/haw_dataset_Tower>,
+        <http://hadrianswall.squirrel.link/data/haw_dataset_Vallum>,
+        <http://hadrianswall.squirrel.link/data/haw_dataset_Wall_ditch>,
+        <http://hadrianswall.squirrel.link/data/haw_dataset_the_geom> ;
+    void:classes 10,
+        11,
+        13 ;
+    void:dataDump <https://Research-Squirrel-Engineers.github.io/HadriansWall//index.ttl> ;
+    void:distinctObjects 68,
+        131,
+        155,
+        180 ;
+    void:distinctSubjects 72,
+        74,
+        105 ;
+    void:entities 59,
+        60,
+        61,
+        88 ;
+    void:feature <http://www.w3.org/ns/formats/RDFa>,
+        <http://www.w3.org/ns/formats/Turtle> ;
+    void:properties 5,
+        7,
+        8,
+        9 ;
+    void:propertyPartition <http://hadrianswall.squirrel.link/data/haw_dataset_asWKT>,
+        <http://hadrianswall.squirrel.link/data/haw_dataset_from_to>,
+        <http://hadrianswall.squirrel.link/data/haw_dataset_hasGeometry>,
+        <http://hadrianswall.squirrel.link/data/haw_dataset_label>,
+        <http://hadrianswall.squirrel.link/data/haw_dataset_latin_name>,
+        <http://hadrianswall.squirrel.link/data/haw_dataset_margary_re>,
+        <http://hadrianswall.squirrel.link/data/haw_dataset_name>,
+        <http://hadrianswall.squirrel.link/data/haw_dataset_range>,
+        <http://hadrianswall.squirrel.link/data/haw_dataset_road_name>,
+        <http://hadrianswall.squirrel.link/data/haw_dataset_subClassOf>,
+        <http://hadrianswall.squirrel.link/data/haw_dataset_type> ;
+    void:triples 308,
+        421,
+        429,
+        578 ;
+    void:uriSpace "http://hadrianswall.squirrel.link/data/"^^xsd:string ;
+    void:vocabulary ns1:,
+        dcam:,
+        dcmitype:,
+        dc:,
+        dcterms:,
+        qb:,
+        vann:,
+        <http://purl.org/vocommons/voaf#>,
+        void:,
+        doap:,
+        geo:,
+        rdf:,
+        rdfs:,
+        xsd:,
+        owl:,
+        skos:,
+        time:,
+        xml:,
+        <http://www.w3.org/ns/adms#>,
+        csvw:,
+        dcat:,
+        prof:,
+        odrl:,
+        org:,
+        prov:,
+        sh:,
+        sosa:,
+        ssn:,
+        foaf:,
+        brick:,
+        schema:,
+        wgs: ;
+    dcat:distribution <http://hadrianswall.squirrel.link/data/haw_dataset_dist_ttl> ;
+    dcat:keyword "Location"@en,
+        "OGC GeoSPARQL"@en,
+        "Person"@en,
+        "Q121810372"@en,
+        "Time"@en ;
+    dcat:landingPage <https://Research-Squirrel-Engineers.github.io/HadriansWall/> ;
+    foaf:homepage <https://Research-Squirrel-Engineers.github.io/HadriansWall/> ;
+    foaf:page <https://Research-Squirrel-Engineers.github.io/HadriansWall//index.html> .
+

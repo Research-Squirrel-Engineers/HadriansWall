@@ -1,6 +1,6 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-<https://Research-Squirrel-Engineers.github.io/HadriansWall/settings/privateTypeIndex.ttl> a <http://www.w3.org/ns/ldp#RDFResource>,
+<https://Research-Squirrel-Engineers.github.io/HadriansWall//settings/privateTypeIndex.ttl> a <http://www.w3.org/ns/ldp#RDFResource>,
         <http://www.w3.org/ns/solid/terms#ListedDocument>,
         <http://www.w3.org/ns/solid/terms#TypeIndex> ;
     rdfs:label "Private Type Index"@en ;

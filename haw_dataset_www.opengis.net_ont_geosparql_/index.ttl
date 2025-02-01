@@ -1,0 +1,19 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://hadrianswall.squirrel.link/data/haw_dataset_www.opengis.net_ont_geosparql_> a void:Linkset,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Linkset: haw_dataset - The GeoSPARQL Ontology (gsp:)"@en ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:linkPredicate rdf:type ;
+    void:objectsTarget geo: ;
+    void:subjectsTarget <http://hadrianswall.squirrel.link/data/haw_dataset> ;
+    void:triples 4,
+        5,
+        7 .
+

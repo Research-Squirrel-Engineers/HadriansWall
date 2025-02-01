@@ -46,189 +46,189 @@ var tree={
         "id": "http://hadrianswall.squirrel.link/data/road/4_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "4_geom",
+        "text": "4_geom (4_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/road/25_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "25_geom",
+        "text": "25_geom (25_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/road/7_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "7_geom",
+        "text": "7_geom (7_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/road/10_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "10_geom",
+        "text": "10_geom (10_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/road/6_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "6_geom",
+        "text": "6_geom (6_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/road/27_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "27_geom",
+        "text": "27_geom (27_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/road/9_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "9_geom",
+        "text": "9_geom (9_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/road/12_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "12_geom",
+        "text": "12_geom (12_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/road/8_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "8_geom",
+        "text": "8_geom (8_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/road/11_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "11_geom",
+        "text": "11_geom (11_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/road/14_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "14_geom",
+        "text": "14_geom (14_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/road/20_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "20_geom",
+        "text": "20_geom (20_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/road/13_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "13_geom",
+        "text": "13_geom (13_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/road/16_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "16_geom",
+        "text": "16_geom (16_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/road/1_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "1_geom",
+        "text": "1_geom (1_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/road/22_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "22_geom",
+        "text": "22_geom (22_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/road/15_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "15_geom",
+        "text": "15_geom (15_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/road/21_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "21_geom",
+        "text": "21_geom (21_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/road/18_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "18_geom",
+        "text": "18_geom (18_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/road/3_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "3_geom",
+        "text": "3_geom (3_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/road/24_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "24_geom",
+        "text": "24_geom (24_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/road/17_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "17_geom",
+        "text": "17_geom (17_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/road/2_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "2_geom",
+        "text": "2_geom (2_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/road/23_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "23_geom",
+        "text": "23_geom (23_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/road/5_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "5_geom",
+        "text": "5_geom (5_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/road/26_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "26_geom",
+        "text": "26_geom (26_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/road/19_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "19_geom",
+        "text": "19_geom (19_geom)",
         "data": {}
       },
       {
@@ -238,6 +238,13 @@ var tree={
         "text": "the_geom (sf:the_geom) [122]",
         "data": {
           "to": {
+            "http://rdfs.org/ns/void#inDataset": {
+              "instancecount": 1,
+              "http://rdfs.org/ns/void#Dataset": 1,
+              "http://www.w3.org/ns/adms#Asset": 1,
+              "http://www.w3.org/ns/ldp#Resource": 1,
+              "https://www.iana.org/assignments/media-types/text/turtle#Resource": 1
+            },
             "http://www.opengis.net/ont/geosparql#asWKT": {
               "instancecount": 1
             },
@@ -254,11 +261,13 @@ var tree={
             },
             "http://www.w3.org/2000/01/rdf-schema#member": {
               "instancecount": 0,
-              "http://www.opengis.net/ont/geosparql#GeometryCollection": 1
+              "http://www.opengis.net/ont/geosparql#GeometryCollection": 1,
+              "http://www.w3.org/ns/ldp#Resource": 1,
+              "https://www.iana.org/assignments/media-types/text/turtle#Resource": 1
             }
           }
         },
-        "instancecount": 2
+        "instancecount": 3
       },
       {
         "id": "http://www.opengis.net/ont/geosparql#Geometry",
@@ -376,16 +385,23 @@ var tree={
         "id": "http://hadrianswall.squirrel.link/ontology#Major_Road",
         "parent": "http://hadrianswall.squirrel.link/ontology#RomanRoad",
         "type": "geoclass",
-        "text": "Major_Road [15]",
+        "text": "Major_Road (Major_Road) [15]",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/ontology#RomanRoad",
         "parent": "http://www.opengis.net/ont/geosparql#Feature",
         "type": "geoclass",
-        "text": "RomanRoad [27]",
+        "text": "RomanRoad (RomanRoad) [27]",
         "data": {
           "to": {
+            "http://rdfs.org/ns/void#inDataset": {
+              "instancecount": 1,
+              "http://rdfs.org/ns/void#Dataset": 1,
+              "http://www.w3.org/ns/adms#Asset": 1,
+              "http://www.w3.org/ns/ldp#Resource": 1,
+              "https://www.iana.org/assignments/media-types/text/turtle#Resource": 1
+            },
             "http://www.opengis.net/ont/geosparql#hasGeometry": {
               "instancecount": 1,
               "http://www.opengis.net/ont/sf#the_geom": 1
@@ -414,7 +430,7 @@ var tree={
             }
           }
         },
-        "instancecount": 7
+        "instancecount": 8
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/road/15_suniv1_",
@@ -700,9 +716,16 @@ var tree={
         "id": "http://hadrianswall.squirrel.link/ontology#Minor_Road",
         "parent": "http://hadrianswall.squirrel.link/ontology#RomanRoad",
         "type": "geoclass",
-        "text": "Minor_Road [12]",
+        "text": "Minor_Road (Minor_Road) [12]",
         "data": {
           "to": {
+            "http://rdfs.org/ns/void#inDataset": {
+              "instancecount": 1,
+              "http://rdfs.org/ns/void#Dataset": 1,
+              "http://www.w3.org/ns/adms#Asset": 1,
+              "http://www.w3.org/ns/ldp#Resource": 1,
+              "https://www.iana.org/assignments/media-types/text/turtle#Resource": 1
+            },
             "http://www.opengis.net/ont/geosparql#hasGeometry": {
               "instancecount": 1,
               "http://www.opengis.net/ont/sf#the_geom": 1
@@ -731,7 +754,7 @@ var tree={
             }
           }
         },
-        "instancecount": 7
+        "instancecount": 8
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/the_geom_collection",
@@ -744,14 +767,19 @@ var tree={
         "id": "http://www.opengis.net/ont/geosparql#GeometryCollection",
         "parent": "http://www.opengis.net/ont/geosparql#SpatialObjectCollection",
         "type": "collectionclass",
-        "text": "GeometryCollection (gsp:GeometryCollection) [1]",
+        "text": "GeometryCollection (gsp:GeometryCollection) [4]",
         "data": {
           "to": {
             "http://purl.org/dc/elements/1.1/license": {
               "instancecount": 1
             },
+            "http://rdfs.org/ns/void#inDataset": {
+              "instancecount": 1,
+              "http://rdfs.org/ns/void#Dataset": 1,
+              "http://www.w3.org/ns/adms#Asset": 1
+            },
             "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
-              "instancecount": 1
+              "instancecount": 3
             },
             "http://www.w3.org/2000/01/rdf-schema#label": {
               "instancecount": 1
@@ -763,7 +791,7 @@ var tree={
           },
           "from": {}
         },
-        "instancecount": 126
+        "instancecount": 129
       },
       {
         "id": "http://www.opengis.net/ont/geosparql#SpatialObjectCollection",
@@ -800,6 +828,11 @@ var tree={
         "text": "FeatureCollection (gsp:FeatureCollection) [16]",
         "data": {
           "to": {
+            "http://rdfs.org/ns/void#inDataset": {
+              "instancecount": 1,
+              "http://rdfs.org/ns/void#Dataset": 1,
+              "http://www.w3.org/ns/adms#Asset": 1
+            },
             "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
               "instancecount": 1
             },
@@ -807,14 +840,14 @@ var tree={
               "instancecount": 1
             },
             "http://www.w3.org/2000/01/rdf-schema#member": {
-              "instancecount": 12,
-              "http://hadrianswall.squirrel.link/ontology#Minor_Road": 12,
-              "http://hadrianswall.squirrel.link/ontology#RomanRoad": 12
+              "instancecount": 15,
+              "http://hadrianswall.squirrel.link/ontology#Major_Road": 15,
+              "http://hadrianswall.squirrel.link/ontology#RomanRoad": 15
             }
           },
           "from": {}
         },
-        "instancecount": 15
+        "instancecount": 19
       },
       {
         "id": "http://www.opengis.net/ont/geosparql#SpatialObject",
@@ -827,114 +860,121 @@ var tree={
         "id": "http://hadrianswall.squirrel.link/data/wall/10_suniv0_",
         "parent": "http://hadrianswall.squirrel.link/ontology#Wall_ditch",
         "type": "geoinstance",
-        "text": "10",
+        "text": "10 (10)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/wall/8_suniv0_",
         "parent": "http://hadrianswall.squirrel.link/ontology#Wall_ditch",
         "type": "geoinstance",
-        "text": "8",
+        "text": "8 (8)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/wall/2_suniv0_",
         "parent": "http://hadrianswall.squirrel.link/ontology#Wall_ditch",
         "type": "geoinstance",
-        "text": "2",
+        "text": "2 (2)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/wall/21_suniv0_",
         "parent": "http://hadrianswall.squirrel.link/ontology#Wall_ditch",
         "type": "geoinstance",
-        "text": "21",
+        "text": "21 (21)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/wall/19_suniv0_",
         "parent": "http://hadrianswall.squirrel.link/ontology#Wall_ditch",
         "type": "geoinstance",
-        "text": "19",
+        "text": "19 (19)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/wall/13_suniv0_",
         "parent": "http://hadrianswall.squirrel.link/ontology#Wall_ditch",
         "type": "geoinstance",
-        "text": "13",
+        "text": "13 (13)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/wall/20_suniv0_",
         "parent": "http://hadrianswall.squirrel.link/ontology#Wall_ditch",
         "type": "geoinstance",
-        "text": "20",
+        "text": "20 (20)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/wall/18_suniv0_",
         "parent": "http://hadrianswall.squirrel.link/ontology#Wall_ditch",
         "type": "geoinstance",
-        "text": "18",
+        "text": "18 (18)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/wall/5_suniv0_",
         "parent": "http://hadrianswall.squirrel.link/ontology#Wall_ditch",
         "type": "geoinstance",
-        "text": "5",
+        "text": "5 (5)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/wall/12_suniv0_",
         "parent": "http://hadrianswall.squirrel.link/ontology#Wall_ditch",
         "type": "geoinstance",
-        "text": "12",
+        "text": "12 (12)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/wall/4_suniv0_",
         "parent": "http://hadrianswall.squirrel.link/ontology#Wall_ditch",
         "type": "geoinstance",
-        "text": "4",
+        "text": "4 (4)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/wall/11_suniv0_",
         "parent": "http://hadrianswall.squirrel.link/ontology#Wall_ditch",
         "type": "geoinstance",
-        "text": "11",
+        "text": "11 (11)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/wall/9_suniv0_",
         "parent": "http://hadrianswall.squirrel.link/ontology#Wall_ditch",
         "type": "geoinstance",
-        "text": "9",
+        "text": "9 (9)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/wall/3_suniv0_",
         "parent": "http://hadrianswall.squirrel.link/ontology#Wall_ditch",
         "type": "geoinstance",
-        "text": "3",
+        "text": "3 (3)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/ontology#Wall_ditch",
         "parent": "http://hadrianswall.squirrel.link/ontology#HadriansWall",
         "type": "geoclass",
-        "text": "Wall_ditch [14]",
+        "text": "Wall_ditch (Wall_ditch) [14]",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/ontology#HadriansWall",
         "parent": "http://www.opengis.net/ont/geosparql#Feature",
         "type": "geoclass",
-        "text": "HadriansWall [27]",
+        "text": "HadriansWall (HadriansWall) [27]",
         "data": {
           "to": {
+            "http://rdfs.org/ns/void#inDataset": {
+              "instancecount": 1,
+              "http://rdfs.org/ns/void#Dataset": 1,
+              "http://www.w3.org/ns/adms#Asset": 1,
+              "http://www.w3.org/ns/ldp#Resource": 1,
+              "https://www.iana.org/assignments/media-types/text/turtle#Resource": 1
+            },
             "http://www.opengis.net/ont/geosparql#hasGeometry": {
               "instancecount": 1,
               "http://www.opengis.net/ont/sf#the_geom": 1
@@ -951,267 +991,274 @@ var tree={
             }
           }
         },
-        "instancecount": 3
+        "instancecount": 4
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/wall/10_suniv1_",
         "parent": "http://hadrianswall.squirrel.link/ontology#HadriansWall",
         "type": "geoinstance",
-        "text": "10",
+        "text": "10 (10)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/wall/23_suniv0_",
         "parent": "http://hadrianswall.squirrel.link/ontology#HadriansWall",
         "type": "geoinstance",
-        "text": "23",
+        "text": "23 (23)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/wall/8_suniv1_",
         "parent": "http://hadrianswall.squirrel.link/ontology#HadriansWall",
         "type": "geoinstance",
-        "text": "8",
+        "text": "8 (8)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/wall/15_suniv0_",
         "parent": "http://hadrianswall.squirrel.link/ontology#HadriansWall",
         "type": "geoinstance",
-        "text": "15",
+        "text": "15 (15)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/wall/28_suniv0_",
         "parent": "http://hadrianswall.squirrel.link/ontology#HadriansWall",
         "type": "geoinstance",
-        "text": "28",
+        "text": "28 (28)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/wall/2_suniv1_",
         "parent": "http://hadrianswall.squirrel.link/ontology#HadriansWall",
         "type": "geoinstance",
-        "text": "2",
+        "text": "2 (2)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/wall/22_suniv0_",
         "parent": "http://hadrianswall.squirrel.link/ontology#HadriansWall",
         "type": "geoinstance",
-        "text": "22",
+        "text": "22 (22)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/wall/14_suniv0_",
         "parent": "http://hadrianswall.squirrel.link/ontology#HadriansWall",
         "type": "geoinstance",
-        "text": "14",
+        "text": "14 (14)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/wall/27_suniv0_",
         "parent": "http://hadrianswall.squirrel.link/ontology#HadriansWall",
         "type": "geoinstance",
-        "text": "27",
+        "text": "27 (27)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/wall/1_suniv0_",
         "parent": "http://hadrianswall.squirrel.link/ontology#HadriansWall",
         "type": "geoinstance",
-        "text": "1",
+        "text": "1 (1)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/wall/21_suniv1_",
         "parent": "http://hadrianswall.squirrel.link/ontology#HadriansWall",
         "type": "geoinstance",
-        "text": "21",
+        "text": "21 (21)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/wall/19_suniv1_",
         "parent": "http://hadrianswall.squirrel.link/ontology#HadriansWall",
         "type": "geoinstance",
-        "text": "19",
+        "text": "19 (19)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/wall/13_suniv1_",
         "parent": "http://hadrianswall.squirrel.link/ontology#HadriansWall",
         "type": "geoinstance",
-        "text": "13",
+        "text": "13 (13)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/wall/26_suniv0_",
         "parent": "http://hadrianswall.squirrel.link/ontology#HadriansWall",
         "type": "geoinstance",
-        "text": "26",
+        "text": "26 (26)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/wall/20_suniv1_",
         "parent": "http://hadrianswall.squirrel.link/ontology#HadriansWall",
         "type": "geoinstance",
-        "text": "20",
+        "text": "20 (20)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/wall/18_suniv1_",
         "parent": "http://hadrianswall.squirrel.link/ontology#HadriansWall",
         "type": "geoinstance",
-        "text": "18",
+        "text": "18 (18)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/wall/5_suniv1_",
         "parent": "http://hadrianswall.squirrel.link/ontology#HadriansWall",
         "type": "geoinstance",
-        "text": "5",
+        "text": "5 (5)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/wall/12_suniv1_",
         "parent": "http://hadrianswall.squirrel.link/ontology#HadriansWall",
         "type": "geoinstance",
-        "text": "12",
+        "text": "12 (12)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/wall/25_suniv0_",
         "parent": "http://hadrianswall.squirrel.link/ontology#HadriansWall",
         "type": "geoinstance",
-        "text": "25",
+        "text": "25 (25)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/wall/17_suniv0_",
         "parent": "http://hadrianswall.squirrel.link/ontology#HadriansWall",
         "type": "geoinstance",
-        "text": "17",
+        "text": "17 (17)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/wall/4_suniv1_",
         "parent": "http://hadrianswall.squirrel.link/ontology#HadriansWall",
         "type": "geoinstance",
-        "text": "4",
+        "text": "4 (4)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/wall/11_suniv1_",
         "parent": "http://hadrianswall.squirrel.link/ontology#HadriansWall",
         "type": "geoinstance",
-        "text": "11",
+        "text": "11 (11)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/wall/24_suniv0_",
         "parent": "http://hadrianswall.squirrel.link/ontology#HadriansWall",
         "type": "geoinstance",
-        "text": "24",
+        "text": "24 (24)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/wall/9_suniv1_",
         "parent": "http://hadrianswall.squirrel.link/ontology#HadriansWall",
         "type": "geoinstance",
-        "text": "9",
+        "text": "9 (9)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/wall/16_suniv0_",
         "parent": "http://hadrianswall.squirrel.link/ontology#HadriansWall",
         "type": "geoinstance",
-        "text": "16",
+        "text": "16 (16)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/wall/29_suniv0_",
         "parent": "http://hadrianswall.squirrel.link/ontology#HadriansWall",
         "type": "geoinstance",
-        "text": "29",
+        "text": "29 (29)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/wall/3_suniv1_",
         "parent": "http://hadrianswall.squirrel.link/ontology#HadriansWall",
         "type": "geoinstance",
-        "text": "3",
+        "text": "3 (3)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/wall/23_suniv1_",
         "parent": "http://hadrianswall.squirrel.link/ontology#Vallum",
         "type": "geoinstance",
-        "text": "23",
+        "text": "23 (23)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/wall/15_suniv1_",
         "parent": "http://hadrianswall.squirrel.link/ontology#Vallum",
         "type": "geoinstance",
-        "text": "15",
+        "text": "15 (15)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/wall/22_suniv1_",
         "parent": "http://hadrianswall.squirrel.link/ontology#Vallum",
         "type": "geoinstance",
-        "text": "22",
+        "text": "22 (22)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/wall/14_suniv1_",
         "parent": "http://hadrianswall.squirrel.link/ontology#Vallum",
         "type": "geoinstance",
-        "text": "14",
+        "text": "14 (14)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/wall/27_suniv1_",
         "parent": "http://hadrianswall.squirrel.link/ontology#Vallum",
         "type": "geoinstance",
-        "text": "27",
+        "text": "27 (27)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/wall/25_suniv1_",
         "parent": "http://hadrianswall.squirrel.link/ontology#Vallum",
         "type": "geoinstance",
-        "text": "25",
+        "text": "25 (25)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/wall/17_suniv1_",
         "parent": "http://hadrianswall.squirrel.link/ontology#Vallum",
         "type": "geoinstance",
-        "text": "17",
+        "text": "17 (17)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/wall/24_suniv1_",
         "parent": "http://hadrianswall.squirrel.link/ontology#Vallum",
         "type": "geoinstance",
-        "text": "24",
+        "text": "24 (24)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/wall/16_suniv1_",
         "parent": "http://hadrianswall.squirrel.link/ontology#Vallum",
         "type": "geoinstance",
-        "text": "16",
+        "text": "16 (16)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/ontology#Vallum",
         "parent": "http://hadrianswall.squirrel.link/ontology#HadriansWall",
         "type": "geoclass",
-        "text": "Vallum [9]",
+        "text": "Vallum (Vallum) [9]",
         "data": {
           "to": {
+            "http://rdfs.org/ns/void#inDataset": {
+              "instancecount": 1,
+              "http://rdfs.org/ns/void#Dataset": 1,
+              "http://www.w3.org/ns/adms#Asset": 1,
+              "http://www.w3.org/ns/ldp#Resource": 1,
+              "https://www.iana.org/assignments/media-types/text/turtle#Resource": 1
+            },
             "http://www.opengis.net/ont/geosparql#hasGeometry": {
               "instancecount": 1,
               "http://www.opengis.net/ont/sf#the_geom": 1
@@ -1228,232 +1275,239 @@ var tree={
             }
           }
         },
-        "instancecount": 3
+        "instancecount": 4
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/wall/9_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "9_geom",
+        "text": "9_geom (9_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/wall/13_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "13_geom",
+        "text": "13_geom (13_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/wall/8_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "8_geom",
+        "text": "8_geom (8_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/wall/12_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "12_geom",
+        "text": "12_geom (12_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/wall/15_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "15_geom",
+        "text": "15_geom (15_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/wall/21_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "21_geom",
+        "text": "21_geom (21_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/wall/14_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "14_geom",
+        "text": "14_geom (14_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/wall/20_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "20_geom",
+        "text": "20_geom (20_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/wall/17_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "17_geom",
+        "text": "17_geom (17_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/wall/23_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "23_geom",
+        "text": "23_geom (23_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/wall/1_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "1_geom",
+        "text": "1_geom (1_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/wall/16_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "16_geom",
+        "text": "16_geom (16_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/wall/22_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "22_geom",
+        "text": "22_geom (22_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/wall/19_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "19_geom",
+        "text": "19_geom (19_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/wall/25_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "25_geom",
+        "text": "25_geom (25_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/wall/3_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "3_geom",
+        "text": "3_geom (3_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/wall/18_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "18_geom",
+        "text": "18_geom (18_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/wall/24_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "24_geom",
+        "text": "24_geom (24_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/wall/2_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "2_geom",
+        "text": "2_geom (2_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/wall/27_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "27_geom",
+        "text": "27_geom (27_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/wall/5_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "5_geom",
+        "text": "5_geom (5_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/wall/26_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "26_geom",
+        "text": "26_geom (26_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/wall/4_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "4_geom",
+        "text": "4_geom (4_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/wall/29_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "29_geom",
+        "text": "29_geom (29_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/wall/11_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "11_geom",
+        "text": "11_geom (11_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/wall/28_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "28_geom",
+        "text": "28_geom (28_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/wall/10_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "10_geom",
+        "text": "10_geom (10_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/wall/28_suniv1_",
         "parent": "http://hadrianswall.squirrel.link/ontology#Curtain_wall",
         "type": "geoinstance",
-        "text": "28",
+        "text": "28 (28)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/wall/1_suniv1_",
         "parent": "http://hadrianswall.squirrel.link/ontology#Curtain_wall",
         "type": "geoinstance",
-        "text": "1",
+        "text": "1 (1)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/wall/26_suniv1_",
         "parent": "http://hadrianswall.squirrel.link/ontology#Curtain_wall",
         "type": "geoinstance",
-        "text": "26",
+        "text": "26 (26)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/wall/29_suniv1_",
         "parent": "http://hadrianswall.squirrel.link/ontology#Curtain_wall",
         "type": "geoinstance",
-        "text": "29",
+        "text": "29 (29)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/ontology#Curtain_wall",
         "parent": "http://hadrianswall.squirrel.link/ontology#HadriansWall",
         "type": "geoclass",
-        "text": "Curtain_wall [4]",
+        "text": "Curtain_wall (Curtain_wall) [4]",
         "data": {
           "to": {
+            "http://rdfs.org/ns/void#inDataset": {
+              "instancecount": 1,
+              "http://rdfs.org/ns/void#Dataset": 1,
+              "http://www.w3.org/ns/adms#Asset": 1,
+              "http://www.w3.org/ns/ldp#Resource": 1,
+              "https://www.iana.org/assignments/media-types/text/turtle#Resource": 1
+            },
             "http://www.opengis.net/ont/geosparql#hasGeometry": {
               "instancecount": 1,
               "http://www.opengis.net/ont/sf#the_geom": 1
@@ -1470,7 +1524,7 @@ var tree={
             }
           }
         },
-        "instancecount": 3
+        "instancecount": 4
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/Wall_ditch_collection",
@@ -1501,283 +1555,290 @@ var tree={
         "data": {}
       },
       {
+        "id": "http://hadrianswall.squirrel.link/data/the_geom_collection",
+        "parent": "http://www.opengis.net/ont/geosparql#GeometryCollection",
+        "type": "geocollection",
+        "text": "the_geom Instances Collection (the_geom_collection)",
+        "data": {}
+      },
+      {
         "id": "http://hadrianswall.squirrel.link/data/fort/26_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "26_geom",
+        "text": "26_geom (26_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/fort/32_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "32_geom",
+        "text": "32_geom (32_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/fort/8_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "8_geom",
+        "text": "8_geom (8_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/fort/25_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "25_geom",
+        "text": "25_geom (25_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/fort/31_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "31_geom",
+        "text": "31_geom (31_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/fort/7_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "7_geom",
+        "text": "7_geom (7_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/fort/28_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "28_geom",
+        "text": "28_geom (28_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/fort/10_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "10_geom",
+        "text": "10_geom (10_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/fort/34_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "34_geom",
+        "text": "34_geom (34_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/fort/27_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "27_geom",
+        "text": "27_geom (27_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/fort/40_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "40_geom",
+        "text": "40_geom (40_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/fort/33_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "33_geom",
+        "text": "33_geom (33_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/fort/9_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "9_geom",
+        "text": "9_geom (9_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/fort/12_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "12_geom",
+        "text": "12_geom (12_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/fort/36_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "36_geom",
+        "text": "36_geom (36_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/fort/29_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "29_geom",
+        "text": "29_geom (29_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/fort/11_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "11_geom",
+        "text": "11_geom (11_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/fort/35_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "35_geom",
+        "text": "35_geom (35_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/fort/14_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "14_geom",
+        "text": "14_geom (14_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/fort/38_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "38_geom",
+        "text": "38_geom (38_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/fort/20_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "20_geom",
+        "text": "20_geom (20_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/fort/13_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "13_geom",
+        "text": "13_geom (13_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/fort/37_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "37_geom",
+        "text": "37_geom (37_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/fort/2_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "2_geom",
+        "text": "2_geom (2_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/fort/17_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "17_geom",
+        "text": "17_geom (17_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/fort/1_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "1_geom",
+        "text": "1_geom (1_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/fort/16_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "16_geom",
+        "text": "16_geom (16_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/fort/22_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "22_geom",
+        "text": "22_geom (22_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/fort/15_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "15_geom",
+        "text": "15_geom (15_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/fort/39_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "39_geom",
+        "text": "39_geom (39_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/fort/4_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "4_geom",
+        "text": "4_geom (4_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/fort/21_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "21_geom",
+        "text": "21_geom (21_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/fort/19_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "19_geom",
+        "text": "19_geom (19_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/fort/3_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "3_geom",
+        "text": "3_geom (3_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/fort/18_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "18_geom",
+        "text": "18_geom (18_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/fort/24_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "24_geom",
+        "text": "24_geom (24_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/fort/30_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "30_geom",
+        "text": "30_geom (30_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/fort/6_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "6_geom",
+        "text": "6_geom (6_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/fort/23_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "23_geom",
+        "text": "23_geom (23_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/fort/5_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "5_geom",
+        "text": "5_geom (5_geom)",
         "data": {}
       },
       {
@@ -1854,14 +1915,14 @@ var tree={
         "id": "http://hadrianswall.squirrel.link/ontology#Support_Fort",
         "parent": "http://hadrianswall.squirrel.link/ontology#Fort",
         "type": "geoclass",
-        "text": "Support_Fort [10]",
+        "text": "Support_Fort (Support_Fort) [10]",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/ontology#Fort",
         "parent": "http://www.opengis.net/ont/geosparql#Feature",
         "type": "geoclass",
-        "text": "Fort [40]",
+        "text": "Fort (Fort) [40]",
         "data": {
           "to": {
             "http://hadrianswall.squirrel.link/ontology#latin_name": {
@@ -1869,6 +1930,13 @@ var tree={
             },
             "http://hadrianswall.squirrel.link/ontology#name": {
               "instancecount": 1
+            },
+            "http://rdfs.org/ns/void#inDataset": {
+              "instancecount": 1,
+              "http://rdfs.org/ns/void#Dataset": 1,
+              "http://www.w3.org/ns/adms#Asset": 1,
+              "http://www.w3.org/ns/ldp#Resource": 1,
+              "https://www.iana.org/assignments/media-types/text/turtle#Resource": 1
             },
             "http://www.opengis.net/ont/geosparql#hasGeometry": {
               "instancecount": 1,
@@ -1889,7 +1957,7 @@ var tree={
             }
           }
         },
-        "instancecount": 6
+        "instancecount": 7
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/fort/31_suniv1_",
@@ -2280,7 +2348,7 @@ var tree={
         "id": "http://hadrianswall.squirrel.link/ontology#Hadrian%27s_Wall",
         "parent": "http://hadrianswall.squirrel.link/ontology#Fort",
         "type": "geoclass",
-        "text": "Hadrian%27s_Wall [15]",
+        "text": "Hadrian%27s_Wall (Hadrian%27s_Wall) [15]",
         "data": {
           "to": {
             "http://hadrianswall.squirrel.link/ontology#latin_name": {
@@ -2288,6 +2356,13 @@ var tree={
             },
             "http://hadrianswall.squirrel.link/ontology#name": {
               "instancecount": 1
+            },
+            "http://rdfs.org/ns/void#inDataset": {
+              "instancecount": 1,
+              "http://rdfs.org/ns/void#Dataset": 1,
+              "http://www.w3.org/ns/adms#Asset": 1,
+              "http://www.w3.org/ns/ldp#Resource": 1,
+              "https://www.iana.org/assignments/media-types/text/turtle#Resource": 1
             },
             "http://www.opengis.net/ont/geosparql#hasGeometry": {
               "instancecount": 1,
@@ -2308,7 +2383,7 @@ var tree={
             }
           }
         },
-        "instancecount": 6
+        "instancecount": 7
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/fort/23_suniv1_",
@@ -2356,7 +2431,7 @@ var tree={
         "id": "http://hadrianswall.squirrel.link/ontology#Stanegate",
         "parent": "http://hadrianswall.squirrel.link/ontology#Fort",
         "type": "geoclass",
-        "text": "Stanegate [6]",
+        "text": "Stanegate (Stanegate) [6]",
         "data": {
           "to": {
             "http://hadrianswall.squirrel.link/ontology#latin_name": {
@@ -2364,6 +2439,13 @@ var tree={
             },
             "http://hadrianswall.squirrel.link/ontology#name": {
               "instancecount": 1
+            },
+            "http://rdfs.org/ns/void#inDataset": {
+              "instancecount": 1,
+              "http://rdfs.org/ns/void#Dataset": 1,
+              "http://www.w3.org/ns/adms#Asset": 1,
+              "http://www.w3.org/ns/ldp#Resource": 1,
+              "https://www.iana.org/assignments/media-types/text/turtle#Resource": 1
             },
             "http://www.opengis.net/ont/geosparql#hasGeometry": {
               "instancecount": 1,
@@ -2384,7 +2466,7 @@ var tree={
             }
           }
         },
-        "instancecount": 6
+        "instancecount": 7
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/fort/36_suniv1_",
@@ -2425,7 +2507,7 @@ var tree={
         "id": "http://hadrianswall.squirrel.link/ontology#Outpost_Fort",
         "parent": "http://hadrianswall.squirrel.link/ontology#Fort",
         "type": "geoclass",
-        "text": "Outpost_Fort [5]",
+        "text": "Outpost_Fort (Outpost_Fort) [5]",
         "data": {
           "to": {
             "http://hadrianswall.squirrel.link/ontology#latin_name": {
@@ -2433,6 +2515,13 @@ var tree={
             },
             "http://hadrianswall.squirrel.link/ontology#name": {
               "instancecount": 1
+            },
+            "http://rdfs.org/ns/void#inDataset": {
+              "instancecount": 1,
+              "http://rdfs.org/ns/void#Dataset": 1,
+              "http://www.w3.org/ns/adms#Asset": 1,
+              "http://www.w3.org/ns/ldp#Resource": 1,
+              "https://www.iana.org/assignments/media-types/text/turtle#Resource": 1
             },
             "http://www.opengis.net/ont/geosparql#hasGeometry": {
               "instancecount": 1,
@@ -2453,7 +2542,7 @@ var tree={
             }
           }
         },
-        "instancecount": 6
+        "instancecount": 7
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/fort/22_suniv1_",
@@ -2487,7 +2576,7 @@ var tree={
         "id": "http://hadrianswall.squirrel.link/ontology#Cumbrian_Coast",
         "parent": "http://hadrianswall.squirrel.link/ontology#Fort",
         "type": "geoclass",
-        "text": "Cumbrian_Coast [4]",
+        "text": "Cumbrian_Coast (Cumbrian_Coast) [4]",
         "data": {
           "to": {
             "http://hadrianswall.squirrel.link/ontology#latin_name": {
@@ -2495,6 +2584,13 @@ var tree={
             },
             "http://hadrianswall.squirrel.link/ontology#name": {
               "instancecount": 1
+            },
+            "http://rdfs.org/ns/void#inDataset": {
+              "instancecount": 1,
+              "http://rdfs.org/ns/void#Dataset": 1,
+              "http://www.w3.org/ns/adms#Asset": 1,
+              "http://www.w3.org/ns/ldp#Resource": 1,
+              "https://www.iana.org/assignments/media-types/text/turtle#Resource": 1
             },
             "http://www.opengis.net/ont/geosparql#hasGeometry": {
               "instancecount": 1,
@@ -2515,7 +2611,14 @@ var tree={
             }
           }
         },
-        "instancecount": 6
+        "instancecount": 7
+      },
+      {
+        "id": "http://hadrianswall.squirrel.link/data/the_geom_collection",
+        "parent": "http://www.opengis.net/ont/geosparql#GeometryCollection",
+        "type": "geocollection",
+        "text": "the_geom Instances Collection (the_geom_collection)",
+        "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/Support_Fort_collection",
@@ -2563,196 +2666,196 @@ var tree={
         "id": "http://hadrianswall.squirrel.link/data/site/2_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "2_geom",
+        "text": "2_geom (2_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/site/21_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "21_geom",
+        "text": "21_geom (21_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/site/1_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "1_geom",
+        "text": "1_geom (1_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/site/20_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "20_geom",
+        "text": "20_geom (20_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/site/18_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "18_geom",
+        "text": "18_geom (18_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/site/17_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "17_geom",
+        "text": "17_geom (17_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/site/4_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "4_geom",
+        "text": "4_geom (4_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/site/23_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "23_geom",
+        "text": "23_geom (23_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/site/3_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "3_geom",
+        "text": "3_geom (3_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/site/22_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "22_geom",
+        "text": "22_geom (22_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/site/26_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "26_geom",
+        "text": "26_geom (26_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/site/19_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "19_geom",
+        "text": "19_geom (19_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/site/6_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "6_geom",
+        "text": "6_geom (6_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/site/25_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "25_geom",
+        "text": "25_geom (25_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/site/5_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "5_geom",
+        "text": "5_geom (5_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/site/24_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "24_geom",
+        "text": "24_geom (24_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/site/28_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "28_geom",
+        "text": "28_geom (28_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/site/8_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "8_geom",
+        "text": "8_geom (8_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/site/27_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "27_geom",
+        "text": "27_geom (27_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/site/7_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "7_geom",
+        "text": "7_geom (7_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/site/12_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "12_geom",
+        "text": "12_geom (12_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/site/11_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "11_geom",
+        "text": "11_geom (11_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/site/9_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "9_geom",
+        "text": "9_geom (9_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/site/10_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "10_geom",
+        "text": "10_geom (10_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/site/14_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "14_geom",
+        "text": "14_geom (14_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/site/13_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "13_geom",
+        "text": "13_geom (13_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/site/16_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "16_geom",
+        "text": "16_geom (16_geom)",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/site/15_geom",
         "parent": "http://www.opengis.net/ont/sf#the_geom",
         "type": "geoinstance",
-        "text": "15_geom",
+        "text": "15_geom (15_geom)",
         "data": {}
       },
       {
@@ -2864,16 +2967,21 @@ var tree={
         "id": "http://hadrianswall.squirrel.link/ontology#Tower",
         "parent": "http://hadrianswall.squirrel.link/ontology#CoastalSite",
         "type": "geoclass",
-        "text": "Tower [15]",
+        "text": "Tower (Tower) [15]",
         "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/ontology#CoastalSite",
         "parent": "http://www.opengis.net/ont/geosparql#Feature",
         "type": "geoclass",
-        "text": "CoastalSite [28]",
+        "text": "CoastalSite (CoastalSite) [28]",
         "data": {
           "to": {
+            "http://rdfs.org/ns/void#inDataset": {
+              "instancecount": 1,
+              "http://rdfs.org/ns/void#Dataset": 1,
+              "http://www.w3.org/ns/adms#Asset": 1
+            },
             "http://www.opengis.net/ont/geosparql#hasGeometry": {
               "instancecount": 1,
               "http://www.opengis.net/ont/sf#the_geom": 1
@@ -2896,7 +3004,7 @@ var tree={
             }
           }
         },
-        "instancecount": 7
+        "instancecount": 8
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/site/15_suniv1_",
@@ -3189,9 +3297,14 @@ var tree={
         "id": "http://hadrianswall.squirrel.link/ontology#Milefortlet",
         "parent": "http://hadrianswall.squirrel.link/ontology#CoastalSite",
         "type": "geoclass",
-        "text": "Milefortlet [13]",
+        "text": "Milefortlet (Milefortlet) [13]",
         "data": {
           "to": {
+            "http://rdfs.org/ns/void#inDataset": {
+              "instancecount": 1,
+              "http://rdfs.org/ns/void#Dataset": 1,
+              "http://www.w3.org/ns/adms#Asset": 1
+            },
             "http://www.opengis.net/ont/geosparql#hasGeometry": {
               "instancecount": 1,
               "http://www.opengis.net/ont/sf#the_geom": 1
@@ -3214,7 +3327,14 @@ var tree={
             }
           }
         },
-        "instancecount": 7
+        "instancecount": 8
+      },
+      {
+        "id": "http://hadrianswall.squirrel.link/data/the_geom_collection",
+        "parent": "http://www.opengis.net/ont/geosparql#GeometryCollection",
+        "type": "geocollection",
+        "text": "the_geom Instances Collection (the_geom_collection)",
+        "data": {}
       },
       {
         "id": "http://hadrianswall.squirrel.link/data/Tower_collection",
@@ -3238,5 +3358,44 @@ var tree={
         "data": {}
       }
     ]
+  },
+  "@context": {
+    "@version": 1.1,
+    "foaf": "http://xmlns.com/foaf/0.1/",
+    "ct": "http://purl.org/vocab/classtree#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "icon": "foaf:image",
+    "id": "@id",
+    "parent": "rdfs:subClassOf",
+    "halfgeoclass": "ct:HalfGeoClass",
+    "geoclass": {
+      "@type": "ct:icontype",
+      "@id": "ct:GeoClass"
+    },
+    "collectionclass": {
+      "@type": "ct:icontype",
+      "@id": "ct:CollectionClass"
+    },
+    "featurecollectionclass": {
+      "@type": "ct:icontype",
+      "@id": "ct:FeatureCollectionClass"
+    },
+    "class": "owl:Class",
+    "instance": "owl:NamedIndividual",
+    "geoinstance": {
+      "@type": "ct:Icontype",
+      "@id": "ct:GeoNamedIndividual"
+    },
+    "text": "rdfs:label",
+    "type": "ct:icontype",
+    "types": "ct:icontypes",
+    "core": {
+      "@type": "ct:TreeConfig",
+      "@id": "@nest"
+    },
+    "data": {
+      "@id": "ct:treeitem",
+      "@type": "ct:TreeItem"
+    }
   }
 }

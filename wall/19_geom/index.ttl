@@ -1,7 +1,11 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix void: <http://rdfs.org/ns/void#> .
 
-<http://hadrianswall.squirrel.link/data/wall/19_geom> a <http://www.opengis.net/ont/sf#the_geom> ;
+<http://hadrianswall.squirrel.link/data/wall/19_geom> a <http://www.opengis.net/ont/sf#the_geom>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://hadrianswall.squirrel.link/data/haw_dataset> ;
     geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> MULTILINESTRING ((-3.014161035405218 54.9224501266896, -3.015096591807043 54.92285381432567, -3.015901351116852 54.92315840144666, -3.017297852595591 54.92372593735651, -3.018669806363015 54.9243007968036, -3.021007792673749 54.924285455128405, -3.024368487836934 54.92425717094774, -3.026371696831505 54.92422742710836, -3.029780378469745 54.92384763159026, -3.033858808220132 54.92341068431799, -3.037267347717697 54.92303068026602, -3.041959960390564 54.9224997636286, -3.043597590726531 54.92232164472714))"^^geo:wktLiteral .
 

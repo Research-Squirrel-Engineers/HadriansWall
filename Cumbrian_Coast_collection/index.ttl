@@ -1,10 +1,14 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
 
-<http://hadrianswall.squirrel.link/data/Cumbrian_Coast_collection> a geo:FeatureCollection ;
-    rdfs:label "Cumbrian_Coast Instances Collection" ;
+<http://hadrianswall.squirrel.link/data/Cumbrian_Coast_collection> a geo:FeatureCollection,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Cumbrian_Coast Instances Collection"@en ;
     dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://hadrianswall.squirrel.link/data/haw_dataset> ;
     rdfs:member <http://hadrianswall.squirrel.link/data/fort/19>,
         <http://hadrianswall.squirrel.link/data/fort/20>,
         <http://hadrianswall.squirrel.link/data/fort/21>,
