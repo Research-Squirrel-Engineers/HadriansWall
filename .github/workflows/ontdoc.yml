@@ -18,7 +18,7 @@ jobs:
 
     uses: sparqlunicorn/sparqlunicornGoesGIS-ontdoc/.github/workflows/udoc.yml@main
     with: 
-        version: v017dev
+        version: v017
         rdffilepath: ttl/coastal_sites_hw_result.ttl ttl/forts_hw_result.ttl ttl/hadrians_wall_result.ttl ttl/roman_roads_hw_result.ttl
         docpath: docs
         prefixns: http://hadrianswall.squirrel.link/data/
